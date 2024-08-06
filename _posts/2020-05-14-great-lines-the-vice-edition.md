@@ -1,5 +1,5 @@
 ---
-categories great-lines
+categories: great-lines
 title: "Great Lines: The Vice Edition"
 ---
 
