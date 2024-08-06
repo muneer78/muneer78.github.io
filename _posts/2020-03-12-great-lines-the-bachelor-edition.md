@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
 categories: great-lines, newsletter
-=======
-categories: great-lines
->>>>>>> master
 title: "Great Lines: The Bachelor Edition"
 ---
 
