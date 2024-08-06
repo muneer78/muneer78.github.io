@@ -1,3 +1,8 @@
+---
+categories: personal
+published: false
+---
+
 *   Ramanujan
 *   Aroostook War
 *   Joan Pujol Garcia
@@ -7,5 +12,5 @@
 *   Leo Major
 *   Nobuo Fujita
 *   Mansa MusaI
-*   nca khipu
+*   Inca khipu
 

@@ -1,8 +1,6 @@
 ---
 categories: memes
+title: Happy Father's Day
 ---
 
-![fathersday][fathersday]
-
-<!-- Images -->
-[fathersday]: /sites/default/files/bestdadjpg
+![fathersday](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/bestdad.jpg)
