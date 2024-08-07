@@ -1,6 +1,5 @@
 ---
 categories: entertainment
-title
 ---
 
 [anfscu-blog on tumblr](https://www.tumblr.com/anfscu-blog) did a great series of posts on TV tropes. Here are all the posts:
