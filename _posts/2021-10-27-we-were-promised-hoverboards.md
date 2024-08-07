@@ -4,7 +4,7 @@ categories: entertainment
 
 [anfscu-blog on tumblr](https://www.tumblr.com/anfscu-blog) did a great series of posts on TV tropes. Here are all the posts:
 ___
-## Rescue as Aphrodisiac
+### Rescue as Aphrodisiac
 
 The Myth: If you rescue a woman, she will fall in love (or at least go to bed) with you
 
