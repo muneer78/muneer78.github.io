@@ -1,9 +1,10 @@
 ---
 categories: entertainment
 title
+---
 
 [anfscu-blog on tumblr](https://www.tumblr.com/anfscu-blog) did a great series of posts on TV tropes. Here are all the posts:
-----
+___
 # Rescue as Aphrodisiac
 
 The Myth: If you rescue a woman, she will fall in love (or at least go to bed) with you
@@ -17,5 +18,5 @@ It’s not just restricted to typical heroics either. The power of a rescue is s
 Hell, rescue is such a strong aphrodisiac that it can even bring divorced or separated couples back together (e.g. Die Hard, Jurassic Park 3, Twister.) Apparently, traditional Couples Therapy should be sought out only if they can’t find some kind of a hostage crisis to get caught up in. Nothing reignites that old spark like a hostage situation and a body count.
 
 The only problem with the rescue scenario is that some people routinely save lives all the time without getting fallen in love with. Yes, statistically speaking, firemen have less trouble getting laid than the average male person, but that’s just because they are ensconced in heroism all day. If every woman they saved subsequently fell in love then I would not be typing this right now because my building would have burned down. Do loan officers score dates when they rescue a woman from financial ruin? Do nutritionists get handjobs when they rescue a woman from gluten? Probably not. When you rescue someone, you do get to feel hunky-dory about yourself, just don’t expect to get any action out of the deal.
------
+___
 # 
