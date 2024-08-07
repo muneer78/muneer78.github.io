@@ -1,0 +1,6 @@
+---
+categories: funny
+title: Tooth Fairy
+---
+
+![bonesyouth.png](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/bonesyouth.png)
