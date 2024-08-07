@@ -8,7 +8,7 @@ ___
 
 The Myth: If you rescue a woman, she will fall in love (or at least go to bed) with you
 
-The Perpetrators: Speed, Indiana Jones and the Temple of Doom, Under Siege, Commando, Snakes on a Plane, Romancing the Stone, every James Bond movie, Spiderman, Transformers, Cobra, The Bourne Identity, The Terminator
+The Perpetrators: _Speed, Indiana Jones and the Temple of Doom, Under Siege, Commando, Snakes on a Plane, Romancing the Stone, every James Bond movie, Spiderman, Transformers, Cobra, The Bourne Identity, The Terminator_
 
 There are many ways for a man to attract a woman. He could issue a botanical statement of purpose, filling her room up entirely with roses (Twins, Days of Thunder.) He could stare at her like a cagey stalker and then look away when she notices (Pretty in Pink, The Secret of My Success, The Karate Kid.) The most efficient way for a man to seduce the object of his affection, though, seems to be saving her life. A good old fashioned rescue is nature’s Spanish Fly.
 
