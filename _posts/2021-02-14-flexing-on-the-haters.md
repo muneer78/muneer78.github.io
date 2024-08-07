@@ -3,4 +3,4 @@ categories: funny
 title: Flexing On the Haters
 ---
 
-![travelhaters.jpeg](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/travelhaters.jpeg.jpg)
+![travelhaters.jpeg](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/travelhaters.jpeg)
