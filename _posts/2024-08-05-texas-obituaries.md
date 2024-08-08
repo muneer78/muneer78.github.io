@@ -14,7 +14,7 @@ categories: funny, tumblr
 
 > * Very common - “A man whom everybody in town knew and few forgot”
 
-> > * “A man who read the scriptures and taught his children how to be strong” (a Christian fundamentalist arrested three times for violent family battery)
+> * “A man who read the scriptures and taught his children how to be strong” (a Christian fundamentalist arrested three times for violent family battery)
 
 > * “He was familiar with God”
 
