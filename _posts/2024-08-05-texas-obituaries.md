@@ -5,7 +5,6 @@ categories: funny, tumblr
 <blockquote>
 I used to review Texas obituaries for a living and these are some of my favorite lines describing people who were apparently awful during their lifetimes:
 
-
 * “A man of a distinct and unmatched personality” (divorced four times, hated by the entire town of Caldwell, Texas)
 
 * “Many remember him most fondly as a child” (died in a meth lab explosion)
