@@ -5,8 +5,8 @@ title: Starbucks Tumblr Fanfic
 
 [This](https://katjohnadams.tumblr.com/post/171462690508/katjohnadams-anais-ninja-blog) is such a great story:
 
-~~~
-Actual conversation I had at register:
+
+> Actual conversation I had at register:
 
 “Hi, welcome to Starbucks! What can I get you, today?”
 
@@ -57,4 +57,4 @@ Then she smiled at us, like a benediction and I was honestly filled with joy. An
 When I talk with other former employees, we quickly begin talking about “The Company” as if we’d never l, perhaps knowing that part of our soul still powers that awesome and terrible corporate machine. And when I share this stroy, other Baristas at first act shocked but quickly settle and comes the chorus, 
 
 “Yeah, I had one like that.”
-~~~
+>
