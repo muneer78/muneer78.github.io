@@ -15,12 +15,14 @@ layout: default
 </div>
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      
       <div class="entry">
-        {{ post.excerpt }}
+        <p>{{ post.content | truncate: 500 }}</p> <!-- Display first 500 characters of post content -->
       </div>
+
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
