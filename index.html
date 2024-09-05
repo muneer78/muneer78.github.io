@@ -2,18 +2,40 @@
 layout: default
 ---
 
+<div class="toc">
+  <h2>Table of Contents</h2>
+  <ul>
+    {% for post in paginator.posts %}
+      <li>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <span class="post-date">- {{ post.date | date: "%B %d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
 <div class="posts">
-  {% for post in site.posts %}
-  <article class="post">
-
-    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-    <div class="entry">
-      {{ post.content   
- | truncate: 500 }}
-    </div>
-
-    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-  </article>
+  {% for post in paginator.posts %}
+    <article class="post">
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
   {% endfor %}
 </div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% endif %}
+  
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% endif %}
+</div>
+
+{% for link in site.data.navigation %}
+  <a class="page-link" href="{{ link.url }}">{{ link.title }}</a>
+{% endfor %}
