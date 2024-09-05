@@ -1,5 +1,5 @@
 ---
-date: 2024-09-02
+date: 2023-10-03
 title: Lauren Boebert
 tags: bad-people
 ---
