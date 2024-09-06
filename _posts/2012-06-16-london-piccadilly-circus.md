@@ -1,6 +1,6 @@
 ---
 date: 2012-06-16
-title: Early 1960S Piccadilly Circus
+title: "Early 1960s Piccadilly Circus"
 tags: cities
 category: cities
 ---
