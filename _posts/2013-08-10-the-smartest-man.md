@@ -1,4 +1,6 @@
 ---
+date: 2013-08-10
+title: The Smartest Man
 tags: memes
 ---
 

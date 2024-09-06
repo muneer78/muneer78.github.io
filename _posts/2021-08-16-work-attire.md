@@ -1,5 +1,7 @@
 ---
-tags: great lines,  memes
+date: 2021-08-16
+title: Work Attire
+tags: great-lines, memes
 ---
 
 

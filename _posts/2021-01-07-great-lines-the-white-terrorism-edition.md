@@ -1,6 +1,7 @@
 ---
-tags: great-lines, newsletter
-title: "Great Lines: The White Terrorism Edition"
+date: 2021-01-07
+title: The White Terrorism Edition
+tags: newsletter
 ---
 
 Yesterday was one of the most shameful days in American history. We saw a group of domestic terrorists storm the Capitol and face no real consequences. This country is broken, and I don’t know how we can fix it.

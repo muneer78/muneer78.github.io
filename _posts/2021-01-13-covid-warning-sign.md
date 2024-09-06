@@ -1,6 +1,7 @@
 ---
-tags: funny
+date: 2021-01-13
 title: Covid Warning Sign
+tags: funny
 ---
 
-![covidsign.jpeg](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/covidsign.jpeg)
+![current-eventssign.jpeg](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/current-eventssign.jpeg)

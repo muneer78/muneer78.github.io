@@ -1,6 +1,7 @@
 ---
+date: 2021-02-14
+title: Flexing On The Haters
 tags: funny
-title: Flexing On the Haters
 ---
 
 ![travelhaters.jpeg](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/travelhaters.jpeg)

@@ -1,5 +1,7 @@
 ---
-tags: great lines,  politics
+date: 2021-07-08
+title: Totalitarianism
+tags: great-lines, politics
 ---
 
 

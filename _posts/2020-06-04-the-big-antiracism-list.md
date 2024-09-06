@@ -1,5 +1,7 @@
 ---
-tags: culture,  history
+date: 2020-06-04
+title: The Big Antiracism List
+tags: culture, history, strange-researches
 ---
 
 Trump's America is the long awaited result of the [Southern Strategy](https://www.thenation.com/article/archive/exclusive-lee-atwaters-infamous-1981-interview-southern-strategy/) implemented by the GOP in the 1960's. 
@@ -10,16 +12,16 @@ Second, [here are some ways you can help](https://blacklivesmatters.carrd.co/).
 
 Here are some articles and resources about anti-racism: 
 
-###Articles:  
+### Articles:  
 
 
 
-###Books/Audiobooks:  
+### Books/Audiobooks:  
 *   [Free on Spotify- Ibram Kendi: Stamped From the Beginning](https://open.spotify.com/album/6PzcVM8Z1GMqeGlMBQ6ikX?si=G-3uabQhQaCTd3-q5mgeYA)  
 *   [Literary Hub- A List of Black Owned Bookstores](https://lithub.com/you-can-order-today-from-these-black-owned-independent-bookstores/)
 
 
-###Essays/Articles:  
+### Essays/Articles:  
 *   [The Case For Reparations](https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/)
 *   [The Cinemax Theory of Racism](https://whatever.scalzi.com/2016/11/10/the-cinemax-theory-of-racism/)  
 *   [How Trump Ruined My Relationship With My White Mother](https://verysmartbrothas.theroot.com/how-trump-ruined-my-relationship-with-my-white-mother-1797935049)
@@ -29,11 +31,11 @@ Here are some articles and resources about anti-racism:
 *   [Why Minneapolis Was the Breaking Point](https://www.theatlantic.com/politics/archive/2020/06/wesley-lowery-george-floyd-minneapolis-black-lives/612391/?mc_cid=8f5f38b1e8&mc_eid=caf549b38c)  
 *   [10 Great Essays By James Baldwin](https://tetw.org/post/189189895385/10-great-essays-by-james-baldwin)
 
-###Videos
+### Videos
 *   [The 13th](https://www.youtube.com/watch?v=krfcq5pF8u8)
 *   [8:46 by Dave Chappelle](https://www.youtube.com/watch?v=3tR6mKcBbT4&t=2s)
 
-###Guides:  
+### Guides:  
 
 *   [Google Doc- Antiracist Allyship Starter Pack](https://docs.google.com/spreadsheets/d/1bUJrgX8vspyy7YttiEC2vD0DawrpPYiZs94V0ov7qZQ/htmlview?utm_source=Internet+Brunch&utm_campaign=7b028f6dfd-EMAIL_CAMPAIGN_2019_09_12_01_00_COPY_01&utm_medium=email&utm_term=0_fb5e40aa73-7b028f6dfd-490913537&mc_cid=7b028f6dfd&mc_eid=27588c5aec)  
 *   [Google Doc- Anti-Racism For Beginners](https://docs.google.com/document/d/1S5uckFHCA_XZkxG0Zg5U4GQGbY_RklZARwu43fqJH0E/)  

@@ -1,4 +1,6 @@
 ---
+date: 2015-04-17
+title: Open Plan Offices
 tags: work
 ---
 

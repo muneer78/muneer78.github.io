@@ -1,5 +1,7 @@
 ---
-tags: video,  religion
+date: 2017-08-19
+title: I Am Delivert
+tags: video, religion
 ---
 
 I checked back in on this dude. He has not excommunicated men from his bedroom.

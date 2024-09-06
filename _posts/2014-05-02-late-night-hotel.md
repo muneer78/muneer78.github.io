@@ -1,4 +1,6 @@
 ---
+date: 2014-05-02
+title: Late Night Hotel
 tags: stories
 ---
 

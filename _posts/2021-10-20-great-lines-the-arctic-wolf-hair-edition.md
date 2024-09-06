@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Arctic Wolf Hair Edition"
+date: 2021-10-20
+title: The Arctic Wolf Hair Edition
+tags: newsletter
 ---
 
 

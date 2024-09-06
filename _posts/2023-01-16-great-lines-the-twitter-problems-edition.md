@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Twitter Problems Edition"
+date: 2023-01-16
+title: The Twitter Problems Edition
+tags: newsletter
 ---
 Elon Musk has dedicated himself to run Twitter into the ground as quickly as possible. So why not rethink how you interact with the platform? Our old pal Ed Zitron wrote a couple of Twitter focused posts that get to the heart of how to make Twitter less of an anxiety factory.
 

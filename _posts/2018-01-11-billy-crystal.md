@@ -1,6 +1,6 @@
 ---
 tags: great-lines, entertainment
-title: "When Harry Met Salley, Or 'Forget Paris' As The First NBA Romantic Comedy"
+title: When Harry Met Salley, Or 'Forget Paris' As The First NBA Romantic Comedy
 date: 2018-01-11
 ---
 

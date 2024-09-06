@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2012-05-25
+title: Muneerisms
+tags: great-lines
 ---
 
 

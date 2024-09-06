@@ -1,6 +1,7 @@
 ---
-tags: great lines,  sports
-title: The win-now, fear-nothing Royals are finally here
+date: 2015-07-29
+title: The Win-now Fear-nothing Royals Are Finally Here
+tags: great-lines, sports
 ---
 
 

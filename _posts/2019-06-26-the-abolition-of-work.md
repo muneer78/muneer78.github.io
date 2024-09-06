@@ -1,4 +1,6 @@
 ---
+date: 2019-06-26
+title: The Abolition Of Work
 tags: work
 ---
 

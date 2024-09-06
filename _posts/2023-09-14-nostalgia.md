@@ -1,4 +1,6 @@
 ---
+date: 2023-09-14
+title: Nostalgia
 tags: stories
 ---
 

@@ -1,4 +1,6 @@
 ---
+date: 2012-08-19
+title: Beyonce The Wonder Chicken
 tags: funny
 ---
 

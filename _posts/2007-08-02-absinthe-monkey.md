@@ -1,4 +1,6 @@
 ---
+date: 2007-08-02
+title: Absinthe Monkey
 tags: art
 ---
 

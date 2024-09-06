@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Shallow Promises Edition"
+date: 2022-10-10
+title: The Shallow Promises Edition
+tags: newsletter
 ---
 
 

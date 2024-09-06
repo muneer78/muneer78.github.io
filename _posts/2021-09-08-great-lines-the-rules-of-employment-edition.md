@@ -1,6 +1,7 @@
 ---
-tags: great-lines, newsletter, wisdom
-title: "Great Lines: The Rules of Employment Edition"
+date: 2021-09-08
+title: The Rules Of Employment Edition
+tags: newsletter
 ---
 
 
@@ -46,7 +47,7 @@ I couldn't pick just one or two of the points in [this post](https://devjac.dev/
 
 > * Just because people don’t think of things in the most abstract, general, or elegant way possible doesn’t mean it’s wrong. Sometimes you need to give people something that matches their way of thinking.
 
-> * Don’t sneak out at the end of the day and hope nobody asks you about hours worked. Focus, do good work quickly, sell your work, make sure people know your important contributions, and then face the “hours worked” conversation with courage and good negotiating skills. Leave no doubt that you’re a valuable memeber of the team.
+> * Don’t sneak out at the end of the day and hope nobody asks you about hours worked. Focus, do good work quickly, sell your work, make sure people know your important contributions, and then face the “hours worked” conversation with courage and good negotiating skills. Leave no doubt that you’re a valuable memesber of the team.
 
 > * If you believe something may lead to problems, but nobody wants to change, watch for the problems to occur and when they do you can propose the change again. If no problems occur, then maybe it wasn’t really a problem.
 

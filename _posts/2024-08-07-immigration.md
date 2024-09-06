@@ -1,6 +1,7 @@
 ---
+date: 2024-08-07
+title: Immigration
 tags: politics, thoughts
-title: Thoughts on Immigration
 ---
 
 First, allowing people to "just walk in" isn't something that concerns me. There are not enought people who are doing it. We have 360 million people in this country. There aren't nearly enough people crossing the border to cause an actual negative impact to me. 

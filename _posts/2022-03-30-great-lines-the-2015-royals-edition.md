@@ -1,9 +1,10 @@
 ---
-tags: great-lines
-title: "Great Lines: The 2015 Royals Edition"
+date: 2022-03-30
+title: The 2015 Royals Edition
+tags: newsletter
 ---
 
-Welcome to another baseball season! In honor of this event, here are some great lines about the 2015 Royals.
+Welcome to another baseball season! In honor of this event, here are some great-lines about the 2015 Royals.
 
 ___
 

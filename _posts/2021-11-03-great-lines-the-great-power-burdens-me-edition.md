@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Great Power Burdens Me Edition"
+date: 2021-11-03
+title: The Great Power Burdens Me Edition
+tags: newsletter
 ---
 
 
@@ -28,4 +29,3 @@ Third, from [Mastermind](https://mastermind.atavist.com/he-always-had-a-dark-sid
 > Q. What is not correct about it?
 
 > A. The individual wasn’t a customs agent.
----

@@ -1,5 +1,7 @@
 ---
-tags: memes,  religion
+date: 2021-11-12
+title: Muslim Meme
+tags: memes, religion
 ---
 
 I don't see enough Muslim memes. This was a phrase I used to hear all the time as a kid:

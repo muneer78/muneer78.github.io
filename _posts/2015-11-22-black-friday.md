@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2015-11-22
+title: Black Friday
+tags: great-lines
 ---
 
 

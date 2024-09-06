@@ -1,7 +1,12 @@
 ---
-tags: stories
+date: 2023-09-04
+title: Double Talk
+tags: stories, religion
 ---
-<blockquote>
+
+[This](https://notalwaysright.com/double-talk/58855/) is unfortunately true of a lot of religious folks. They live by the letter of the law, and ignore the intention.
+
+
 _(I work with a pair of identical twins for the overstock night shift. They know I’m atheist, so they’ve made it their business to preach their religion at me non-stop.)_
 
 **Twin #1:** “So, [my name], you think about what we said on Tuesday?”
@@ -61,4 +66,4 @@ _(Twin #2 gets a call on his cell phone and answers it. He turns away from his b
 **Me:** “Wait, wait, wait. Are you guys listening to each other here?”
 
 **Both Twins:** “What do you mean?”
-</blockquote>
+

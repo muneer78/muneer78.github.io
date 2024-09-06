@@ -1,4 +1,6 @@
 ---
+date: 2013-10-12
+title: Leaving Early
 tags: stories
 ---
 

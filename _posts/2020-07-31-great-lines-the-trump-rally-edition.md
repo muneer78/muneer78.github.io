@@ -1,6 +1,7 @@
 ---
-tags: great lines, newsletter
-title: "Great Lines: The Trump Rally Edition"
+date: 2020-07-31
+title: The Trump Rally Edition
+tags: newsletter
 ---
 
 

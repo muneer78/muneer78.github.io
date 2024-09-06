@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Emotionally Invested Edition"
+date: 2023-06-19
+title: The Emotionally Invested Edition
+tags: newsletter
 ---
 
 First, I wish I could say this every day to at least one person:

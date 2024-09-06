@@ -1,6 +1,6 @@
 ---
 tags: stories
-title: "Foreclosure"
+title: Foreclosure
 date: 2023-02-09
 ---
 

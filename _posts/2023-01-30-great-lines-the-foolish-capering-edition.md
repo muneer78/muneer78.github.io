@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Foolish Capering Edition"
+date: 2023-01-30
+title: The Foolish Capering Edition
+tags: newsletter
 ---
 
 First, The Simpsons are always good for a great line:

@@ -1,5 +1,7 @@
 ---
-tags: art,  metafilter
+date: 2009-08-18
+title: Paper Money As Art
+tags: art, strange-researches
 ---
 
 [Banknotes](http://en.wikipedia.org/wiki/Banknote) are a fascinating look into the artistry and culture of the countries of the world.

@@ -1,15 +1,18 @@
 ---
-tags: great-lines
-title: "Great Lines: The Pretty Wild Stuff Edition"
+date: 2022-08-29
+title: The Pretty Wild Stuff Edition
+tags: newsletter
 ---
 I finally made the switch to Spotify. That means that I can now easily share interesting podcast episodes here as well. See below for more.
 
 When I was interviewing for a new job, the HR person at my old company was still operating from the paradigm that the company held all the cards. Spoiler alert: they didn't.
 ___
-![notshowingup.png](https://buttondown-attachments.s3.amazonaws.com/images/4dc2b29c-8164-4b80-af6b-d806c8e3a625.png)
+
+![notshowingup](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/notshowingup.png)
 ___
 
-![tacobell.jpeg](https://buttondown-attachments.s3.amazonaws.com/images/8af32a36-011c-4996-8636-d5f63197171e.jpeg)
+![tacobellone](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/tacobellone.jpeg)
+
 ___
 
 I love [this story](https://www.awesemo.com/sideaction/absurd-jim-harbaugh-michigan-story-surfacing-following-urban-meyer-viral-moment-bjs/) about how Jim Harbaugh dealt with young women who were flirting with him:

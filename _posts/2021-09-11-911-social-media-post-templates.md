@@ -1,6 +1,7 @@
 ---
-tags: current events
-title: "9/11 Social Media Post Templates"
+date: 2021-09-11
+title: 9/11 Social Media Post Templates
+tags: current-events
 ---
 
 For the 20th anniversary of 9/11, I offer you the following templates for all of your social media needs. 

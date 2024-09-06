@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: Ebert dropping jewels
+date: 2021-08-18
+title: Roger Ebert's Searing Critiques
+tags: great-lines, entertainment
 ---
 
 

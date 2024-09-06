@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Other Side Edition"
+date: 2021-11-24
+title: The Other Side Edition
+tags: newsletter
 ---
 
 

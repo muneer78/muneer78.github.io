@@ -1,5 +1,7 @@
 ---
-tags: sports,  funny
+date: 2017-04-08
+title: Jokic's Passes
+tags: sports, great-lines
 ---
 
 

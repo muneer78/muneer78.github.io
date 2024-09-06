@@ -1,6 +1,6 @@
 ---
 tags: mental-health
-title: "Old, Abusive Parents"
+title: Old, Abusive Parents
 date: 2024-08-15
 ---
 

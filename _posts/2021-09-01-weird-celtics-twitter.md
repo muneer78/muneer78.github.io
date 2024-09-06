@@ -1,5 +1,7 @@
 ---
-tags: absurdist,  sports
+date: 2021-09-01
+title: Weird Celtics Twitter
+tags: absurdist, sports
 ---
 
 I love Weird Celtics Twitter!

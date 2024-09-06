@@ -1,6 +1,7 @@
 ---
-tags: wholesome
-title: Tone matching my Iraqi corner store guy
+date: 2023-11-21
+title: Brown People Love All
+tags: uplifting
 ---
 
 ![iraqi4](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/iraqi4.jpg)
@@ -10,6 +11,7 @@ title: Tone matching my Iraqi corner store guy
 ![iraqi1](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/iraqi1.jpg)
 
 ![iraqi3](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/iraqi3.jpg)
+
 
 
 

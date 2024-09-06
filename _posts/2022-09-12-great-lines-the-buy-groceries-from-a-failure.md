@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Buy Groceries From A Failure"
+date: 2022-09-12
+title: The Buy Groceries From A Failure Edition
+tags: newsletter
 ---
 
 

@@ -1,5 +1,7 @@
 ---
-tags: funny,  music
+date: 2013-03-08
+title: Translation Of Bandz A Make Her Dance
+tags: funny, entertainment
 ---
 
 Everyone knows I love a good rap song translation.

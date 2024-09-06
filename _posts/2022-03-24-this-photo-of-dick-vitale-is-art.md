@@ -1,5 +1,7 @@
 ---
-tags: picture,  great lines
+date: 2022-03-24
+title: This Photo Of Dick Vitale Is Art
+tags: absurdist
 ---
 
 

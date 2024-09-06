@@ -1,6 +1,7 @@
 ---
-tags: great-lines, newsletter
-title: "Great Lines: The Flabby Hope Diamond Edition"
+date: 2020-05-28
+title: The Flabby Hope Diamond Edition
+tags: newsletter
 ---
 
 

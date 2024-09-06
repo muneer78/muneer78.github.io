@@ -1,5 +1,7 @@
 ---
-tags: jokes
+date: 2020-10-02
+title: Using Protection
+tags: thoughts
 ---
 
 

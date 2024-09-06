@@ -1,5 +1,7 @@
 ---
-tags: funny
+date: 2021-10-25
+title: Precipitation
+tags: funny, great-lines
 ---
 
 

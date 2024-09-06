@@ -1,5 +1,7 @@
 ---
-tags: rich,  indepth
+date: 2015-01-13
+title: What Do Insanely Wealthy People Buy That Ordinary People Know Nothing About
+tags: rich, indepth
 ---
 
 This is an eye opening [comment](https://www.reddit.com/r/AskReddit/comments/2s9u0s/what_do_insanely_wealthy_people_buy_that_ordinary/cnnmca8/) from Reddit about the rich: 
@@ -30,7 +32,7 @@ This is an eye opening [comment](https://www.reddit.com/r/AskReddit/comments/2s9
 > 
 > Experiences. Dream of it and you can have it. Want to play tennis with Pete Sampras (not him in particular, but that type of star)? Call his people. For a donation of $100k+ to his charity, you could probably play a match with him. Like Blink182? There is a price where they would simply come play at your private party. Love art? Your people could arrange for the curator of the Louvre to show you around and even show you masterpieces that have not been exhibited in years. Love Nascar? How about racing the top driver on a closed track? Love science? Have a dinner with Bill Nye and Neil dGT. Love politics? have Hillary Clinton come speak at a dinner for you and your friends, just pay her speaking fee. Your mind is the only limit to what is available. Because donations/fees get you anyone.
 > 
-> The same is true with stuff. You like pianos? How about owning one Mozart used to compose music on? This is the type of stuff you can do.
+> The same is true with stuff. You like pianos? How about owning one Mozart used to compose entertainment on? This is the type of stuff you can do.
 > 
 > IMPACT. Your money can literally change the world and change lives. It is almost too much of a burden to think about. Clean water for a whole village forever? chump change. A dying child need a transplant? Hell...you could just build and fund a hospital and do it for a region.
 > 

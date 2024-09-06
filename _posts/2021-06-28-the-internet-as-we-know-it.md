@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2021-06-28
+title: The Internet As We Know It
+tags: great-lines
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Tungsten Arm Odoyle Edition"
+date: 2023-03-20
+title: The Tungsten Arm O'Doyle Edition
+tags: newsletter
 ---
 
 First, I appreciate when someone takes accountability.

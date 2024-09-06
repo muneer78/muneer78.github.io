@@ -1,4 +1,6 @@
 ---
+date: 2017-09-01
+title: Barbara Kruger
 tags: art
 ---
 

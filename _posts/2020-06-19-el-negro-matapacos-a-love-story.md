@@ -1,5 +1,7 @@
 ---
-tags: awesome
+date: 2020-06-19
+title: El Negro Matapacos: A Love Story
+tags: animals, awesome
 ---
 
 ![matapacosnew1](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/matapacosnew1.jpeg)

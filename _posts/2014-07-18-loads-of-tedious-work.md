@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2014-07-18
+title: Loads Of Tedious Work
+tags: great-lines
 ---
 
 

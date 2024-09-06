@@ -1,8 +1,10 @@
 ---
+date: 2021-09-14
+title: A Veteran Speaks On The Afghanistan Withdrawal
 tags: politics
 ---
 
-I usually read Drew Magary for his humor, but [this letter](https://defector.com/i-hope-i-get-old-before-i-die/) from a veteran named Brett really struck a chord for me:
+I usually read Drew Magary for his funny, but [this letter](https://defector.com/i-hope-i-get-old-before-i-die/) from a veteran named Brett really struck a chord for me:
 
 > I’m from central Pennsylvania. My parents live just outside of Hershey, and I go home every third weekend in October when the leaves are at their most beautiful. My closest friend still lives there and when I go home, we watch the Philadelphia Eagles, we talk about the Philadelphia Eagles, and we smoke meats and cigarettes. Every time I go home, we eat out once so that I can get what I truly believe are the two delicacies of our home: Stromboli that has mustard in its innards along with marinara, and truly fantastic wings. A dry rub BBQ wing with a side dipping sauce of mango habanero is a great way to marry flavors and decide how much hell you want in each bite. It’s glorious, it’s sometimes masochistic, and it’s my home.
 > 

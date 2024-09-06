@@ -1,5 +1,7 @@
 ---
-tags: badpeople, reddit
+date: 2022-01-20
+title: The Kevin Chronicles
+tags: bad-people, reddit
 ---
 
 This guy went to grad school with me. He was OK for the first few years I knew him, but then began listening to conspiracy theorists like Alex Jones. This made the worst aspects of his personality come out.
@@ -16,7 +18,7 @@ This guy went to grad school with me. He was OK for the first few years I knew h
 
 *   My cousin's wife died of Covid. I told Kevin I didn't want to hear anything about his conspiracy theories regarding Covid at the same time I told him my cousin's wife had passed away. He sent me a conspiracy theory article 2 hours later. When I called him out on it, he refused to apologize, going only so far as saying that he might not have chosen the best time to send the article.
 
-*   Kevin was in a fantasy sports league with me and my friends. We'd bust each other's chops and make jokes about each other. He'd say all types of crazy things to all of us, but if someone said anything even remotely negative about him, he'd throw a literal tantrum. This is a man who is 48.
+*   Kevin was in a fantasy sports league with me and my friends. We'd bust each other's chops and make funny about each other. He'd say all types of crazy things to all of us, but if someone said anything even remotely negative about him, he'd throw a literal tantrum. This is a man who is 48.
 
 *   Finally, we all decided to cut ties with Kevin on January 6, 2021. As we watched the riot, one of our friends decided to ask Kevin whether he thought the rioters were acting in a way consistent with democracy. He then sent us a YouTube video of one of the Easter Island statues with a voice over saying we shouldn't believe everything in the media.
 

@@ -1,5 +1,7 @@
 ---
-tags: sex,  indepth
+date: 2020-08-14
+title: Why College Students Want To Go Back To Campus
+tags: sex, indepth
 ---
 
 This [comment from Reddit](https://www.reddit.com/r/ucla/comments/i98662/why_im_coming_back_to_westwood_in_the_fall/) describes why college students want to go back to campus:

@@ -1,4 +1,6 @@
 ---
+date: 2011-11-01
+title: The Shame Of College Sports
 tags: sports
 ---
 

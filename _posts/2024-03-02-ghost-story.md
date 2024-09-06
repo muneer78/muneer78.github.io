@@ -1,6 +1,7 @@
 ---
+date: 2024-03-02
+title: Ghost Story
 tags: stories, tumblr
-title: Wholesome Ghost Story
 ---
 
 I really enjoyed [this ghost story](https://www.tumblr.com/agwitow/158693148613/just-shower-thoughts-if-a-ghost-can-open) from agwitow:
@@ -91,7 +92,7 @@ I really enjoyed [this ghost story](https://www.tumblr.com/agwitow/158693148613/
 
 > “Ghost Governing Body. I don’t know what the ghosts call it, or if it’s even an actual government, but it seems appropriate.”
 
-> Katherine thinks back to life before Eloise’s first letter. Things had certainly gotten bad for awhile, but it had started as cupboards banging and floors creaking during the night. Not what she pictured when she thought of poltergeist behaviour. It was also much more benign than the ‘tricks’ her replacement poltergeist was inflicting on her.
+> Katherine thinks back to personal before Eloise’s first letter. Things had certainly gotten bad for awhile, but it had started as cupboards banging and floors creaking during the night. Not what she pictured when she thought of poltergeist behaviour. It was also much more benign than the ‘tricks’ her replacement poltergeist was inflicting on her.
 
 > “I don’t think she was supposed to be a poltergeist.”
 
@@ -193,7 +194,7 @@ I really enjoyed [this ghost story](https://www.tumblr.com/agwitow/158693148613/
 
 > “Is that really necessary?” one of the other councilghosts asks.
 
-> “Oh it’s very important she take her time in explaining things,” the old man says with a knowing smile. “In fact, I think she should probably start with her life and death.”
+> “Oh it’s very important she take her time in explaining things,” the old man says with a knowing smile. “In fact, I think she should probably start with her personal and death.”
 
 > Eloise isn’t sure what the old man wants, but she slowly, haltingly, recounts her few years alive and how she died. She had just gotten to her haunting of the family with the children when she felt a strange tingle run through her. The world flickers.
 

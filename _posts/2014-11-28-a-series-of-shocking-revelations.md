@@ -1,4 +1,6 @@
 ---
+date: 2014-11-28
+title: A Series Of Shocking Revelations
 tags: funny
 ---
 

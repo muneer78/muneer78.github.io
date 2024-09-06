@@ -1,5 +1,7 @@
 ---
-tags: stories,  sports
+date: 2017-03-19
+title: Paul Pierce
+tags: stories, sports
 ---
 
 When I was in my freshman year at KU, I was playing basketball at the Robinson Center one afternoon. We had the run of the court because of my teammates' scoring prowess and my extremely dirty play and ability to pull down rebounds in traffic.

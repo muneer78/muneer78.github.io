@@ -1,6 +1,7 @@
 ---
-tags: great-lines, video, newsletter
-title: "Great Lines: The Larry David Edition"
+date: 2020-05-07
+title: The Larry David Edition
+tags: video, newsletter
 ---
 
 

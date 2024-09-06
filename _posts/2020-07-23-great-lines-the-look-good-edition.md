@@ -1,6 +1,7 @@
 ---
-tags: great-lines, newsletter
-title: "Great Lines: The Look Good Edition"
+date: 2020-07-23
+title: The Look Good Edition
+tags: newsletter
 ---
 
 [First](https://www.gq.com/story/your-morning-shot-deion-sanders), a great quote from Deion Sanders:

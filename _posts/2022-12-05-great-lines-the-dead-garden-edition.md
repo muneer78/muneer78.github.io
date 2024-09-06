@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Dead Garden Edition"
+date: 2022-12-05
+title: The Dead Garden Edition
+tags: newsletter
 ---
 
 [First](https://www.jacksonville.com/obituaries/pfla0245589), this obituary is very honest about the departed:

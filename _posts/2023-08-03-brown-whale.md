@@ -1,5 +1,7 @@
 ---
-tags: humor
+date: 2023-08-03
+title: Brown Whale
+tags: stories
 ---
 
 When I went on a cruise with my in-laws, we had walkie talkies so we could talk to each other and plan what to do each day without having to meet up. I insisted on being called Brown Whale at all times when I was being walkie-talkied.

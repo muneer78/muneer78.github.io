@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Trolling Edition"
+date: 2021-04-10
+title: The Trolling Edition
+tags: newsletter
 ---
 
 I got the first shot of the Pfizer vaccine on April 29. On Sunday, I got sick with flu-like symptoms. It passed by Monday night. I'm sure there are some people out there who would use this experience to argue for "safe vaccines". Those people are morons.
@@ -11,10 +12,11 @@ I used to talk to an anti-vaxx idiot. When I brought up the fact that no vaccine
 
 So if you're vaccine hesitant and don't have any known medical reasons to not get vaccinated, I can't stress this enough Stop: being an idiot and schedule an appointment. Or stay in your house for the rest of your life. Or die. I don't really care. But don't go around spouting nonsense.
 
----
-[First](https://www.theverge.com/2018/7/12/17561768/dont-feed-the-trolls-online-harassment-abuse), trolling isn’t all fun and games. I finally excised a troll, the same one who's "vaccine hesitant", from my life last year. Best decision I could have made:
+[Second](https://www.theringer.com/2018/8/15/17692240/donutgate-voodoo-doughnut-pizzagate-comet-ping-pong-conspiracy-theories), the troll I referred to above is very religious and very much a conspiracy theorist:
 
->Defenders  of trolling insist it’s all just a joke, but if trolling is inherently  designed to get a rise out of someone, then that’s what it really is. In  many cases, it is designed to look and feel indistinguishable from a  genuine attack. Whether you believe what you are saying or not is often  immaterial because the impact is the same — and you are responsible for  it, regardless of how funny you think it is. It is a lesson kids learn  time and time again on the playground, and yet, it is ridiculously  difficult for people to accept the same basic notion in online culture,  no matter their age.
+>…researchers  have found that people who are more susceptible to conspiracy theories  are often obsessed with religion or a god or a value system.
+
+ someone, then that’s what it really is. In  many cases, it is designed to look and feel indistinguishable from a  genuine attack. Whether you believe what you are saying or not is often  immaterial because the impact is the same — and you are responsible for  it, regardless of how funny you think it is. It is a lesson kids learn  time and time again on the playground, and yet, it is ridiculously  difficult for people to accept the same basic notion in online culture,  no matter their age.
 
 ---
 [Second](https://www.theringer.com/2018/8/15/17692240/donutgate-voodoo-doughnut-pizzagate-comet-ping-pong-conspiracy-theories), the troll I referred to above is very religious and very much a conspiracy theorist:

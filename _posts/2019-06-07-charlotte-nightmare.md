@@ -1,6 +1,7 @@
 ---
-tags: stories
-published: false
+date: 2019-06-07
+title: Charlotte Nightmare
+tags: thoughts
 ---
 
 The time we spent in Punta Cana was amazing. However, American Airlines was horrible during each trip.

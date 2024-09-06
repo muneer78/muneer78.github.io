@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2018-01-20
+title: Supplying The Money
+tags: great-lines
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-tags: uplifting
-title: "Jalen Rose's Touching Tribute To His Mom"
+date: 2021-05-09
+title: Jalen Rose's Touching Tribute To His Mom
+tags: uplifting, sports
 ---
 
 This made me feel things:

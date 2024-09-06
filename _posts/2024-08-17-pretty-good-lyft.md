@@ -1,6 +1,6 @@
 ---
 tags: work, uplifting
-title: "A Pretty Good Lyft"
+title: A Pretty Good Lyft
 date: 2024-08-17
 ---
 

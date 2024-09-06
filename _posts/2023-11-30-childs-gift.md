@@ -1,6 +1,7 @@
 ---
-tags: humor,  gambling
-title: Gifts for the children
+date: 2023-11-30
+title: Childs Gift
+tags: thoughts, gambling
 ---
 
 I told my fellow gambler: "You'll wrap up 5 of the Tootsie lollipops from the office kitchen with a note saying. "Sorry Jennifer, but the Packers didn't cover and Gus Edwards rushed for less than 50 yards. Maybe next year..."

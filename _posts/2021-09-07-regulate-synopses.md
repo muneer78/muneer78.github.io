@@ -1,5 +1,7 @@
 ---
-tags: music,  entertainment
+date: 2021-09-07
+title: Regulate Synopses
+tags: entertainment, entertainment
 ---
 
 
@@ -11,7 +13,7 @@ First, this is from [Wikipedia](https://en.wikipedia.org/wiki/Regulate_(song)#Sy
 
 > Meanwhile, Nate Dogg is looking for Warren G. He passes a car full of women, who are so fixated on him that they crash their car. He finds Warren G and shoots at the robbers, dispersing them. The two friends then return to the women and ride away with them, with the intent of taking them to the "Eastside motel".
 
->In the third verse, Warren and Nate explain their G-funk musical style; the song "constructs itself as inaugurating a new era"
+>In the third verse, Warren and Nate explain their G-funk entertainmental style; the song "constructs itself as inaugurating a new era"
 
 ***
 

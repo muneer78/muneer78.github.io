@@ -1,4 +1,6 @@
 ---
+date: 2024-04-01
+title: Shota Imanaga
 tags: thoughts, funny
 ---
 

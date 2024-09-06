@@ -1,6 +1,7 @@
 ---
-tags: great-lines, newsletter
-title: "Great Lines: The Protest Pup Edition"
+date: 2020-08-18
+title: The Protest Pup Edition
+tags: newsletter
 ---
 
 

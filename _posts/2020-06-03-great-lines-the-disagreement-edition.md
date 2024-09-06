@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Disagreement Edition"
+date: 2020-06-03
+title: The Disagreement Edition
+tags: newsletter
 ---
 
 
@@ -19,11 +20,11 @@ title: "Great Lines: The Disagreement Edition"
 [Used to be a picture of a 2020 calendar melting]
 
 ***
-</div>
+
 
 [Third](https://www.westword.com/news/72-hour-party-people-5075797), a 72 hour Asian meth party in Denver and Las Vegas:
 
 > Back at Nick's house, there are Otter Pop wrappers everywhere. Otter Pop wrappers on the hardwood floors, on the kitchen tile, on the toilet seats in all the bathrooms, in the sinks, on the turntables, on the couch cushions. They are hard, plastic, sticky, omnipresent evidence that something very strange and very wicked went down in this place.
 
-<!-- Images -->
+
 [2020]: /sites/default/files/2020.png

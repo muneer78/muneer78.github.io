@@ -1,4 +1,6 @@
 ---
+date: 2009-09-13
+title: Pakistani Rock
 tags: personal
 ---
 

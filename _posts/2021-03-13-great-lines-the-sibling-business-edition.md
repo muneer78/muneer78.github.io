@@ -1,6 +1,7 @@
 ---
-tags: great-lines, newsletter
-title: "Great Lines: The Sibling Business Edition"
+date: 2021-03-13
+title: The Sibling Business Edition
+tags: newsletter
 ---
 
 

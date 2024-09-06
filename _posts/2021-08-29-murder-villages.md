@@ -1,5 +1,7 @@
 ---
-tags: great lines,  funny
+date: 2021-08-29
+title: Murder Villages
+tags: great-lines, books
 ---
 
 

@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2021-08-12
+title: Pine Tar Game
+tags: great-lines
 ---
 
 

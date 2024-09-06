@@ -1,5 +1,7 @@
 ---
-tags: 
+date: 2013-07-18
+title: Authenticity
+tags: thoughts
 ---
 
 It's easy to be snarky and cynical. Hell, that's my default mode. But, we all need to take a few minutes each day to think about how amazing and wondrous the world around us is. We are all able to live in the best country on Earth, we have our health (most of us), and there are people out there who care about us. To get mad at little things like someone cutting us off in traffic or someone getting the last Diet Coke out of the vending machine is a drop in the bucket of life. I'm going to start trying to brush these things aside and look at the brighter side of things.

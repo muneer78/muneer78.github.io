@@ -1,5 +1,7 @@
 ---
-tags: picture,  awesome,  entertainment
+date: 2017-04-29
+title: Ghetto Christ
+tags: art, awesome, personal
 ---
 
 ![ghetto](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/ghettochrist.jpeg)

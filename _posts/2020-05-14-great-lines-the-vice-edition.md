@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Vice Edition"
+date: 2020-05-14
+title: The Vice Edition
+tags: newsletter
 ---
 
 

@@ -1,5 +1,7 @@
 ---
-tags: women,  indepth
+date: 2012-06-21
+title: The Problem With Big Breasts
+tags: women, indepth
 ---
 
 A [great comment](https://www.reddit.com/r/AskReddit/comments/vc6ky/do_you_want_me_to_look_at_your_breasts_or_do_you/c53bibq/) from a woman on Reddit about the problems with big breasts:

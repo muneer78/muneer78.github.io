@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2021-06-22
+title: Trust No One
+tags: great-lines
 ---
 
 
@@ -9,4 +11,4 @@ tags: great lines
 
 ****
 
-> According to Macintyre, the elder Elliott "loathed music, which gave him indigestion, despised all forms of heating as 'effete,' and believed that 'when dealing with foreigners the best plan was to shout at them in English.' "
+> According to Macintyre, the elder Elliott "loathed entertainment, which gave him indigestion, despised all forms of heating as 'effete,' and believed that 'when dealing with foreigners the best plan was to shout at them in English.' "

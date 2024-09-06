@@ -1,5 +1,7 @@
 ---
-tags: awesome,  sports
+date: 2021-08-19
+title: Awesome Slides
+tags: awesome, sports
 ---
 
 Swag is on a million for both of these slides!

@@ -1,6 +1,7 @@
 ---
+date: 2024-07-29
+title: My Political Depression Problem—and Ours
 tags: politics
-title: The Authoritarian Rachet
 ---
 
 [My Political Depression Problem—and Ours](https://prospect.org/politics/2024-05-29-my-political-depression-problem/):

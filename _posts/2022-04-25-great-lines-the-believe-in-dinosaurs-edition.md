@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Believe In Dinosaurs Edition"
+date: 2022-04-25
+title: The Believe In Dinosaurs Edition
+tags: newsletter
 ---
 
 Mookie Wilson, when he was playing for the New York Mets, had an interesting way of looking at batting slumps:

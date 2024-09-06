@@ -1,4 +1,6 @@
 ---
+date: 2014-10-11
+title: Loukanikos
 tags: animals
 ---
 

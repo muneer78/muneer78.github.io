@@ -1,10 +1,12 @@
 ---
-tags: 
+date: 2011-09-29
+title: Ascertaining The Effect Of The G Thang On Skill Level In Hip Hop
+tags: personal, critical-analysis
 ---
 
 <p><em>(Author’s note: I am stealing&nbsp;</em><a href="https://href.li/?http://zembla.cementhorizon.com/archives/000656.html" rel="noopener" target="_blank"><em>an idea</em></a><em>&nbsp;from&nbsp;</em><a href="https://href.li/?http://seankeanecomedy.com/" rel="noopener" target="_blank"><em>Sean Keane</em></a><em>&nbsp;and expanding upon it. I am assuming his mantle as a distinguished scholar in hip hop theory, philosophy, and technique. My first lesson will go to a time before Mr. Keane’s seminal essay and analyze “Nuthin’ But A G Thang” by Dr. Dre and featuring Snoop Dogg.)</em></p>
 
-<p>The song in question is a tale of mutual loyalty and general badassery. Dr. Dre and Snoop Dogg not only illuminate the listener as to their individual and combined strengths, but also pass on individual life lessons that young listeners can apply to their own lives, lest they get burnt.</p>
+<p>The song in question is a tale of mutual loyalty and general badassery. Dr. Dre and Snoop Dogg not only illuminate the listener as to their individual and combined strengths, but also pass on individual personal lessons that young listeners can apply to their own lives, lest they get burnt.</p>
 
 <p>Snoop Doggy Dogg, in only his second official foray into released recording, begins the proceedings. We are tipped off to the potential lethality of an alliance between Compton and Long Beach. Worse for all aspiring challengers to their throne, Dr. Dre and Snoop are paragons representing the danger and menace emanating from their respective hometown. As a result, they are loc’d out to the point of insanity. This is a good tactic, as it establishes a potential alibi based on insanity for any actions that may injure, maim, or kill their opponents in the future. Snoop, foreshadowing his future role as “The Doggfather” and “King of the Motherfuckin’ West Coast (Baby)”, urges the listener to be wary of engaging in sexual relations with an unchaste woman without proper contraception. Such carelessness can result in the sucka getting burnt, as a bitch who would engage in such risky sexual behaviors will have no qualms infecting her lovers with various STD’s that may weaken an otherwise healthy and strong man. Not to be putting a damper on the entire arena of sexual relations between gangsta and ho, it is acceptable to take a small piece of some that funky stuff if the earlier suggested precautions are in place.</p>
 

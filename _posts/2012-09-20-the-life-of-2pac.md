@@ -1,12 +1,14 @@
 ---
-tags: entertainment,  indepth
+date: 2012-09-20
+title: The Life Of 2Pac
+tags: entertainment, indepth
 ---
 
 This is an awesome [in-depth look](https://www.reddit.com/r/todayilearned/comments/103xo4/til_rapper_tupac_shakur_received_a_letter_from/c6acw1n/) into Tupac Shakur's life:
 
 > He always thought he was going to die young, and his paranoid (but very real) mindset obviously is a factor on how much he recorded.
 > 
-> His music developed a very paranoid tone. In July of 1996 a home movie was shot of Tupac in the studio, and his paranoia was on its way to its highest point. "We don't have the time or the luxury to spend all this time on one track. We Don't!" Tupac said frantically, his arms waving around as the orange glow of his cigarette followed.
+> His entertainment developed a very paranoid tone. In July of 1996 a home movie was shot of Tupac in the studio, and his paranoia was on its way to its highest point. "We don't have the time or the luxury to spend all this time on one track. We Don't!" Tupac said frantically, his arms waving around as the orange glow of his cigarette followed.
 > 
 > 
 > He wasn't wrong, two months later he would be dead.
@@ -34,7 +36,7 @@ This is an awesome [in-depth look](https://www.reddit.com/r/todayilearned/commen
 > 
 > Two Police officers are beating a black motorist. Tupac approaches them and they fire shots at him. Tupac goes back to his car and gets his gun and returns fire, hitting both officers, one in the thigh and one in the buttocks. The charges are dropped against Tupac when it turns out both officers are intoxicated, and the gun they used to fire against Tupac was stolen from an evidence locker. Everyone else just remembers "Tupac shot two cops".
 > 
-> From the help of Dan Quayle and other Republicans, they persuade family members of slain cops to sue Tupac over his music, stating that his music causes the violence. Seriously, here is even a court video of one of the cases against him in 1995
+> From the help of Dan Quayle and other Republicans, they persuade family members of slain cops to sue Tupac over his entertainment, stating that his entertainment causes the violence. Seriously, here is even a court video of one of the cases against him in 1995
 > 
 > The republicans convince Time Warner to drop interscope records due to Tupac being one of their artists.
 > 

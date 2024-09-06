@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2016-12-15
+title: Wisdom From Killa Cam
+tags: great-lines
 ---
 
 

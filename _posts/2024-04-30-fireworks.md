@@ -1,6 +1,7 @@
 ---
-tags: stories
-title: "Why Wouldn't We Be Brothers?"
+date: 2024-04-30
+title: Fireworks
+tags: thoughts
 ---
 
 Back in the day, I was setting off fireworks with a pal. I was probably 13 or so. 

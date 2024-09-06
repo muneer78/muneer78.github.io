@@ -1,9 +1,11 @@
 ---
-tags: great lines
+date: 2016-01-10
+title: What Is Something Someone Said That Changed Your Way Of Thinking Forever
+tags: great-lines
 ---
 
 
-Some [great lines](https://www.reddit.com/r/AskReddit/comments/406d65/what_is_something_someone_said_that_changed_your/) from a Reddit thread:
+Some [great-lines](https://www.reddit.com/r/AskReddit/comments/406d65/what_is_something_someone_said_that_changed_your/) from a Reddit thread:
 
 > "How you live each day is how you live your life."
 > 

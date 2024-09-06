@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Child Must Not Be An Obstacle"
+date: 2022-05-09
+title: The Child Must Not Be An Obstacle Edition
+tags: newsletter
 ---
 
 First, this was something a friend's dad told me when I first started working:</p>

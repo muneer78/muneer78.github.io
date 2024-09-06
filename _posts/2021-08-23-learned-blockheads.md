@@ -1,5 +1,7 @@
 ---
-tags: great lines,  memes
+date: 2021-08-23
+title: Learned Blockheads
+tags: great-lines, memes
 ---
 
 

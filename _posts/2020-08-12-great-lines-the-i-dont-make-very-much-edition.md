@@ -1,6 +1,7 @@
 ---
-tags: great-lines, newsletter
-title: "Great Lines: The I Don't Make Very Much Edition"
+date: 2020-08-12
+title: The I Don't Make Very Much Edition
+tags: newsletter
 ---
 
 

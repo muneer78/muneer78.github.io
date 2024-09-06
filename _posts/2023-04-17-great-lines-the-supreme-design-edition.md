@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Supreme Design Edition"
+date: 2023-04-17
+title: The Supreme Design Edition
+tags: newsletter
 ---
 
 First, this wisdom should be heeded by everyone.

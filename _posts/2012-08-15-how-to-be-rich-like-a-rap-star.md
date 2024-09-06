@@ -1,4 +1,6 @@
 ---
+date: 2012-08-15
+title: How To Be Rich Like A Rap Star
 tags: entertainment
 ---
 

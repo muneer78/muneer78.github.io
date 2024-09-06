@@ -1,6 +1,7 @@
 ---
-tags: bad-people, politics
-title: Paul Manafort's hats
+date: 2017-09-20
+title: Paul Manafort's Hats
+tags: current-events
 ---
 
 ![manaforthats](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/manaforthats.jpeg)

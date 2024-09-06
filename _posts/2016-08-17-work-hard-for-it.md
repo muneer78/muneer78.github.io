@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2016-08-17
+title: Work Hard For It
+tags: great-lines
 ---
 
 

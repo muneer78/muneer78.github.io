@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Frankenghoul Edition"
+date: 2020-08-26
+title: The Frankenghoul Edition
+tags: newsletter
 ---
 
 

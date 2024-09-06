@@ -1,4 +1,6 @@
 ---
+date: 2012-05-01
+title: Detroit Dreams
 tags: thoughts
 ---
 

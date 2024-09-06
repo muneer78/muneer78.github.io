@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Future Is Meaningless Edition"
+date: 2023-05-01
+title: The Future Is Meaningless Edition
+tags: newsletter
 ---
 
 First, I feel this way every time I have a chocolate bar after dinner.

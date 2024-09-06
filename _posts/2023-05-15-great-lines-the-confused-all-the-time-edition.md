@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Confused All The Time Edition"
+date: 2023-05-15
+title: The Confused All The Time Edition
+tags: newsletter
 ---
 
 First, this child is beyond his years.

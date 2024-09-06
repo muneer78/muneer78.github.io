@@ -1,5 +1,7 @@
 ---
-tags: great lines,  funny
+date: 2012-07-10
+title: This Is Obviously Just A Business
+tags: great-lines, funny
 ---
 
 [Too Close for Comfort](https://www.espn.com/espn/magazine/archives/news/story?page=magazine-20051107-article38):

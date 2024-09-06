@@ -1,5 +1,7 @@
 ---
-tags: funny
+date: 2010-01-21
+title: The Beginning
+tags: thoughts
 ---
 
 

@@ -1,5 +1,7 @@
 ---
-tags: thinking
+date: 2016-11-02
+title: Evaluating Information
+tags: thinking, strange-researches
 ---
 
 Conspiracy theorists seem to be people who are uncomfortable with the unknown. Explanations for unexplainable things, no matter how outlandish, are better than the alternative. The alternative is to accept that things sometimes just happen. There isn't always an explanation.

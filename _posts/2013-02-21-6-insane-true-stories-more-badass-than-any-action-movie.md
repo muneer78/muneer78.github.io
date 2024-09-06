@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2013-02-21
+title: 6 Insane True Stories More Badass Than Any Action Movie
+tags: great-lines
 ---
 
 [6 Insane True Stories More Badass Than Any Action Movie](https://www.cracked.com/article_20252_6-insane-true-stories-more-badass-than-any-action-movie.html?fbclid=IwAR28pRtynS3muzSqF89F58gq-qctEJQj0YNk5f0BWzEXIRrHtJCkQuNitxs):

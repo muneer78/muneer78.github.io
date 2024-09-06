@@ -1,5 +1,7 @@
 ---
-tags: women,  indepth
+date: 2015-12-31
+title: Do They Hang Around Rich Guys As A Job
+tags: women, indepth
 ---
 
 An [interesting insight](https://www.reddit.com/r/explainlikeimfive/comments/3yuo0a/eli5_when_a_load_of_beautiful_women_hang_around/cygt1em/) on how beautiful women in nightclubs work:

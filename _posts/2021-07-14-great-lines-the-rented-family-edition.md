@@ -1,6 +1,7 @@
 ---
-tags: great-lines, newsletter
-title: "Great Lines: The Rented Family Edition"
+date: 2021-07-14
+title: The Rented Family Edition
+tags: newsletter
 ---
 
 
@@ -16,9 +17,7 @@ By the time you read this, I will have had some eye surgery. So this newsletter 
 
 >Terai searched YouTube for tear-inducing videos, and found a Thai life-insurance commercial about a girl who didn’t appreciate the love of her deaf-mute father. Terai cried, and felt that a burden had been lifted.
 
----
-
-[Third](https://medium.com/aeon-magazine/escape-the-echo-chamber-7ce91164421c), it's very easy to fall prey to conspiracy theories and faulty thinking:
+https://medium.com/aeon-magazine/escape-the-echo-chamber-7ce91164421c), it's very easy to fall prey to conspiracy theories and faulty thinking:
 
 >all it takes to enter an echo chamber is a momentary lapse of intellectual vigilance. Once you’re in, the echo chamber’s belief systems function as a trap, making future acts of intellectual vigilance only reinforce the echo chamber’s worldview.
 

@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Bulljivin Edition"
+date: 2020-04-02
+title: The Bulljivin' Edition
+tags: newsletter
 ---
 
 
@@ -33,4 +34,4 @@ He said he would never support a tax increase.
 
 So for him it wasn't the money. He was willing to pay more to turn on the street lights than to pay for all city services.
 
--From This American Life, Episode 459 _What: Kind of Country_ ([link](https://www.thisamericanlife.org/459/transcript))
+-From This American Life, Episode 459 _What: Kind of Country_ ([link](https://www.thisamericanpersonal.org/459/transcript))

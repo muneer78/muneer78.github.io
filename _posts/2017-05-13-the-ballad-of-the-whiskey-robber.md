@@ -1,8 +1,10 @@
 ---
-tags: great lines
+date: 2017-05-13
+title: The Ballad Of The Whiskey Robber
+tags: great-lines, books
 ---
 
-This is a collection of great lines from the book [Ballad of the Whiskey Robber](https://bookshop.org/books/ballad-of-the-whiskey-robber-a-true-story-of-bank-heists-ice-hockey-transylvanian-pelt-smuggling-moonlighting-detectives-and-broken-hearts/9780316010733) by Julian Rubenstein. I highly recommend the audiobook:
+This is a collection of great-lines from the book [Ballad of the Whiskey Robber](https://bookshop.org/books/ballad-of-the-whiskey-robber-a-true-story-of-bank-heists-ice-hockey-transylvanian-pelt-smuggling-moonlighting-detectives-and-broken-hearts/9780316010733) by Julian Rubenstein. I highly recommend the audiobook:
 
 > There was his mother, naked with another man. Attila ran back to the cart, crying, while his father shouted, “Happy now?”
 

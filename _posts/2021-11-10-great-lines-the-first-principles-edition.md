@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The First Principles Edition"
+date: 2021-11-10
+title: The First Principles Edition
+tags: newsletter
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Samantha Irby Edition"
+date: 2022-10-24
+title: The Samantha Irby Edition
+tags: newsletter
 ---
 
 

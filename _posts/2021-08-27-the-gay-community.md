@@ -1,5 +1,7 @@
 ---
-tags: jokes
+date: 2021-08-27
+title: The Gay Community
+tags: thoughts
 ---
 
 ![gay](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/gay.jpeg)

@@ -1,6 +1,7 @@
 ---
-tags: great-lines, newsletter
-title: "Great Lines: The Egotistical Charlatan Edition"
+date: 2020-06-24
+title: The Egotistical Charlatan Edition
+tags: newsletter
 ---
 
 

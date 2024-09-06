@@ -1,4 +1,6 @@
 ---
+date: 2021-06-17
+title: Just The Woman For The Job
 tags: absurdist
 ---
 

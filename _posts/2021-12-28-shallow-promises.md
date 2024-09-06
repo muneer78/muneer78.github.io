@@ -1,5 +1,7 @@
 ---
-tags: great lines,  memes
+date: 2021-12-28
+title: Shallow Promises
+tags: great-lines, memes
 ---
 
 

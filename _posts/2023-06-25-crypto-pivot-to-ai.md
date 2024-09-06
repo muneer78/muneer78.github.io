@@ -1,6 +1,6 @@
 ---
 tags: current-events
-title: "Crypto Grifters Pivot to AI"
+title: Crypto Grifters Pivot to AI
 date: 2023-06-25
 ---
 

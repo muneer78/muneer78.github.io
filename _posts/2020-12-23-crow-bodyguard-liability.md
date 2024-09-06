@@ -1,5 +1,7 @@
 ---
-tags: awesome
+date: 2020-12-23
+title: Crow Bodyguard Liability
+tags: reddit, stories
 ---
 
 [I accidentally created an army of crow body guards. Am I liable if my murder attempts murder?](https://www.reddit.com/r/legaladvice/comments/ki6fnd/oregon_i_accidentally_created_an_army_of_crow/):

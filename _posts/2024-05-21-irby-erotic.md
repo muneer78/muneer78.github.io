@@ -1,6 +1,6 @@
 ---
 tags: entertainment
-title: "an exhaustively researched compilation of the greatest black erotic thrillers ever made"
+title: an exhaustively researched compilation of the greatest black erotic thrillers ever made
 date: 2024-05-21
 ---
 

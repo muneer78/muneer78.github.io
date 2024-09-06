@@ -1,6 +1,6 @@
 ---
 tags: great-lines
-title: "What the Hell Is Going on at Kanye West's Mysterious New Private School?"
+title: What the Hell Is Going on at Kanye West's Mysterious New Private School?
 date: 2022-09-19
 ---
 

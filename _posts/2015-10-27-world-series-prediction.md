@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2015-10-27
+title: World Series Prediction
+tags: great-lines
 ---
 
 

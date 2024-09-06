@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Extreme Reaction Edition"
+date: 2023-01-02
+title: The Extreme Reaction Edition
+tags: newsletter
 ---
 
 First, this is one of the more extreme reactions to messing up a poker game:

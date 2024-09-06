@@ -1,5 +1,7 @@
 ---
-tags: 
+date: 2024-04-23
+title: Arranged Marriage
+tags: thoughts
 ---
 
 Back before I met my white American wife, my parents were allegedly looking for a match. I said fine because it's not like I was meeting anyone I liked on my own. Then I found out that they'd actually just created a profile for me on a matrimonial site. I was annoyed but I saw an opportunity.

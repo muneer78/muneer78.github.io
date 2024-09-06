@@ -1,5 +1,7 @@
 ---
-tags: sports
+date: 2021-09-09
+title: Eddie Murray Card
+tags: sports, thoughts
 ---
 
 Back in 1993, I got this card in a pack. It was worth $75 when I got it. I thought for sure this card would be my retirement fund. I should have sold the card the moment I got it.

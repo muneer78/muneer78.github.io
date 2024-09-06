@@ -1,7 +1,9 @@
 ---
-tags: jokes
+date: 2013-08-03
+title: Speedometer
+tags: thoughts
 ---
 
 ![boob](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/boob.jpeg)
 
-<p>My speedometer says "BOOB".</p>
+My speedometer says "BOOB".

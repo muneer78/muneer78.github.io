@@ -1,4 +1,6 @@
 ---
+date: 2018-12-01
+title: Active Shooter
 tags: funny
 ---
 

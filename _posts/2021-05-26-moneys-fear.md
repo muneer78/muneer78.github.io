@@ -1,6 +1,7 @@
 ---
+date: 2021-05-26
+title: Moneys Fear
 tags: great-lines
-title: Money ain't scared
 ---
 
 

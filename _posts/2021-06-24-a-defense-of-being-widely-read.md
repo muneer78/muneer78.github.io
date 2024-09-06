@@ -1,4 +1,6 @@
 ---
+date: 2021-06-24
+title: A Defense Of Being Widely Read
 tags: politics
 ---
 

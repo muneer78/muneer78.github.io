@@ -1,13 +1,14 @@
 ---
-tags: great-lines
-title: "Great Lines: The Out Of Office Response Edition"
+date: 2022-07-04
+title: The Out Of Office Response Edition
+tags: newsletter
 ---
 
 This is some good game from The Boondocks:![rileyfreeman.jpeg](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/rileyfreeman.jpeg)
 
 ___
 
-I love the book <a target="_blank" rel="noopener noreferrer nofollow" href="https://bookshop.org/books/unplugged-9781684334926/9781684334926">Unplugged by Joe Barrett</a>. 
+I love the book [Unplugged by Joe Barrett](https://bookshop.org/books/unplugged-9781684334926/9781684334926). 
 
 Here are a couple of good quotes from the book:
 

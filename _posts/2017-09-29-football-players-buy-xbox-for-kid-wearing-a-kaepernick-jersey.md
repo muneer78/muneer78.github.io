@@ -1,5 +1,7 @@
 ---
-tags: uplifting,  sports
+date: 2017-09-29
+title: Football Players Buy Xbox For Kid Wearing A Kaepernick Jersey
+tags: uplifting, sports
 ---
 
 I love [stories like this](https://www.washingtonpost.com/news/dc-sports-bog/wp/2017/09/28/a-kid-walked-into-a-gamestop-wearing-a-colin-kaepernick-jersey-two-nfl-players-bought-him-an-xbox/) about simple kindness:

@@ -1,6 +1,7 @@
 ---
-tags: great-lines, newsletter
-title: "Great Lines: The Old Man In Poverty Edition"
+date: 2020-07-01
+title: The Old Man In Poverty Edition
+tags: newsletter
 ---
 
 

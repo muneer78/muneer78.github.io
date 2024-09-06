@@ -1,4 +1,6 @@
 ---
+date: 2012-09-14
+title: Fair And Lovely
 tags: stories
 ---
 

@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Hardcore Kid Edition"
+date: 2023-06-05
+title: The Hardcore Kid Edition
+tags: newsletter
 ---
 
 First, this kid is guaranteed to have gone places since this incident.

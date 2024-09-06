@@ -1,5 +1,7 @@
 ---
-tags: video,  music
+date: 2018-08-21
+title: Towa Tei Live Set
+tags: video, entertainment
 ---
 
 Towa Tei's been the bomb since he was in Deee-Lite:

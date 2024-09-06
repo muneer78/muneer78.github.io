@@ -1,5 +1,7 @@
 ---
-tags: schemes
+date: 2023-06-16
+title: Pilot Scheme
+tags: stories
 ---
 
 The pilots at some airline had what was called a non qualified 401k. That's where the company can fund it, but it goes poof if there's a bankruptcy. This airline had just gone bankrupt.

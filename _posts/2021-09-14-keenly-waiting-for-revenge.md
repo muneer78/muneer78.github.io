@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2021-09-14
+title: Keenly Waiting For Revenge
+tags: great-lines, books
 ---
 
 

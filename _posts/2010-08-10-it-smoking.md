@@ -1,5 +1,7 @@
 ---
-tags: picture
+date: 2010-08-10
+title: IT Clown Smoking
+tags: entertainment
 ---
 
 Besides Dick Cheney in a Go Kart, this is the most unsettling picture I've ever seen.

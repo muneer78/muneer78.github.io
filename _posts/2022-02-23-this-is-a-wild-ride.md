@@ -1,4 +1,6 @@
 ---
+date: 2022-02-23
+title: This Is A Wild Ride
 tags: funny
 ---
 

@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2013-09-25
+title: Can Someone Please Explain To Me How One Would Fake The Funk On A Nasty Dunk
+tags: great-lines, sports
 ---
 
 [Can someone please explain to me how one would fake the funk on a nasty dunk?](https://www.reddit.com/r/nba/comments/1n0uhu/can_someone_please_explain_to_me_how_one_would/):

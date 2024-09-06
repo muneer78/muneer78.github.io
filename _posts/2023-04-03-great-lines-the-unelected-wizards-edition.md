@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Unelected Wizards Edition"
+date: 2023-04-03
+title: The Unelected Wizards Edition
+tags: newsletter
 ---
 
 First, I like puns and this one is a classic:

@@ -1,5 +1,7 @@
 ---
-tags: football
+date: 2017-03-10
+title: Bill Belichick Conspiracy Theory
+tags: reddit, sports, funny
 ---
 
 I love this [Reddit conspiracy theory](https://www.reddit.com/r/Patriots/comments/5yel0q/was_told_this_sub_reddit_would_enjoy_this_lovely/) about Belichick:

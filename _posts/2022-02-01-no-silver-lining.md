@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2022-02-01
+title: No Silver Lining
+tags: great-lines
 ---
 
 

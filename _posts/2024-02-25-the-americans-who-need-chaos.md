@@ -1,8 +1,10 @@
 ---
-tags: politics
+date: 2024-02-25
+title: The Americans Who Need Chaos
+tags: current-events, politics
 ---
 
-This is unfortunately true of most of the MAGA cult. They can't get enough dopamine at home or in their normal lives, so they have to ruin everyone else's life.
+This is unfortunately true of most of the MAGA cult. They can't get enough dopamine at home or in their normal lives, so they have to ruin everyone else's personal.
 
 [The Americans Who Need Chaos](https://www.theatlantic.com/ideas/archive/2024/02/need-for-chaos-political-science-concept/677536/):
 

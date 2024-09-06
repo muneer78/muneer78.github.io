@@ -1,6 +1,7 @@
 ---
-tags: politics,  great lines
-title: "Joe Biden Is Right: For America to Heal, We Must Find Common Ground With Trump Supporters"
+date: 2020-11-13
+title: Joe Biden Is Right. For America To Heal We Must Find Common Ground With Trump Supporters
+tags: current-events, great-lines
 ---
 
 

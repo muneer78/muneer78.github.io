@@ -1,4 +1,6 @@
 ---
+date: 2024-06-20
+title: Party Cove
 tags: thoughts
 ---
 

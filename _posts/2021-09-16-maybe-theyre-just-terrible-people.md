@@ -1,6 +1,7 @@
 ---
-tags: trolling
-title:  Maybe they're just terrible people
+date: 2021-09-16
+title: Trolls
+tags: bad-people
 ---
 
 I'm fascinated by trolls, mainly because a former friend became one. It's interesting to read about the darkness that resides within these people.

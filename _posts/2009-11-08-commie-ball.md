@@ -1,5 +1,7 @@
 ---
-tags: sports,  metafilter
+date: 2009-11-08
+title: Commie Ball
+tags: sports, strange-researches
 ---
 
 [Cuban players have long been a mainstay in baseball](http://www.pbs.org/stealinghome/history/index.html). After Fidel Castro made it impossible for people to leave the island, the flow of players stopped to a drip. That changed with the defection of Rene Arocha in 1991.

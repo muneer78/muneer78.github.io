@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Nixon/Trump Edition"
+date: 2021-03-27
+title: The Nixon/Trump Edition
+tags: newsletter
 ---
 
 I’ve recently been watching a lot of the original “Head of the Class” series on HBO Max.  This type of nostalgia has been very prevalent in my life recently.
@@ -17,11 +18,10 @@ And now, on to the Great Lines.
 > 
 > You can’t support Trump and also be a decent human being. You can’t support Trump and earn my respect.
 
----
 
-[Second](https://www.theatlantic.com/magazine/archive/1994/07/he-was-a-crook/308699/), this obituary of Richard Nixon by Hunter S. Thompson can likely be reprinted with “Nixon” replaced by Trump when that wonderful day arrives:
+[Third](https://theconcourse.deadspin.com/how-wile-e-coyote-explains-the-world-1752248034), a classic line from an essay about the classic comics of Wile E. Coyote:
 
-> He  has poisoned our water forever. Nixon will be remembered as a classic  case of a smart man shitting in his own nest. But he also shit in our  nests, and that was the crime that history will burn on his memory like a  brand. By disgracing and degrading the Presidency of the United States,  by fleeing the White House like a diseased cur, Richard Nixon broke the  heart of the American Dream.
+> …your  mind is a baffling supercomputer nevertheless hopelessly inadequate to  the task of understanding the full terrible complexity of the world  around you.g in his own nest. But he also shit in our  nests, and that was the crime that history will burn on his memory like a  brand. By disgracing and degrading the Presidency of the United States,  by fleeing the White House like a diseased cur, Richard Nixon broke the  heart of the American Dream.
 
 ---
 

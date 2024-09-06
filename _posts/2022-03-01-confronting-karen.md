@@ -1,6 +1,7 @@
 ---
-tags: stories
-published: false
+date: 2022-03-01
+title: Confronting Karen
+tags: thoughts
 ---
 
 Karen and her family came in without masks and then asked if the restaurant had masks for them.

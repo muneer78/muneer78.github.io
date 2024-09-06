@@ -1,6 +1,6 @@
 ---
 tags: great-lines, entertainment
-title: "Gabby's Vibe"
+title: Gabby's Vibe
 date: 2022-08-25
 ---
 

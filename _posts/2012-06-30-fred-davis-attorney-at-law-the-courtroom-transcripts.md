@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2012-06-30
+title: Fred Davis, Attorney At Law: The Courtroom Transcripts
+tags: great-lines, sports
 ---
 
 

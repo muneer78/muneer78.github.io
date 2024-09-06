@@ -1,6 +1,7 @@
 ---
-tags: sports
+date: 2019-05-01
 title: NCAA Picks Experiment
+tags: sports
 ---
 
 This is an experiment to see which prediction source accumulates the most points using a standard scoring system.  

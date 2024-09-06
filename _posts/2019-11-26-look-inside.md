@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2019-11-26
+title: Look Inside
+tags: great-lines
 ---
 
 

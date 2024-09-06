@@ -1,4 +1,6 @@
 ---
+date: 2021-07-18
+title: Sisqo On Creating The Thong Song
 tags: entertainment
 ---
 

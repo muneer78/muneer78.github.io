@@ -1,6 +1,7 @@
 ---
-tags: books
+date: 2017-05-02
 title: The Count of Monte Cristo
+tags: books
 ---
 
 I’m stealing this idea from James Clear. I want to begin reviewing books so that I can actually remember what I liked about them and any insights they provided to me.

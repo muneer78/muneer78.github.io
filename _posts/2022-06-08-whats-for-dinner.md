@@ -1,7 +1,7 @@
 ---
+date: 2022-06-08
+title: What's For Dinner?
 tags: stories
-published: false
-title: What's for dinner?
 ---
 
 This happened when I was 15. I'm in my 40s now.
@@ -19,3 +19,4 @@ My NDad came home one night and I hadn't started dinner yet. He asked, "What are
 This response threw him for a loop and he went to his room. I ended up starting dinner not long after.
 
 Even though it was traumatic at the time, I think back and laugh at my response. One of the few things I can laugh about, really.``
+`

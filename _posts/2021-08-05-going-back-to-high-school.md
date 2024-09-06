@@ -1,5 +1,7 @@
 ---
-tags: stories,  jokes
+date: 2021-08-05
+title: Going Back To High School
+tags: thoughts
 ---
 
 A conversation I had with my pal, Lora a couple of years ago, when we'd both reached our 40s.

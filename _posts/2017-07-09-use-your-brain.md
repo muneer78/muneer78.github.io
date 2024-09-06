@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2017-07-09
+title: Use Your Brain
+tags: great-lines
 ---
 
 

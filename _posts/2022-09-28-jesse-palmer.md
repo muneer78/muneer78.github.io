@@ -1,6 +1,6 @@
 ---
 tags: great-lines, entertainment
-title: "Jesse Palmer Review"
+title: Jesse Palmer Review
 date: 2022-09-28
 ---
 

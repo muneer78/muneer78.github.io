@@ -1,6 +1,7 @@
 ---
-tags: sports, funny
+date: 2014-10-15
 title: These O's Ain't Royal
+tags: sports
 ---
 
 Sports related pettiness is my favorite. Here's Jeremy Guthrie taking a shot at his old team:

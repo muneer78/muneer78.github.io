@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2015-11-27
+title: Josh Norman
+tags: great-lines, sports
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 tags: politics
-title: "Bipartisanship Is BS"
+title: Bipartisanship Is BS
 date: 2024-08-28
 ---
 

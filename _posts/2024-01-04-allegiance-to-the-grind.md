@@ -1,4 +1,6 @@
 ---
+date: 2024-01-04
+title: Allegiance To The Grind
 tags: memes
 ---
 

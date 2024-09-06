@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2012-07-31
+title: Chelsea Peretti
+tags: great-lines
 ---
 
 

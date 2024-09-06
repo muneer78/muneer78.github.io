@@ -1,6 +1,7 @@
 ---
-tags: entertainment, awesome
-title: Swole Chidi
+date: 2019-08-30
+title: A Moral Defense Of Chidi's Swoleness
+tags: entertainment, critical-analysis
 ---
 
 

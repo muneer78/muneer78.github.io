@@ -1,6 +1,6 @@
 ---
 tags: law
-title: "Killology"
+title: Killology
 date: 2022-10-15
 ---
 

@@ -1,5 +1,7 @@
 ---
-tags: jokes,  stories
+date: 2018-10-10
+title: Becoming A Man
+tags: thoughts
 ---
 
 I once saw a teen boy at SportClips with his mom. The stylist who came to get him for his cut was a Russian woman who was showing a lot of cleavage. 

@@ -1,6 +1,6 @@
 ---
 tags: great-lines
-title: "Contrarianism"
+title: Contrarianism
 date: 2016-11-15
 ---
 

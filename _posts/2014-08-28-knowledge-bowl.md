@@ -1,4 +1,6 @@
 ---
+date: 2014-08-28
+title: Knowledge Bowl
 tags: stories
 ---
 

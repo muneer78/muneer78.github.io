@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Focus Edition"
+date: 2020-09-02
+title: The Focus Edition
+tags: newsletter
 ---
 
 

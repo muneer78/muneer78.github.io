@@ -1,5 +1,7 @@
 ---
-tags: stories,  politics
+date: 2014-12-29
+title: The Tea Party Gets Its Just Desserts
+tags: stories, current-events
 ---
 
 At my old job, I’d talk to Tea Party idiots all the time. Since we had to take calls from people if they followed up on stuff, I was able to see the deterioration of their lives in a very concrete way.

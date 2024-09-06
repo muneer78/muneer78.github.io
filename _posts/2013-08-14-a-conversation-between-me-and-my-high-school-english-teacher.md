@@ -1,5 +1,7 @@
 ---
-tags: stories,  jokes
+date: 2013-08-14
+title: A Conversation Between Me And My High School English Teacher
+tags: thoughts
 ---
 
 **English teacher**: What do you think of as the American Dream?<br>

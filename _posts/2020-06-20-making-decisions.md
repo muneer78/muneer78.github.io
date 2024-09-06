@@ -1,6 +1,7 @@
 ---
+date: 2020-06-20
+title: Making Decisions
 tags: thinking
-title: Decision Making
 ---
 
 Decision making is a multi-faceted subject. It goes beyond just deciding yes or no. As the resources below will show you, there are a number of ways to make decisions optimally.

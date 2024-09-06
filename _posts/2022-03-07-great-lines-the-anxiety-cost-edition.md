@@ -1,11 +1,8 @@
 ---
-tags: great-lines
-title: "Great Lines: The Anxiety Cost Edition"
+date: 2022-03-07
+title: The Anxiety Cost Edition
+tags: newsletter
 ---
-
-
-
-
 
 I love Twitter memes. You'll be seeing more of them like this one:
 

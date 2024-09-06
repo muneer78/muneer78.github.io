@@ -1,4 +1,6 @@
 ---
+date: 2023-08-03
+title: Tea Party Progression
 tags: politics
 ---
 

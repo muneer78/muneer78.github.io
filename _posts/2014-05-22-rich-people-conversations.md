@@ -1,5 +1,7 @@
 ---
-tags: great lines,  sports
+date: 2014-05-22
+title: Rich People Conversations
+tags: great-lines, sports
 ---
 
 

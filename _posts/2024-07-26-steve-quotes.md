@@ -1,6 +1,6 @@
 ---
 tags: great-lines
-title: "Hilarious Quotes From My Pal Steve"
+title: Hilarious Quotes From My Pal Steve
 date: 2024-07-26
 ---
 

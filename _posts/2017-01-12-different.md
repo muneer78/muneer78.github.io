@@ -1,5 +1,7 @@
 ---
-tags: great lines
+date: 2017-01-12
+title: Different
+tags: great-lines
 ---
 
 

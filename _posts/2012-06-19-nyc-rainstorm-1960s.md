@@ -1,6 +1,7 @@
 ---
+date: 2012-06-19
+title: New York City Rainstorm, 1960s
 tags: cities
-title: NYC rainstorm, 1960's
 ---
 
 ![nycrain](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/nyc.jpg)

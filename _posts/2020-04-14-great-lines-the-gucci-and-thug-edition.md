@@ -1,6 +1,7 @@
 ---
-tags: great-lines, newsletter
-title: "Great Lines: The Gucci and Thug Edition"
+date: 2020-04-14
+title: The Gucci And Thug Edition
+tags: newsletter
 ---
 
 

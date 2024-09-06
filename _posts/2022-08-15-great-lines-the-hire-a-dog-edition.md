@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Hire A Dog Edition"
+date: 2022-08-15
+title: The Hire A Dog Edition
+tags: newsletter
 ---
 I've become more and more radicalized against the current capitalist system. Here are some memes that say what I feel much better than I could.
 ___

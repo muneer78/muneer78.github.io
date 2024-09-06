@@ -1,4 +1,6 @@
 ---
+date: 2022-04-06
+title: Jeff King Hated Baseball
 tags: sports
 ---
 

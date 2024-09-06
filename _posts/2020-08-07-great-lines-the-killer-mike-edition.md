@@ -1,6 +1,7 @@
 ---
-tags: great-lines, newsletter
-title: "Great Lines: The Killer Mike Edition"
+date: 2020-08-07
+title: The Killer Mike Edition
+tags: newsletter
 ---
 
 

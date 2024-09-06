@@ -1,4 +1,6 @@
 ---
+date: 2016-11-09
+title: 2016 Election Thoughts
 tags: current events
 ---
 

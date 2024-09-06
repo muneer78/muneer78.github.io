@@ -1,5 +1,7 @@
 ---
-tags: jokes
+date: 2014-07-02
+title: Dustin Diamond
+tags: entertainment
 ---
 
-<p>I think Dustin Diamond is so bitter because he invented a sentient robot in 1989 and no one gave him his due.</p>
+> I think Dustin Diamond is so bitter because he invented a sentient robot in 1989 and no one gave him his due.

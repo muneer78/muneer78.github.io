@@ -1,4 +1,6 @@
 ---
+date: 2009-09-07
+title: Communication Is The Key
 tags: relationships
 ---
 

@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Support Group Edition"
+date: 2022-06-20
+title: The Support Group Edition
+tags: newsletter
 ---
 
 
@@ -20,4 +21,3 @@ Coach Finstock from the movie Teen Wolf said the following wise words:
 Finally, the great Ben Franklin said the following and it really resonates with me: 
 
 > A learned blockhead is a greater blockhead than an ignorant one.
----

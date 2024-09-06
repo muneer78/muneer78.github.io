@@ -1,4 +1,6 @@
 ---
+date: 2009-08-12
+title: Reggie Miller Feuds With A Prince
 tags: funny
 ---
 

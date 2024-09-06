@@ -1,6 +1,7 @@
 ---
-tags: sports
-title: NBA tough guys
+date: 2021-08-20
+title: NBA Tough Guys
+tags: sports, strange-researches
 ---
 
 NBA tough guys have a storied and colorful history.

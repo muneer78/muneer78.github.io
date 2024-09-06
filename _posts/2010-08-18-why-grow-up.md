@@ -1,5 +1,7 @@
 ---
-tags: metafilter,  wisdom
+date: 2010-08-18
+title: Why Grow Up?
+tags: thoughts
 ---
 
 A friend of mine and I were recently talking about this and came to the conclusion that there is no longer a positive reason to be an "adult".

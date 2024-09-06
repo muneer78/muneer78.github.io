@@ -1,4 +1,6 @@
 ---
+date: 2021-09-13
+title: Dave's Restaurant, New York City, 1984
 tags: cities
 ---
 

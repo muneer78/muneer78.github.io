@@ -1,6 +1,7 @@
 ---
-tags: great-lines,  newsletter
-title: "Great Lines: The Black Spades Edition"
+date: 2020-06-10
+title: The Black Spades Edition
+tags: newsletter, black
 ---
 
 

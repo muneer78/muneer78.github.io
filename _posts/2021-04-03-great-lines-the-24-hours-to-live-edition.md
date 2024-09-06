@@ -1,20 +1,14 @@
 ---
-tags: great-lines, newsletter
-title: "Great Lines: The 24 Hours To Live Edition"
+date: 2021-04-03
+title: The 24 Hours To Live Edition
+tags: newsletter
 ---
 
 I had an ethical conundrum a few weeks back. I saw that I could go to a small town in the southern part of the state and get vaccinated. After thinking about it, I decided to wait my turn here at home. It ultimately seemed unethical to me to take a dose from someone else in that community.
 
 I’ve been sitting inside for the past year. What’s a few more months?
 
----
-
-[First](https://www.newyorker.com/magazine/2020/08/03/how-police-unions-fight-reform), a look into how police unions see those who they protect:
-
-> Imagine a nurses’ union that hated patients, that went on TV and talked about how much trouble the patients give them.
-
----
-[Second](https://www.theringer.com/music/2017/8/7/16105366/24-hours-to-live-mase-best-verse-dmx-the-lox-black-rob), Shea Serrano does a deep dive into which rapper had the best last day in Ma$e’s song “24 Hours To Live”:
+[Second](https://www.theringer.com/entertainment/2017/8/7/16105366/24-hours-to-live-mase-best-verse-dmx-the-lox-black-rob), Shea Serrano does a deep dive into which rapper had the best last day in Ma$e’s song “24 Hours To Live”:
 
 > I just know spending the final hours of your life handling bank-related business is an odd choice.
 

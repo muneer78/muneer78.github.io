@@ -1,10 +1,11 @@
 ---
-tags: great-lines
-title: Roger Ebert's movie critiques
+date: 2018-12-28
+title: I Hated, Hated, Hated This Movie
+tags: great-lines, entertainment, critical-analysis
 ---
 
 
-These are some great lines from Roger Ebert's book, I Hated, Hated, Hated This Movie:
+These are some great-lines from Roger Ebert's book, I Hated, Hated, Hated This Movie:
 
 > In which we determine how werewolves are made, how they are killed, and how they spread their wolfiness.
 

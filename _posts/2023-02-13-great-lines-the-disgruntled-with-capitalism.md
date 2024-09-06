@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Disgruntled With Capitalism Edition"
+date: 2023-02-13
+title: The Disgruntled With Capitalism Edition
+tags: newsletter
 ---
 
 By now, everyone knows that I have been radicalized against the power differential in the employer-employee relationship. Here are some memes that say it much better than I ever could.

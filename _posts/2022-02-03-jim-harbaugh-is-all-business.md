@@ -1,5 +1,7 @@
 ---
-tags: stories,  funny
+date: 2022-02-03
+title: Jim Harbaugh Is All Business
+tags: sports, funny
 ---
 
 I love [this story](https://www.awesemo.com/sideaction/absurd-jim-harbaugh-michigan-story-surfacing-following-urban-meyer-viral-moment-bjs/) about how Jim Harbaugh dealt with young women who were flirting with him:

@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Mahomes And Kelce Edition"
+date: 2022-11-23
+title: The Mahomes And Kelce Edition
+tags: newsletter
 ---
 
 It's now the second time I've sent a Thanksgiving newsletter. This officially makes this newsletter the longest creative endeavor I've ever engaged in.

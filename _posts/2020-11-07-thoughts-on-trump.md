@@ -1,5 +1,7 @@
 ---
-tags: politics,  extremists,  current events
+date: 2020-11-07
+title: Thoughts On Trump
+tags: current-events
 ---
 
 4 years ago, I woke up at 6am and navigated to Google. Seeing the words "Donald Trump has been elected the 45th President of the United States" made my heart jump and sent me into a stupor.

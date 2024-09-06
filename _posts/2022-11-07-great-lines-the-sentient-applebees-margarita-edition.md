@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Sentient Applebees Margarita 7363"
+date: 2022-11-07
+title: The Sentient Applebees Margarita Edition
+tags: newsletter
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-tags: great-lines
-title: "Great Lines: The Antivaxxer Edition"
+date: 2020-09-16
+title: The Antivaxxer Edition
+tags: newsletter
 ---
 
 

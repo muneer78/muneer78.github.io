@@ -1,6 +1,7 @@
 ---
+date: 2009-10-15
+title: Report: Majority Of Newspapers Now Purchased By Kidnappers To Prove Date
 tags: funny
-title: The purpose of newspapers
 ---
 
 

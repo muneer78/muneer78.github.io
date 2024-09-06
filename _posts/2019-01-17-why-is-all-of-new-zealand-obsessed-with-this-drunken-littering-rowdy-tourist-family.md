@@ -1,5 +1,7 @@
 ---
-tags: travel,  bad people
+date: 2019-01-17
+title: Why Is All Of New Zealand Obsessed With This Drunken, Littering, Rowdy Tourist Family?
+tags: travel, bad people
 ---
 
 There's a family of hooligans currently laying waste to New Zealand. It's delightful to [read](https://slate.com/human-interest/2019/01/new-zealand-tourists-john-johnson-tina-cash-arrest.html) about.
