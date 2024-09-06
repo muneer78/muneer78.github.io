@@ -2,19 +2,37 @@
 title: "Cities"
 layout: default
 permalink: /cities/
+paginate: 10
 ---
 
 <h1>Cities</h1>
 
 <p>I love vintage pictures of cities, especially street scenes. I collect these and have posted them all here.</p>
 
-
-<ul>
-  {% assign postsInYear = site.posts | where_exp: "item", "item.categories contains 'cities'" | where_exp: "item", "item.hidden != true" %}
-  {% for post in postsInYear %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - 
-      <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
-    </li>
+<div class="posts">
+  {% for post in paginator.posts %}
+    {% if post.categories contains "cities" %}
+      <article class="post">
+        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        <div class="entry">
+          <p>{{ post.content | truncate: 500 }}</p> <!-- Display first 500 characters of post content -->
+        </div>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      </article>
+    {% endif %}
   {% endfor %}
-</ul>
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% endif %}
+  
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% endif %}
+</div>
+
+{% for link in site.data.navigation %}
+  <a class="page-link" href="{{ link.url }}">{{ link.title }}</a>
+{% endfor %}
