@@ -1,6 +1,6 @@
 ---
 date: 2009-09-15
-title: *Slap* Sir, I Demand Satisfaction!
+title: "*Slap* Sir, I Demand Satisfaction!"
 tags: history, strange-researches
 ---
 

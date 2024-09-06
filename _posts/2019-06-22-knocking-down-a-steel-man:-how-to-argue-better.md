@@ -1,6 +1,6 @@
 ---
 date: 2019-06-22
-title: Knocking Down A Steel Man: How To Argue Better
+title: "Knocking Down A Steel Man: How To Argue Better"
 tags: thinking
 ---
 

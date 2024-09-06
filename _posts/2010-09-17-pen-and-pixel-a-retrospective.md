@@ -1,6 +1,6 @@
 ---
 date: 2010-09-17
-title: Pen And Pixel: A Retrospective
+title: "Pen And Pixel: A Retrospective"
 tags: entertainment, art, strange-researches
 ---
 

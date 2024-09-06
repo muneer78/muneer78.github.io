@@ -1,6 +1,6 @@
 ---
 date: 2020-10-21
-title: The True Story Of Donald Trump: Secret Action Hero
+title: "The True Story Of Donald Trump: Secret Action Hero"
 tags: funny, bad-people
 ---
 
