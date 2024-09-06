@@ -117,7 +117,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $orange;
+  color: $red;
 }
 
 // Specify the color of the selection
@@ -156,7 +156,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $pink;
+  border-bottom: 1px solid $orange;
 
   @include mobile {
     text-align: center;
@@ -202,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $pink;
+  color: $blue;
   font-size: 16px;
 
   @include mobile {
@@ -225,7 +225,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $orange;
+    color: $red;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -243,7 +243,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $white;
+  border-bottom: 1px solid $orange;
 }
 
 .posts > .post:last-child {
