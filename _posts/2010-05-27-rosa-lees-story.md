@@ -1,7 +1,9 @@
 ---
 date: 2010-05-27
+layout: post
+category: strange-researches
 title: Rosa Lee's Story
-tags: strange-researches
+tags: poverty, ethnography
 ---
 
 In 1994, [Leon](http://en.wikipedia.org/wiki/Leon_Dash) [Dash](http://www.media.illinois.edu/faculty/dash.html), while still at the Washington Post, wrote a [Pulitzer winning series](http://www.washingtonpost.com/wp-srv/local/longterm/library/rosalee/backgrnd.htm) of articles about a woman named Rosa Lee Cunningham.

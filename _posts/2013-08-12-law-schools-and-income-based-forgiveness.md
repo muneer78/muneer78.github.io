@@ -1,7 +1,9 @@
 ---
 date: 2013-08-12
+layout: post
+category: strange-researches
 title: Law Schools And Income Based Forgiveness
-tags: law, strange-researches
+tags: law
 ---
 
 This practice will likely extend into a system where elite students who plan to go into the private sector are recruited and promised loan forgiveness, while tuition skyrockets ever higher for students in the middle and at the bottom of the class. There is no upper limit on how much one can borrow with a Grad Plus loan, so as long as there are naive students willing to pay to go to Georgetown, the school can keep raising tuition to infinity.

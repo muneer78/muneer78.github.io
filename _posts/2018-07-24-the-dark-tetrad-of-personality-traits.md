@@ -1,7 +1,9 @@
 ---
 date: 2018-07-24
+layout: post
+category: strange-researches
 title: The Dark Tetrad Of Personality Traits
-tags: strange-researches, bad-people
+tags: bad-people
 ---
 
 I’ve dealt with someone in my personal who really enjoys trolling. I no longer talk to him, but it got me interested in why someone would want to be so intentionally unpleasant. Here are some explanations.

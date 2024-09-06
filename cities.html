@@ -1,24 +1,28 @@
 ---
+title: "Cities"
 layout: default
+permalink: /cities/
 ---
+
+I love vintage pictures of cities, especially street scenes. I collect these and have posted them all here.
 
 <div class="toc">
   <h2>Table of Contents</h2>
   <ul>
     {% for post in paginator.posts %}
-      {% unless post.categories contains "strange-researches" or post.categories contains "cities" %}
+      {% if post.categories contains "cities" %}
         <li>
           <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
           <span class="post-date">- {{ post.date | date: "%B %d, %Y" }}</span>
         </li>
-      {% endunless %}
+      {% endif %}
     {% endfor %}
   </ul>
 </div>
 
 <div class="posts">
   {% for post in paginator.posts %}
-    {% unless post.categories contains "strange-researches" or post.categories contains "cities" %}
+    {% if post.categories contains "cities" %}
       <article class="post">
         <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
         <div class="entry">
@@ -26,7 +30,7 @@ layout: default
         </div>
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </article>
-    {% endunless %}
+    {% endif %}
   {% endfor %}
 </div>
 

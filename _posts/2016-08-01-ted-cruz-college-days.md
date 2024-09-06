@@ -1,7 +1,9 @@
 ---
 date: 2016-08-01
-title: Ted Cruz's College Days
-tags: bad-people, strange-researches
+layout: post
+category: strange-researches
+title: "Ted Cruz's College Days"
+tags: bad-people
 ---
 
 Ted Cruz is a very odd duck. I don't think I've run across someone so universally disliked, yet so successful at getting into positions of power.  

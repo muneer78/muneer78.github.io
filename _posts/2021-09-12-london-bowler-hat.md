@@ -2,6 +2,7 @@
 date: 2021-09-12
 title: A Man In A Bowler Hat
 tags: cities
+category: cities
 ---
 
 A businessman walks past an Evening Standard billboard as he leaves Bank tube station in 1972. (Picture; Rex)

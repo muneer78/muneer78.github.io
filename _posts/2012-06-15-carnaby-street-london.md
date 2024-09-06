@@ -1,5 +1,6 @@
 ---
 tags: cities
+category: cities
 title: Carnaby Street, London
 ---
 

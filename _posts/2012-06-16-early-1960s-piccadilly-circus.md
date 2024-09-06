@@ -1,5 +1,6 @@
 ---
 tags: cities
+category: cities
 title: London, Piccadilly Circus, Early 1960's
 ---
 

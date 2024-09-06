@@ -1,5 +1,7 @@
 ---
 tags: cities
+category: cities
+title: "Jeddah Views"
 ---
 
 ![jeddah1](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/Jeddah%20City%202.jpeg)

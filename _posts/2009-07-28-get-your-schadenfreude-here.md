@@ -1,7 +1,9 @@
 ---
+layout: post
 date: 2009-07-28
 title: Get Your Schadenfreude Here
-tags: strange-researches
+tags: internet, links, list
+category: strange-researches
 ---
 
 Recently, there have been a host of websites that delight in exposing the inanity and stupidity of our society. There is the granddaddy, [Overheard in New York](http://www.overheardinnewyork.com), which recounts silly conversations heard in the Big Apple, as well as a [host](http://www.overheardintheoffice.com) [of](http://www.overheardatthebeach.com) [similar](http://www.overheardeverywhere.com) sites. There are now a variety of such websites, dedicated to different aspects of our society.

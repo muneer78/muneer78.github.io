@@ -1,7 +1,9 @@
 ---
 date: 2009-09-15
+layout: post
+category: strange-researches
 title: "*Slap* Sir, I Demand Satisfaction!"
-tags: history, strange-researches
+tags: history
 ---
 
 Few things in history are as compelling as the duel. Refined and barbaric at the same time, this practice has had a checkered history. The rules of dueling were codified by the Irish in 1777 in the Code Duello ([summarized here](http://www.pbs.org/wgbh/amex/duel/sfeature/rulesofdueling.html)), which was codified at Clonmel Summer Assizes in 1777\. 

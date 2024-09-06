@@ -6,8 +6,6 @@ date: 2024-08-29
 
 Samantha Irby's reviews of Judge Mathis episodes are a national treasure:
 
----
-
 [#284](https://bitchesgottaeat.substack.com/p/who-was-on-judge-mathis-yesterday-45d): 
 
 > robert goes on to detail how he runs a bootcamp for children out of his home (haha yeah, me too brother, it’s called “go get me another diet coke from the refrigerator”) because when he was a teenager he was running the streets and his uncle snatched him up and put him to work “cutting grass and tearing up carpet.” and now, as an adult, he honors that legacy by tearing up the carpet of every one of his female friends.
