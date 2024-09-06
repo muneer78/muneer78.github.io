@@ -2,6 +2,7 @@
 tags: cities
 title: "San Francisco, 1950s"
 date: 2024-09-02
+category: cities
 ---
 
 

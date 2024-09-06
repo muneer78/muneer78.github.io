@@ -155,25 +155,24 @@ img {
 }
 
 .masthead {
-  display: flex; /* Enable Flexbox */
-  align-items: center; /* Vertically center elements */
   padding: 20px 0;
-  border-bottom: 1px solid $orange;
+  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
-    flex-direction: column; /* Stack elements on mobile */
   }
 }
 
 .site-avatar {
-  float: none; /* Flexbox removes the need for float */
+  float: left;
   width: 70px;
   height: 70px;
   margin-right: 15px;
 
   @include mobile {
-    margin: 0 auto 10px auto;
+    float: none;
+    display: block;
+    margin: 0 auto;
   }
 
   img {
@@ -182,18 +181,18 @@ img {
 }
 
 .site-info {
-  display: flex;
-  flex-direction: column; /* Stack site name and nav vertically */
-  justify-content: center;
+  float: left;
 
   @include mobile {
+    float: none;
+    display: block;
     margin: 0 auto;
   }
 }
 
 .site-name {
   margin: 0;
-  color: $pink;
+  color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -203,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $blue;
+  color: $gray;
   font-size: 16px;
 
   @include mobile {
@@ -212,11 +211,13 @@ img {
 }
 
 nav {
-  margin-top: 10px; /* Add small space between site name and links */
+  float: right;
+  margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
 
   @include mobile {
+    float: none;
     margin-top: 9px;
     display: block;
     font-size: 16px;
@@ -224,7 +225,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $red;
+    color: $darkGray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
