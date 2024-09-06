@@ -156,7 +156,6 @@ img {
 
 .masthead {
   display: flex; /* Enable Flexbox */
-  justify-content: space-between; /* Spread out elements */
   align-items: center; /* Vertically center elements */
   padding: 20px 0;
   border-bottom: 1px solid $orange;
@@ -183,7 +182,10 @@ img {
 }
 
 .site-info {
-  float: none; /* Flexbox handles layout */
+  display: flex;
+  flex-direction: column; /* Stack site name and nav vertically */
+  justify-content: center;
+
   @include mobile {
     margin: 0 auto;
   }
@@ -197,6 +199,7 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+  line-height: 1.2; /* Adjust line spacing */
 }
 
 .site-description {
@@ -210,7 +213,7 @@ img {
 }
 
 nav {
-  margin-top: 0; /* No need for margin-top */
+  margin-top: 10px; /* Add small space between site name and links */
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -233,6 +236,7 @@ nav {
     }
   }
 }
+
 //
 // .main
 //
