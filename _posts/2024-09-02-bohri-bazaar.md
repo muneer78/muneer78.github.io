@@ -1,6 +1,6 @@
 ---
 date: 2021-09-16
-title: Bohri Bazaar, Karachi
+title: "Bohri Bazaar, Karachi"
 tags: cities
 category: cities
 ---

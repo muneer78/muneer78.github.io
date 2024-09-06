@@ -1,6 +1,6 @@
 ---
 date: 2024-08-29
-title: Hassan Square, 1975
+title: "Hassan Square, 1975"
 tags: cities
 category: cities
 ---
