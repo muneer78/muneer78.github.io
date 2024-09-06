@@ -155,24 +155,26 @@ img {
 }
 
 .masthead {
+  display: flex; /* Enable Flexbox */
+  justify-content: space-between; /* Spread out elements */
+  align-items: center; /* Vertically center elements */
   padding: 20px 0;
   border-bottom: 1px solid $orange;
 
   @include mobile {
     text-align: center;
+    flex-direction: column; /* Stack elements on mobile */
   }
 }
 
 .site-avatar {
-  float: left;
+  float: none; /* Flexbox removes the need for float */
   width: 70px;
   height: 70px;
   margin-right: 15px;
 
   @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
+    margin: 0 auto 10px auto;
   }
 
   img {
@@ -181,11 +183,8 @@ img {
 }
 
 .site-info {
-  float: left;
-
+  float: none; /* Flexbox handles layout */
   @include mobile {
-    float: none;
-    display: block;
     margin: 0 auto;
   }
 }
@@ -211,13 +210,11 @@ img {
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 0; /* No need for margin-top */
   font-family: $helveticaNeue;
   font-size: 18px;
 
   @include mobile {
-    float: none;
     margin-top: 9px;
     display: block;
     font-size: 16px;
@@ -236,7 +233,6 @@ nav {
     }
   }
 }
-
 //
 // .main
 //
