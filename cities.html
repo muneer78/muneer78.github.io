@@ -12,15 +12,16 @@ permalink: /cities/
   {% assign cities_posts = site.posts | where_exp: "post", "post.categories contains 'cities'" %}
   
   {% for post in cities_posts %}
-    <article class="photo">
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      <!-- Assuming the photo layout handles content display -->
+    <article class="post">
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <div class="entry">
+        <p>{{ post.content }}</p> <!-- Display full post content -->
+      </div>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
 
-<div class="navigation">
-  {% for link in site.data.navigation %}
-    <a class="page-link" href="{{ link.url }}">{{ link.title }}</a>
-  {% endfor %}
-</div>
+{% for link in site.data.navigation %}
+  <a class="page-link" href="{{ link.url }}">{{ link.title }}</a>
+{% endfor %}
