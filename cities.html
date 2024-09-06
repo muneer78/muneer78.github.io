@@ -2,7 +2,6 @@
 title: "Cities"
 layout: default
 permalink: /cities/
-paginate: 10
 ---
 
 <h1>Cities</h1>
@@ -10,27 +9,17 @@ paginate: 10
 <p>I love vintage pictures of cities, especially street scenes. I collect these and have posted them all here.</p>
 
 <div class="posts">
-  {% for post in paginator.posts %}
-    {% if post.categories contains "cities" %}
-      <article class="post">
-        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-        <div class="entry">
-          <p>{{ post.content | truncate: 500 }}</p> <!-- Display first 500 characters of post content -->
-        </div>
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-      </article>
-    {% endif %}
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% endif %}
+  {% assign cities_posts = site.posts | where_exp: "post", "post.categories contains 'cities'" %}
   
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% endif %}
+  {% for post in cities_posts %}
+    <article class="post">
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <div class="entry">
+        <p>{{ post.content | truncate: 500 }}</p> <!-- Display first 500 characters of post content -->
+      </div>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
 </div>
 
 {% for link in site.data.navigation %}
