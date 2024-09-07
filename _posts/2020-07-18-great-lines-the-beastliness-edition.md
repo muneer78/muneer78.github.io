@@ -9,7 +9,7 @@ tags: newsletter
 
 > Perk liked the idea of a digital shrine to his beastliness.
 
-***
+---
 
 [Second](https://gen.medium.com/a-message-to-the-class-of-2020-please-destroy-the-world-374fde3b0485), a message to the 2020 graduates:
 
@@ -17,7 +17,7 @@ tags: newsletter
 > 
 > I’ll tell you why Because: they want you to be survivors on their terms and their terms only. They want you to suck up what’s happened, then carry on as if it never did. They’re counting on it, both personally and financially. You are their human capital stock. They’d like things to go back to exactly the way they were, and they want to create the illusion that this would be a happy development. Imagine the gall it takes to don a Minnesota smile and appoint yourself shepherd to a generation you just bilked and left for dead.
 
-***
+---
 
 [Third](https://kottke.org/20/06/law-professor-skillfully-handles-a-black-lives-matter-complaint-from-her-students), a law professor claps back on some cowardly students who wrote her an anonymous memo about wearing a Black Lives Matter shirt:
 

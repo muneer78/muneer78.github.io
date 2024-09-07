@@ -13,18 +13,9 @@ This is absolutely something I'd do:
 
 ![bigfend](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/bigfend.jpeg) 
 
-
-
-JdnNK2x">pic.twitter.com/l4FJdnNK2x</a></p>&mdash; Steve Harvey (@IAmSteveHarvey) <a href="https://twitter.com/IAmSteveHarvey/status/1366649276403617794?ref_src=twsrc%5Etfw">March 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ---
 
-
-This is absolutely something I'd do:
-
-![bigfend](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/bigfend.jpeg) 
-
-
+JdnNK2x">pic.twitter.com/l4FJdnNK2x</a></p>&mdash; Steve Harvey (@IAmSteveHarvey) <a href="https://twitter.com/IAmSteveHarvey/status/1366649276403617794?ref_src=twsrc%5Etfw">March 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

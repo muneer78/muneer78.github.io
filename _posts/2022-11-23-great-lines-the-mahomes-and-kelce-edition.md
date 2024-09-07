@@ -5,17 +5,20 @@ tags: newsletter
 ---
 
 It's now the second time I've sent a Thanksgiving newsletter. This officially makes this newsletter the longest creative endeavor I've ever engaged in.
-___
+
+---
 
 First, don't ever hate on Patrick Mahomes and Travis Kelce:
 
 ![mahomes](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/mahomes.png)
-___
+
+---
 
 Second, here's a piece of advice I gave my nephews when they were younger:
 
 > My sister in law was once discussing threesomes at a family dinner. I told my 2 teen nephews, "Don't ever do that. You never want to disappoint 2 women when you can get away with disappointing just 1."
-______
+
+---
 
 [Third](https://www.theroot.com/10-things-you-need-to-know-about-the-black-barbershop-1822521573), don't think that the guys at a black barbershop are as nice and respectful as they appear:
 

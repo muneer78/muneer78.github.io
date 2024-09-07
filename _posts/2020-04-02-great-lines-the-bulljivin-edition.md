@@ -7,16 +7,17 @@ tags: newsletter
 
 It’s been hard to focus enough to read anything, so I bring you some podcast episodes that you can listen to:
 
-* * *
+---
+
 You bulljivin’ me?- Shannon Sharpe on _All the Smoke_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a_KjNQkaj_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* * *
+---
 
 If you’re 30 and you have a crew, a squad, or a tribe, you’re mentally ill.- Ali Segel on _90 Day Fiance Slumber Party_ ([link](https://play.acast.com/s/90dayfianceslumberparty/f34920cf-3aa8-4509-8c25-08af614e9d27))
 
-* * *
+---
 
 #### Jan Martin
 

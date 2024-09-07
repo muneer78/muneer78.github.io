@@ -18,13 +18,8 @@ And now, on to the Great Lines.
 > 
 > You can’t support Trump and also be a decent human being. You can’t support Trump and earn my respect.
 
-
-[Third](https://theconcourse.deadspin.com/how-wile-e-coyote-explains-the-world-1752248034), a classic line from an essay about the classic comics of Wile E. Coyote:
-
-> …your  mind is a baffling supercomputer nevertheless hopelessly inadequate to  the task of understanding the full terrible complexity of the world  around you.g in his own nest. But he also shit in our  nests, and that was the crime that history will burn on his memory like a  brand. By disgracing and degrading the Presidency of the United States,  by fleeing the White House like a diseased cur, Richard Nixon broke the  heart of the American Dream.
-
 ---
 
-[Third](https://theconcourse.deadspin.com/how-wile-e-coyote-explains-the-world-1752248034), a classic line from an essay about the classic comics of Wile E. Coyote:
+[Second](https://theconcourse.deadspin.com/how-wile-e-coyote-explains-the-world-1752248034), a classic line from an essay about the classic comics of Wile E. Coyote:
 
-> …your  mind is a baffling supercomputer nevertheless hopelessly inadequate to  the task of understanding the full terrible complexity of the world  around you.
+> …your  mind is a baffling supercomputer nevertheless hopelessly inadequate to  the task of understanding the full terrible complexity of the world  around you.g in his own nest. But he also shit in our  nests, and that was the crime that history will burn on his memory like a  brand. By disgracing and degrading the Presidency of the United States,  by fleeing the White House like a diseased cur, Richard Nixon broke the  heart of the American Dream.

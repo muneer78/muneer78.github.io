@@ -13,11 +13,14 @@ On to the show...
 
 >The  good people of Philadelphia, who also know how to read a press release  and were not interested in letting the second-born failson and a  martini-soaked former Lifelock spokesman do a photo-op menacing the  dutiful election officials who are just trying to count the votes.
 
-[Third](https://verysmartbrothas.theroot.com/a-word-of-encouragement-to-all-the-black-men-who-desper-1842567210), this explains my current feelings about not having gone to the barbershop in over a year:
+---
+
+[Second](https://verysmartbrothas.theroot.com/a-word-of-encouragement-to-all-the-black-men-who-desper-1842567210), this explains my current feelings about not having gone to the barbershop in over a year:
 
 >You’d  even settle for a cut from bruh in the back, whose skills are so shaky  that he’s only allowed to cut kids, white boys, and cops.oled by this. Because, the moment you left the  shop — like, literally, one second  after you left — it turned right back into an 8th boys' locker room.  And, even if your butt is basically just an extension of your back,  it was noted and mentioned. Sometimes in depth. And sometimes, um, not  in depth. (i.e.; "Dat ass, though?!?!")
 
 ---
+
 [Third](https://verysmartbrothas.theroot.com/a-word-of-encouragement-to-all-the-black-men-who-desper-1842567210), this explains my current feelings about not having gone to the barbershop in over a year:
 
 >You’d  even settle for a cut from bruh in the back, whose skills are so shaky  that he’s only allowed to cut kids, white boys, and cops.

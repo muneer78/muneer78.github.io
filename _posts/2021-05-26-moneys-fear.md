@@ -1,6 +1,6 @@
 ---
 date: 2021-05-26
-title: Moneys Fear
+title: "Money's Fear"
 tags: great-lines
 ---
 

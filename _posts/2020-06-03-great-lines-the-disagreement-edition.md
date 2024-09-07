@@ -15,12 +15,11 @@ tags: newsletter
 > 
 > So this is a catastrophe our: attachment to our own rightness. It prevents us from preventing mistakes when we need to and causes us to treat each other terribly.”
 
-***
+---
 
 [Used to be a picture of a 2020 calendar melting]
 
-***
-
+---
 
 [Third](https://www.westword.com/news/72-hour-party-people-5075797), a 72 hour Asian meth party in Denver and Las Vegas:
 

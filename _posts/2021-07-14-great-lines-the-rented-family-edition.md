@@ -20,5 +20,3 @@ By the time you read this, I will have had some eye surgery. So this newsletter 
 https://medium.com/aeon-magazine/escape-the-echo-chamber-7ce91164421c), it's very easy to fall prey to conspiracy theories and faulty thinking:
 
 >all it takes to enter an echo chamber is a momentary lapse of intellectual vigilance. Once you’re in, the echo chamber’s belief systems function as a trap, making future acts of intellectual vigilance only reinforce the echo chamber’s worldview.
-
----

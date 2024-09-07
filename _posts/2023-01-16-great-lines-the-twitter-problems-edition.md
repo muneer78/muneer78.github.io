@@ -3,9 +3,10 @@ date: 2023-01-16
 title: The Twitter Problems Edition
 tags: newsletter
 ---
+
 Elon Musk has dedicated himself to run Twitter into the ground as quickly as possible. So why not rethink how you interact with the platform? Our old pal Ed Zitron wrote a couple of Twitter focused posts that get to the heart of how to make Twitter less of an anxiety factory.
 
-___
+---
 
 [First](https://ez.substack.com/p/how-to-enjoy-twitter-again), the responsibility for how people consume Twitter (or any content) cannot be outsourced:
 
@@ -14,7 +15,8 @@ ___
 and 
 
 > I think people have given up a layer of responsibility when it comes to their own consumption. By all means quit something if your immediate reaction is “ah man, this sucks.” But if you’re on Twitter for hours and hours a day and then decide to quit because everyone’s depressing, maybe the issue is that you’re following the wrong people and willingly dipping your head in a septic tank.
-___
+
+---
 
 [Second](https://ez.substack.com/p/how-and-why-to-post), posting to any platform has effects:
 
@@ -23,8 +25,3 @@ ___
 and
 
 > You’re not doing anyone a service by forming a half-assed opinion on something that you barely know about, and you’re probably hurting yourself in the process.
-
-
-___
-
-Or you could just outsource your content discovery to me!

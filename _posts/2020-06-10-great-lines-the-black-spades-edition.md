@@ -19,7 +19,8 @@ tags: newsletter, black
 
 > Ace high: …This version is usually only played by old Ques, people who have spent time in prison or people who played in the band at an HBCU. You don’t want to play this way.
 
-* * *
+---
+
 #### [How To Play Black Spades, Part 2: The Glossary](https://www.theroot.com/how-to-play-black-spades-part-2-the-glossary-1842513840)
 
 > Unlike our white counterparts, black people already know the answer to “which came first—the chicken or the egg?”
@@ -28,7 +29,8 @@ tags: newsletter, black
 > 
 > Breakfast comes before dinner.
 
-* * *
+---
+
 #### [How To Play Black Spades, Part 3: We Finna Play](https://www.theroot.com/how-to-play-black-spades-part-3-we-finna-play-1842530489)
 
 > If you are beating someone really bad or playing against a very experienced shit-talker, you may begin to think your mother is engaged in an ongoing sexual relationship with your opponent. Don’t worry, Frank is just trying to shake your confidence...Maybe.

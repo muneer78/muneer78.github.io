@@ -4,7 +4,6 @@ title: AITA For Being Upfront And Telling My Parents That I Am Putting Them In A
 tags: stories, reddit
 ---
 
-> 
 > My family is from South Asia but we live in the States. My parents loved my older brother and tolerated me. They expected me to just stay home and take care of them and my brother.
 > 
 > That wasn't for me. I got a partial scholarship to a state school and GTFO. I worked the four years of my undergrad and was fortunate enough to get a full scholarship for my after degree. So I graduated university with only a small debt and two degrees.

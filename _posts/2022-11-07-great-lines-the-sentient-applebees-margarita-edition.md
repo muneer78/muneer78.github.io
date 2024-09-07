@@ -4,14 +4,11 @@ title: The Sentient Applebees Margarita Edition
 tags: newsletter
 ---
 
-
-
-
-
 [First](https://www.garbageday.email/p/staring-and-pointing), this description of Marjorie Taylor Greene is devastating and wonderful:
 
 > And sentient Applebee’s margarita Rep. Marjorie Taylor Greene posted a lengthy and unhinged Twitter thread,
-___
+
+---
 
 [Second](https://ruinmyweek.com/funny/g-rated-insults/), while we're looking at insults, here's a few solid ones from a list of G- rated:
 
@@ -22,7 +19,8 @@ ___
 > “I have neither the time nor the crayons to explain this to you properly.”
 
 > “You’re a pizza burn on the roof of the world’s mouth.”
-___
+
+---
 
 [Third](https://ez.substack.com/p/the-return-to-office-rodeo), Ed Zitron dropping more truth bombs about why companies actually want workers back in the office:
 

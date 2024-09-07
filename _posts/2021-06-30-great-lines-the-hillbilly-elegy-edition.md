@@ -11,10 +11,13 @@ Anyways, the following quotes are from J.D. Vance's book, [Hillbilly Elegy](http
 
 > There is a cultural movement in the white working class to blame problems on society or the government, and that movement gains adherents by the day.
 
+---
+
 First,
 
 > According to Middletown High School legend, a student called in a bomb threat during one of Selby’s exams, hiding the explosive device in a bag in his locker. With the entire school evacuated outside, Selby marched into the school, retrieved the contents of the kid’s locker, marched outside, and threw those contents into a trash can. “I’ve had that kid in class; he’s not smart enough to make a functioning bomb,” Selby told the police officers gathered at the school. “Now let my students go back to class to finish their exams.”
 
+---
 
 Second,
 

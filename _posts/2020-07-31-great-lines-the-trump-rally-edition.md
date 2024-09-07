@@ -13,7 +13,8 @@ tags: newsletter
 
 > But a Trump rally isn’t about thinking more than half a second ahead. There is a first BOLD step, and then you are left to assume that everything else will fall neatly into place. In Trump’s white-trash, Louis XIV universe, all you see is the pretty gold paint before it starts chipping off the walls.
 
-***
+---
+
 [Second](https://taibbi.substack.com/p/where-did-policing-go-wrong), Matt Taibbi talks about policing in America:
 
 > Basically we have two systems of enforcement in America, a minimalist one for people with political clout, and an intrusive one for everyone else.

@@ -6,7 +6,7 @@ tags: newsletter
 
 This week, we look to The Bachelor. I know many of you hate the show. But that doesn’t mean that the people who write about it aren’t hilarious.
 
-* * *
+---
 
 ### On Peter Weber:
 *   [It’s like the old saying You: can lead a horse to water, but you can’t teach a horse to not try to have sex with the water.](https://www.theringer.com/2020/2/17/21141592/the-bachelor-season-24-hometown-dates-recap-victoria-f)
@@ -15,7 +15,8 @@ This week, we look to The Bachelor. I know many of you hate the show. But that d
 *   [Only a few find lasting love on](https://www.theringer.com/entertainment/2020/3/11/21174771/bachelor-season-finale-exit-survey-peter-madison-barb) _[The Bachelor(ette)](https://www.theringer.com/entertainment/2020/3/11/21174771/bachelor-season-finale-exit-survey-peter-madison-barb)_[; Peter, on the other hand, might be the first finalist or lead to actually](https://www.theringer.com/entertainment/2020/3/11/21174771/bachelor-season-finale-exit-survey-peter-madison-barb) _[lose](https://www.theringer.com/entertainment/2020/3/11/21174771/bachelor-season-finale-exit-survey-peter-madison-barb)_ [love from his immediate family members.](https://www.theringer.com/entertainment/2020/3/11/21174771/bachelor-season-finale-exit-survey-peter-madison-barb)
 *   [Peter was truly terrible at being the Bachelor, evincing such suspect decision-making that the FAA should consider revoking his pilot’s license.](https://www.theringer.com/entertainment/2020/3/11/21174771/bachelor-season-finale-exit-survey-peter-madison-barb)
 
-* * *
+---
+
 ### On Madison, “the good girl”:
 *   [Peter, as you may have heard, has had sex before. Many times. He’s actually had sex in a windmill several more times than Madison has had sex anywhere.](https://www.theringer.com/2020/2/17/21141592/the-bachelor-season-24-hometown-dates-recap-victoria-f)
 *   [Their family name is Weber—of course they grilled Madison.](https://www.theringer.com/2020/3/10/21172793/the-bachelor-season-24-finale-part-1-bring-her-home)

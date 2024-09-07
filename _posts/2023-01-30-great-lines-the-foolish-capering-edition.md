@@ -7,13 +7,14 @@ tags: newsletter
 First, The Simpsons are always good for a great line:
 
 > “My foolish capering destroyed more young minds than syphilis and pinball combined.”
-___
+
+---
 
 Second, As someone who has had coffee with almond milk, can confirm:
 
 ![coffeealmondmilk.png](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/coffeealmondmilk.png)
 
-___
+---
 
 [Third](https://ez.substack.com/p/office-and-company-culture-are-bullshit?s=w), I feel like Ed Zitron needs his own section in this newsletter at this point:
 

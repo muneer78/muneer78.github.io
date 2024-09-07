@@ -9,7 +9,6 @@ I'm worried that we've got an impassable gulf between the Trump faction and the 
 
 This is an [old article](http://exiledonline.com/we-the-spiteful), but it shows how little things have changed over the years. 
 
->the most obvious question no one has the guts to ask: “What if Americans don’t want to be enlightened? What if they’re a bunch of mean, miserable hicks as hostile to enlightened thinking as they are to the possibility of free, quality health care?”
+> ... the most obvious question no one has the guts to ask: “What if Americans don’t want to be enlightened? What if they’re a bunch of mean, miserable hicks as hostile to enlightened thinking as they are to the possibility of free, quality health care?”
 
-
->Kerry’s war heroism secretly pissed off untold millions of American males, especially middle-aged white American males, who identified with the cowardice and loud-mouthed hypocrisy of the Republican war deserters, because most white middle-class American males were war deserters too.lly middle-aged white American males, who identified with the cowardice and loud-mouthed hypocrisy of the Republican war deserters, because most white middle-class American males were war deserters too.
+> Kerry’s war heroism secretly pissed off untold millions of American males, especially middle-aged white American males, who identified with the cowardice and loud-mouthed hypocrisy of the Republican war deserters, because most white middle-class American males were war deserters too.lly middle-aged white American males, who identified with the cowardice and loud-mouthed hypocrisy of the Republican war deserters, because most white middle-class American males were war deserters too.

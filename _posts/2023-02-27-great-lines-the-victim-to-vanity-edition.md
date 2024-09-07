@@ -7,12 +7,14 @@ tags: newsletter
 First:
 
 ![vanity](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/vanity.jpeg)
-___
+
+---
 
 Second: 
 
 ![pbdog](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/pbdog.jpg)
-___
+
+---
 
 [Third](https://www.grunge.com/127517/the-most-brutal-entertainment-reviews-of-all-time/), these are a couple of lines from a list of the most brutal entertainment reviews of all time:
 

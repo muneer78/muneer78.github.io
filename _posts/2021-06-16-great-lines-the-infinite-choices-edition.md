@@ -11,8 +11,9 @@ One good thing about the pandemic: there is no longer a social obligation to hug
 
 > What you have to realize is that you are always saying ‘no’ to something because anytime you say ‘yes’ to one thing, you are simultaneously saying ‘no’ to an infinite number of others.’”
 
+---
 
-[Third](https://www.salon.com/2020/04/03/behind-the-rights-obsession-with-a-miracle-cure-for-coronavirus-its-not-just-about-trump/)
+[Second](https://www.salon.com/2020/04/03/behind-the-rights-obsession-with-a-miracle-cure-for-coronavirus-its-not-just-about-trump/)
 
 >The hope that there's a hard-to-get miracle cure that will save them speaks directly to the poisonous social Darwinism that guides modern conservatism. It reflects deep hostility to the very concept of a shared public good and a fierce attachment to a racialized ideology of individualism that treats public goods such as health care as things to be hoarded by those with the privilege, money and status to do so.
 

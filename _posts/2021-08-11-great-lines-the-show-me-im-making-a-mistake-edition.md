@@ -11,9 +11,10 @@ I have a mixed relationship with what people would call self-help. I think most 
 
 >In fact, this impatience in dealing with frustration is the primary reason that most people fail to achieve their goals. Unreasonable expectations timewise, resulting in unnecessary frustration, due to a perceived feeling of failure. Achieving the extraordinary is not a linear process. The secret is to show up, do the work, and go home. A blue collar work ethic married to indomitable will.
 
+---
 
-[Third](https://bookshop.org/books/meditations-a-new-translation-7be5ded9-87a9-4056-af72-d6c917125a29/9780812968255), I think that Marcus Aurelius is one of the most impactful thinkers who ever lived. I've linked the translation of Meditations that I think is the best:
+[Second](https://bookshop.org/books/meditations-a-new-translation-7be5ded9-87a9-4056-af72-d6c917125a29/9780812968255), I think that Marcus Aurelius is one of the most impactful thinkers who ever lived. I've linked the translation of Meditations that I think is the best:
 
 >If anyone can refute me—show me I’m making a mistake or looking at things from the wrong perspective—I’ll gladly change. It’s the truth I’m after, and the truth never harmed anyone.d the translation of Meditations that I think is the best:
-
+>
 >If anyone can refute me—show me I’m making a mistake or looking at things from the wrong perspective—I’ll gladly change. It’s the truth I’m after, and the truth never harmed anyone.

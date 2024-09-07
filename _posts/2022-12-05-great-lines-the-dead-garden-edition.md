@@ -7,12 +7,14 @@ tags: newsletter
 [First](https://www.jacksonville.com/obituaries/pfla0245589), this obituary is very honest about the departed:
 
 > His love was abundant when it came to himself, but for his children it was limited.
-___
+
+---
 
 [Second](https://www.vulture.com/article/the-bachelorette-recap-season-19-episode-3-week-three.html), this line from a Bachelorette recap describes why a lot of people may not be introspective:
 
 > ... the only thing left to do is stare into the abyss that is our own soul and find ourselves wanting.
-___
+
+---
 
 [Third](https://basenotes.com/reviews/26227595), a review on a cologne forum has written some of the most evocative reviews I've ever read. They're all worth looking at, but here's a sample:
 

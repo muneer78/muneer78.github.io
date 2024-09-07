@@ -4,10 +4,6 @@ title: The Buy Groceries From A Failure Edition
 tags: newsletter
 ---
 
-
-
-
-
 [First](https://www.vulture.com/article/the-bachelorette-recap-season-19-episode-7-hometowns-week.html), I love Gabby's vibe on the Bachelorette this season:
 
 > She’s deeply invested in the power of therapy and making men feel bad about themselves in a fun way.
@@ -22,10 +18,12 @@ Second, I saw this quote on Reddit:
 A quote by Krusty the Clown from the Simpsons episode, "[Bart the Fink](https://simpsons.fandom.com/wiki/Bart_the_Fink/Quotes)":
 
 > There's no silver lining here. I was a big cheese! A huge cheese! But now, look at me. I gotta ride the bus like a schnook! I gotta live in an apartment like an idiot! I gotta wait in line with nobodies to buy groceries from a failure!
-___
+
+---
 
 ![badatjob](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/badatjob.jpg)
-___
+
+---
 
 The DC Sniper case was a national event while I was still in law school. I was in the middle of wasting $56,000 on a degree I don't use, so I didn't follow it as closely as I would have wanted. Here's a series of podcasts from You're Wrong About that go into the true motives of John Muhammad and Lee Malvo:
 

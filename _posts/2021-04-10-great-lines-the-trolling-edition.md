@@ -12,18 +12,22 @@ I used to talk to an anti-vaxx idiot. When I brought up the fact that no vaccine
 
 So if you're vaccine hesitant and don't have any known medical reasons to not get vaccinated, I can't stress this enough Stop: being an idiot and schedule an appointment. Or stay in your house for the rest of your life. Or die. I don't really care. But don't go around spouting nonsense.
 
-[Second](https://www.theringer.com/2018/8/15/17692240/donutgate-voodoo-doughnut-pizzagate-comet-ping-pong-conspiracy-theories), the troll I referred to above is very religious and very much a conspiracy theorist:
+--
+
+[First](https://www.theringer.com/2018/8/15/17692240/donutgate-voodoo-doughnut-pizzagate-comet-ping-pong-conspiracy-theories), the troll I referred to above is very religious and very much a conspiracy theorist:
 
 >…researchers  have found that people who are more susceptible to conspiracy theories  are often obsessed with religion or a god or a value system.
 
  someone, then that’s what it really is. In  many cases, it is designed to look and feel indistinguishable from a  genuine attack. Whether you believe what you are saying or not is often  immaterial because the impact is the same — and you are responsible for  it, regardless of how funny you think it is. It is a lesson kids learn  time and time again on the playground, and yet, it is ridiculously  difficult for people to accept the same basic notion in online culture,  no matter their age.
 
 ---
+
 [Second](https://www.theringer.com/2018/8/15/17692240/donutgate-voodoo-doughnut-pizzagate-comet-ping-pong-conspiracy-theories), the troll I referred to above is very religious and very much a conspiracy theorist:
 
 >…researchers  have found that people who are more susceptible to conspiracy theories  are often obsessed with religion or a god or a value system.
 
 ---
+
 [Third](https://laptrinhx.com/putting-mental-models-to-practice-part-6-a-personal-epistemology-of-practice-603188640/), here’s a decent test to see if an expert is believable:
 
 >If  an expert passes these two requirements, you may consider them  ‘believable’. Dalio then suggests a communication protocol built on top  of believability if: you’re talking to someone with higher  believability, shut up and ask questions; if you’re talking to someone  with equal believability, you are allowed to debate; if you’re talking  to someone with lower believability, spend the least amount of time  hearing them out, on the off chance they have an objection you haven’t  considered before; otherwise, just discount their opinions.

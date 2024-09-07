@@ -13,9 +13,13 @@ This past week, Newport ran a series of posts for Focus Week on his blog. I reco
 
 > To summarize, in my proposed scheme, you engage with the world of digital information only twice a day once: in the morning, and (perhaps) once in the evening. Outside these brief moments of anxious consumption, you focus instead on living well.
 
+---
+
 [Second](https://www.calnewport.com/blog/2020/08/27/focus-week-rediscover-depth/), rediscover depth:
 
 > … read two chapters from a book every day; with at least one of the chapters read in a scenic or otherwise interesting setting.
+
+---
 
 [Finally](https://www.calnewport.com/blog/2020/08/29/focus-week-take-control-of-your-time/), take control of your time:
 
