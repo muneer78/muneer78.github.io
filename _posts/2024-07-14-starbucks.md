@@ -20,7 +20,7 @@ tags: stories, tumblr
 > 
 > “Price is the furthest thing from my mind right now. How many ‘add shots’ is that?”
 > 
-> _deep breath of fear_ “It’d be a quad with,” *clears throat* “uh, sixteen additional shots of espresso. But, ma’am, I should tell you that the shots will start to get really bitter if they have to sit and wait for us to pull twenty of them-”
+> _* deep breath of fear *_ “It’d be a quad with,” *clears throat* “uh, sixteen additional shots of espresso. But, ma’am, I should tell you that the shots will start to get really bitter if they have to sit and wait for us to pull twenty of them-”
 > 
 > “Taste means nothing to me.”
 > 
