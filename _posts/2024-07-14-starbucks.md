@@ -6,7 +6,7 @@ tags: stories, tumblr
 
 [This](https://katjohnadams.tumblr.com/post/171462690508/katjohnadams-anais-ninja-blog) is such a great story:
  
-> Actual conversation I had at register:
+> _*Actual conversation I had at register:*_
 > 
 > “Hi, welcome to Starbucks! What can I get you, today?”
 > 
