@@ -1,6 +1,6 @@
 ---
 date: 2021-08-10
-title: How Bad Should We Feel When The Willfully Unvaccinated Die
+title: "How Bad Should We Feel When The Willfully Unvaccinated Die?"
 tags: current-events
 ---
 
