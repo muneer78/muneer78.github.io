@@ -1,6 +1,6 @@
 ---
 tags: gambling
-title: FanDuel User's Claim Platform Took Winnings Over Child Support Goes Viral
+title: "Garnishing Sports Betting Profits"
 date: 2024-03-21
 ---
 

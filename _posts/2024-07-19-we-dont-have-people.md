@@ -1,6 +1,6 @@
 ---
 date: 2024-07-19
-title: We Dont Have People
+title: "We Don't Have People"
 tags: mental-health
 ---
 
