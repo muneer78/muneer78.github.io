@@ -15,7 +15,7 @@ This is absolutely something I'd do:
 
 ---
 
-JdnNK2x">pic.twitter.com/l4FJdnNK2x</a></p>&mdash; Steve Harvey (@IAmSteveHarvey) <a href="https://twitter.com/IAmSteveHarvey/status/1366649276403617794?ref_src=twsrc%5Etfw">March 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="qme" dir="ltr">😹😹 <a href="https://t.co/l4FJdnNK2x">pic.twitter.com/l4FJdnNK2x</a></p>&mdash; Steve Harvey (@IAmSteveHarvey) <a href="https://twitter.com/IAmSteveHarvey/status/1366649276403617794?ref_src=twsrc%5Etfw">March 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

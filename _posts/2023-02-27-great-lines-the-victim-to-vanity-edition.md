@@ -6,7 +6,7 @@ tags: newsletter
 
 First:
 
-![vanity](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/vanity.jpeg)
+![vanity](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/vanity.jpg)
 
 ---
 

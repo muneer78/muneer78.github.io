@@ -12,9 +12,13 @@ First, the difference between denial and denialism:
 
 > Denial is furtive and routine; denialism is combative and extraordinary. Denial hides from the truth, denialism builds a new and better truth.
 
+---
+
 Second, an explanation of the core tenets of denialism:
 
 > Denialism offers a dystopian vision of a world unmoored, in which nothing can be taken for granted and no one can be trusted. If you believe that you are being constantly lied to, paradoxically you may be in danger of accepting the untruths of others. Denialism is a mix of corrosive doubt and corrosive credulity.
+
+---
 
 Third, an explanation of post-denialism, or Trumpist thought:
 

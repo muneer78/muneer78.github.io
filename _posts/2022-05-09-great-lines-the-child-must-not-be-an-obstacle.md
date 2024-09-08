@@ -6,7 +6,7 @@ tags: newsletter
 
 First, this was something a friend's dad told me when I first started working:
 
-> If you're consistently working more than 40 hours per week, you're either bad at your job or the company is taking advantage of you. Either way, you need to make a change.</p>
+> If you're consistently working more than 40 hours per week, you're either bad at your job or the company is taking advantage of you. Either way, you need to make a change.
 
 ---
 

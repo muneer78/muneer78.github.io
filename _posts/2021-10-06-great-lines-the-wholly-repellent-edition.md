@@ -5,12 +5,14 @@ tags: newsletter
 ---
 
 I really hope all of you are doing well. I write these way ahead of time, so the Delta variant of Covid may be a distant memory by the time you get this. But something tells me that won't be the case.
-___
+
+---
 
 From Eric Barker's book, [Barking Up the Wrong Tree](https://bookshop.org/books/barking-up-the-wrong-tree-the-surprising-science-behind-why-everything-you-know-about-success-is-mostly-wrong/9780062416049):
 
 > I know plenty of people for whom grit is a liability because it allows them to stick with something that makes them or others miserable and towards no long-term good aim.
-___
+
+---
 
 I love the books in the [33 1/3 series](https://www.bloomsbury.com/us/series/33-13/). The best quote ever is from [Carl Wilson's book about Celine Dion's Let's Talk About Love album](https://www.bloomsbury.com/us/lets-talk-about-love-9781623563288/):
 

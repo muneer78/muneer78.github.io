@@ -1,5 +1,5 @@
 ---
-date: 2017-01-12
+date: 2020-03-26
 title: The Being Different Edition
 tags: newsletter
 ---

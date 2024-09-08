@@ -15,7 +15,7 @@ First, let these jokers know when they're not paying what you deserve:
 ---
 
 Second, we must all renounce hustle culture. It's not realistic to be on the grind 24/7:
-![hustle](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/hustle.jpeg)
+![hustle](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/hustle.jpg)
 
 ---
 
