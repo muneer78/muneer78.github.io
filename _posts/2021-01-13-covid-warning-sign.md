@@ -4,4 +4,4 @@ title: Covid Warning Sign
 tags: funny
 ---
 
-![current-eventssign.jpeg](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/current-eventssign.jpeg)
+![current-eventssign.jpeg](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/covidsign.jpeg)

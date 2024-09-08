@@ -13,7 +13,7 @@ tags: newsletter
 
 [On an enigmatic baseball player](https://vault.si.com/vault/2006/09/25/arod-agonistes):  
 
-> …in December 2003, when the Red Sox were frantically trying to acquire Rodriguez from the Texas Rangers, several Boston executives called on Rodriguez in his New York hotel suite after 1 a.m. Rodriguez answered the door in a perfectly pressed suit, tie knotted tight to his stiff collar. The Red Sox officials found such polished attire at such a late hour odd, even unsettling.
+> ... in December 2003, when the Red Sox were frantically trying to acquire Rodriguez from the Texas Rangers, several Boston executives called on Rodriguez in his New York hotel suite after 1 a.m. Rodriguez answered the door in a perfectly pressed suit, tie knotted tight to his stiff collar. The Red Sox officials found such polished attire at such a late hour odd, even unsettling.
 
 ---
 
