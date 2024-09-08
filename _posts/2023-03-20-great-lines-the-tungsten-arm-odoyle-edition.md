@@ -10,7 +10,7 @@ First, I appreciate when someone takes accountability.
 
 ---
 
-Second, if you take your loveSendd one to the ICU, cool it with the pseudoscience. You've already conceded that what you were trying won't work.
+Second, if you take your loved one to the ICU, cool it with the pseudoscience. You've already conceded that what you were trying isn't real.
 
 ![icureiki](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/icureiki.png)
 
