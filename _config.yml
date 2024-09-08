@@ -64,7 +64,7 @@ version: v1.2.0
 
 paginate: 10
 paginate_path: "/page:num/"
-paginate_path: "/archive/page-num/"
+paginate_path: "/archive/page:num/"
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
