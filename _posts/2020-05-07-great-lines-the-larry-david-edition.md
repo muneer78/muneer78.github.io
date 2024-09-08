@@ -23,8 +23,6 @@ Second, I’ve never seen the Dark Knight, but this quote has stuck with me sinc
 
 > When I ask if he is hoarding anything, he is outraged. “Not a hoarder,” he said. “In fact, in a few months, if I walk into someone’s house and stumble onto 50 rolls of toilet paper in a closet somewhere, I will end the friendship. It’s tantamount to being a horse thief in the Old West.”
 
-I also loved the coronavirus PSA he did:
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xz82kRwTuUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+I also loved the coronavirus PSA he did.

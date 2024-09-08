@@ -27,3 +27,5 @@ This is one of the most wonderfully profane phrases I’ve ever heard:
 Finally, this is one of the last longform interviews ever given by Kobe Bryant:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3R3KIyEgCgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Super interesting to see him so open about everything.
