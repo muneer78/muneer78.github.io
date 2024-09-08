@@ -23,3 +23,4 @@ I feel like Gordie being the illegitimate son of a rogue American diplomat confe
 **Lisette**: Yeah there’s a little thing called dual citizenship. Tired of these birthers.
 
 **Muneer**: Exactly!!
+---
