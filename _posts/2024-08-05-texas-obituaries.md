@@ -4,7 +4,7 @@ title: Texas Obituaries
 tags: funny, tumblr
 ---
 
-People in the South [keeo it real times](https://hamletthedane.tumblr.com/post/740066648383422465/okay-i-used-to-review-texas-obituaries-for-a):
+People in Texas [keep it real at all times](https://hamletthedane.tumblr.com/post/740066648383422465/okay-i-used-to-review-texas-obituaries-for-a):
 
 > I used to review Texas obituaries for a living and these are some of my favorite lines describing people who were apparently awful during their lifetimes:
 
