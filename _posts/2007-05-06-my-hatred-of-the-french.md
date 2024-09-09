@@ -5,6 +5,7 @@ tags: stories
 ---
 
 My friends say that my hatred of the French and France is an overreaction on my part. They say that I was only in the airport, and thus did not get a true picture of the French as a people. To these points I say boo. If you would have been in my shoes on that fateful day in December of 2005 when I had the misfortune of landing in the Most Horrid Country On Earth™, you would feel the same as I do.
+
 Before I begin my tale of woe, let me make two points:
 
 - I should not be expected to know French culture and customs if I am simply in transit.
