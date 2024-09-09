@@ -18,6 +18,6 @@ The information sources I'm consulting are as follows:
 - [Election Betting Odds by Maxim Lott and John Stossel](https://electionbettingodds.com/): This is the main source I check. Odds are up to the minute.
 - [2024 U.S. President](https://www.realclearpolling.com/betting-odds/2024/president): Site is right leaning, but the data seems to be objective. This is to provide a data comparison to Election Betting Odds.
 - [US Election Odds - Daily Betting Updates & Tips on the 2024 race in Betfair's Live Blog](https://betting.betfair.com/politics/us-politics/us-election-odds---daily-betting-updates-tips-on-the-2024-race-in-betfairs-live-blog-290724-6.html): Betfair provides market info about the UK betting markets on US elections.
-- [2024 Presidential Election Odds | Election Betting | Politics](https://www.oddschecker.com/us/politics/us-politics): This site is another source for general odds. I think this site is an aggregator.
-- [Election Betting Coverage | Election Odds Predictions, Picks & Analysis | The Action Network](https://www.actionnetwork.com/politics/archive/1): I wanted a US based source that's doing analysis to be a weight against any blind spots in the UK analyses.
+- [2024 Presidential Election Odds](https://www.oddschecker.com/us/politics/us-politics): This site is another source for general odds. I think this site is an aggregator.
+- [Election Betting Coverage](https://www.actionnetwork.com/politics/archive/1): I wanted a US based source that's doing analysis to be a weight against any blind spots in the UK analyses.
 - [Election Betting Odds - 2024 US Presidential Election Odds](https://www.covers.com/politics/us-election-betting-odds): Another US based analysis to check Action Network against.
