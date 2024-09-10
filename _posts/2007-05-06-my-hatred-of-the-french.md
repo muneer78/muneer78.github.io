@@ -5,9 +5,11 @@ tags: stories
 ---
 
 My friends say that my hatred of the French and France is an overreaction on my part. They say that I was only in the airport, and thus did not get a true picture of the French as a people. To these points I say boo. If you would have been in my shoes on that fateful day in December of 2005 when I had the misfortune of landing in the Most Horrid Country On Earth™, you would feel the same as I do.
+
 Before I begin my tale of woe, let me make two points:
 
-I should not be expected to know French culture and customs if I am simply in transit: I was told by a couple of people that the French have different sensibilities than Americans do. You need to talk to them differently in order to get them to be nice to you. I call B.S. on that one. I was being nothing but polite, and was given the run-around by the frogs.
+- I should not be expected to know French culture and customs if I am simply in transit.
+- I was told by a couple of people that the French have different sensibilities than Americans do. You need to talk to them differently in order to get them to be nice to you. I call B.S. on that one. I was being nothing but polite, and was given the run-around by the frogs.
 de Gaulle airport needs to have some English signage: It is yet another sign of hostility towards the outside world that de Gaulle airport has very sparse English signage. Thus, when I was lost and trying to find my way, I could only guess at where I was going or what I was doing. Any reputable international airport servicing people needs to do better than Paris.
 
 Let me give you the tale in chronological order:
