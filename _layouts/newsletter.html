@@ -1,0 +1,44 @@
+---
+title: "The Great Lines Newsletter"
+layout: default
+permalink: /newsletter/
+---
+
+<div class="toc">
+  <h2>On This Page:</h2>
+  <ul>
+    {% assign sorted_newsletter = site.newsletter | sort: 'date' %}
+    {% for newsletter in sorted_newsletter %}
+      <li>
+        <a href="{{ site.baseurl }}{{ newsletter.url }}">{{ newsletter.title }}</a>
+        <span class="post-date">- {{ newsletter.date | date: "%B %d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="posts">
+  {% for newsletter in sorted_newsletters %}
+    <article class="post">
+      <h1><a href="{{ site.baseurl }}{{ newsletter.url }}">{{ newsletter.title }}</a></h1>
+      <div class="entry">
+        <p>{{ newsletter.content | truncate: 600 }}</p> <!-- Display first 600 characters of post content -->
+      </div>
+      <a href="{{ site.baseurl }}{{ newsletter.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% endif %}
+  
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% endif %}
+</div>
+
+{% for link in site.data.navigation %}
+  <a class="page-link" href="{{ link.url }}">{{ link.title }}</a>
+{% endfor %}

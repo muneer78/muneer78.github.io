@@ -33,8 +33,11 @@ footer-links:
 
 header_pages:
   - archive.html
-  - strange-researches.html
   - cities.html
+  - strange-researches.html
+  - newsletter.html
+
+
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -86,6 +89,11 @@ collections:
     title: Strange Researches
     description: A collection of topics I've compiled information about
     permalink: /strange_researches/:path/
+  newsletter:
+    output: true
+    title: Great Lines Newsletter
+    description: All posts of the Great Lines Newsletter
+    permalink: /newsletter/:path/
 
 # Set the Sass partials directory, as we're using @imports
 sass:
