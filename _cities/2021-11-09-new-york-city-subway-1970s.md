@@ -1,6 +1,6 @@
 ---
 date: 2021-11-09
-title: New York City Subway, 1970s
+title: New York City, 1970s
 tags: cities
 category: cities
 ---

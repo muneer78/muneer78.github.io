@@ -1,6 +1,6 @@
 ---
 date: 2012-06-10
-title: Swinging London 1960s
+title: London, 1960s
 tags: cities
 category: cities
 ---

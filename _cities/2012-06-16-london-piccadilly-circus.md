@@ -1,9 +1,11 @@
 ---
 date: 2012-06-16
-title: "Early 1960s Piccadilly Circus"
+title: "London, 1960s"
 tags: cities
 category: cities
 ---
+
+Piccadilly Circus
 
 ![piccadilly](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/London3.jpg)
 

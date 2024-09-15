@@ -1,6 +1,6 @@
 ---
 date: 2012-06-13
-title: New York City Winter, 1960s
+title: New York City, 1960s
 tags: cities
 category: cities
 ---

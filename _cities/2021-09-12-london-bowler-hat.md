@@ -1,6 +1,6 @@
 ---
 date: 2021-09-12
-title: A Man In A Bowler Hat
+title: London, 1972
 tags: cities
 category: cities
 ---

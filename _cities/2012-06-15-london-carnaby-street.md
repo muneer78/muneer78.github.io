@@ -1,6 +1,6 @@
 ---
 date: 2012-06-15
-title: Carnaby Street, London
+title: London, 1960s
 tags: cities
 category: cities
 ---
