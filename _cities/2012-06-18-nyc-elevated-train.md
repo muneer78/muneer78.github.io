@@ -1,6 +1,6 @@
 ---
 date: 2012-06-18
-title: New York city, 1980s
+title: New York City, 1980s
 tags: cities
 category: cities
 ---
