@@ -22,7 +22,7 @@ permalink: /newsletter/
 </div>
 
 <div class="posts">
-  {% assign sorted_newsletters = site.newsletter | sort: 'date' | reverse %}
+  {% assign sorted_newsletters = site.newsletter | sort: 'date' %}
   {% for newsletter in sorted_newsletters %}
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ newsletter.url }}">{{ newsletter.title }}</a></h1>
