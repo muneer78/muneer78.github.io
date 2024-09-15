@@ -13,8 +13,14 @@ I have a mixed relationship with what people would call self-help. I think most 
 
 ---
 
-[Second](https://bookshop.org/books/meditations-a-new-translation-7be5ded9-87a9-4056-af72-d6c917125a29/9780812968255), I think that Marcus Aurelius is one of the most impactful thinkers who ever lived. I've linked the translation of Meditations that I think is the best:
+---
 
->If anyone can refute me—show me I’m making a mistake or looking at things from the wrong perspective—I’ll gladly change. It’s the truth I’m after, and the truth never harmed anyone.d the translation of Meditations that I think is the best:
->
->If anyone can refute me—show me I’m making a mistake or looking at things from the wrong perspective—I’ll gladly change. It’s the truth I’m after, and the truth never harmed anyone.
+[Second](https://bookshop.org/books/deep-work-rules-for-focused-success-in-a-distracted-world/9781455586691), another quote about how true creativity can be brought to the world: 
+
+> [Great creative minds] think like artists but work like accountants...
+
+---
+
+[Third](https://bookshop.org/books/meditations-a-new-translation-7be5ded9-87a9-4056-af72-d6c917125a29/9780812968255), I think that Marcus Aurelius is one of the most impactful thinkers who ever lived. I've linked the translation of Meditations that I think is the best:
+
+> If anyone can refute me—show me I’m making a mistake or looking at things from the wrong perspective—I’ll gladly change. It’s the truth I’m after, and the truth never harmed anyone.

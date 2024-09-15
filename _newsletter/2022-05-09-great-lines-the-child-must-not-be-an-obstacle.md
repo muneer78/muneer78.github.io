@@ -15,6 +15,6 @@ Second, this guy could easily have also been from the Subcontinent:</p>
 
 ---
 
-Finally, I love Maureen Johnson&#39;s writing. This is a line from her [latest book](https://bookshop.org/books/your-guide-to-not-getting-murdered-in-a-quaint-english-village/9781984859624):
+Finally, I love Maureen Johnson's writing. This is a line from her [latest book](https://bookshop.org/books/your-guide-to-not-getting-murdered-in-a-quaint-english-village/9781984859624):
 
 > The interior of the main house is a puzzle box of danger built and redesigned so many times over the years that no one knows what the real layout is. It is madness, secrecy, and familial hatred made manifest.</p>
