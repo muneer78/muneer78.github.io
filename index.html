@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="toc">
+<!-- <div class="toc">
   <h2>On This Page:</h2>
   <ul>
     {% for post in paginator.posts %}
@@ -14,13 +14,13 @@ layout: default
       {% endunless %}
     {% endfor %}
   </ul>
-</div>
+</div> -->
 
 <div class="posts">
   {% for post in paginator.posts %}
     {% unless post.categories contains "strange-researches" or post.categories contains "cities" %}
       <article class="post">
-        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        <!-- <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1> -->
         <div class="entry">
           <p>{{ post.content | truncate: 600 }}</p> <!-- Display first 500 characters of post content -->
         </div>
