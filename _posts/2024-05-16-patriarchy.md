@@ -4,7 +4,7 @@ title: Patriarchy
 date: 2024-05-16
 ---
 
-Women are playing into patriarchy by doing OF. It's framed as empowering, but is it really? At the end of the day, you're making money and getting validation from dudes. Which I thought was what empowerment was trying to eliminate.
+Women are playing into patriarchy by doing OnlyFans. It's framed as empowering, but is it really? At the end of the day, you're making money and getting validation from dudes. Which I thought was what empowerment was trying to eliminate.
 
 This stuff is also saved somewhere forever.
 

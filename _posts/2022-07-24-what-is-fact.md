@@ -4,7 +4,7 @@ title: "Opinion masquerading as wisdom"
 date: 2022-07-24
 ---
 
-This was an interesting looks at what constitutes a fact:
+This was an interesting looks at what constitutes fact based vs opinion journalism:
 
 > What are facts?
 > 
