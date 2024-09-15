@@ -11,6 +11,8 @@ description: Things I Want To Revisit
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/synthwavehokusai.jpg
 
+incremental: true
+
 #
 # Flags below are optional
 #
@@ -62,10 +64,6 @@ permalink: /:title/
 # The release of Jekyll Now that you're using
 version: v1.2.0
 
-paginate: 10
-paginate_path: "/page:num/"
-paginate_path: "/archive/page:num/"
-
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
@@ -76,6 +74,18 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
+collections:
+  cities:
+    output: true
+    title: Retro City Pictures
+    description: A collection of vintage pictures of cities around the world
+    permalink: /cities/:path/
+  stramge_researches:
+    output: true
+    title: Strange Researches
+    description: A collection of topics I've compiled information about
+    permalink: /strange_researches/:path/
+
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
@@ -84,7 +94,7 @@ sass:
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-paginate
+  - jekyll-paginate-v2
 
 # Exclude these files from your production _site
 exclude:
@@ -93,3 +103,23 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Produces a cleaner folder structure when using categories
+permalink: /:year/:month/:title.html
+
+# Explicitly turn off the old code
+paginate: nil
+paginate_path: nil
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 3
+  offset: 2
+  permalink: '/page/:num/'
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  
+############################################################
