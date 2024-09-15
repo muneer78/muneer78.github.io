@@ -8,17 +8,45 @@ permalink: /cities/
 
 <p>I love vintage pictures of cities, especially street scenes. I collect these and have posted them all here.</p>
 
-<div class="collection-list">
-  <h1>Retro City Pictures</h1>
+---
+layout: default
+---
+
+<div class="toc">
+  <h2>On This Page:</h2>
   <ul>
-    {% for city in site.cities %}
+    {% assign sorted_cities = site.cities | sort: 'title' %}
+    {% for city in sorted_cities %}
       <li>
-        <article>
-          <h2><a href="{{ city.url }}">{{ city.title }}</a></h2>
-          <p>{{ city.description | truncatewords: 20 }}</p>
-          <p><small>{{ city.date | date: "%B %d, %Y" }}</small></p>
-        </article>
+        <a href="{{ site.baseurl }}{{ city.url }}">{{ city.title }}</a>
+        <span class="post-date">- {{ city.date | date: "%B %d, %Y" }}</span>
       </li>
     {% endfor %}
   </ul>
 </div>
+
+<div class="posts">
+  {% for city in sorted_cities %}
+    <article class="post">
+      <h1><a href="{{ site.baseurl }}{{ city.url }}">{{ city.title }}</a></h1>
+      <div class="entry">
+        <p>{{ city.content | truncate: 600 }}</p> <!-- Display first 600 characters of post content -->
+      </div>
+      <a href="{{ site.baseurl }}{{ city.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% endif %}
+  
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% endif %}
+</div>
+
+{% for link in site.data.navigation %}
+  <a class="page-link" href="{{ link.url }}">{{ link.title }}</a>
+{% endfor %}
