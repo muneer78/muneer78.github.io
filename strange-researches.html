@@ -1,19 +1,10 @@
 ---
-title: "Strange Researches"
-layout: default
+layout: strange-researches
+title: Strange Researches
 permalink: /strange-researches/
 ---
+
 
 <h1>Strange Researches</h1>
 
 <p>These are all pages where I've done some original research.</p>
-
-<ul>
-  {% assign postsInYear = site.posts | where_exp: "item", "item.categories contains 'strange-researches'" | where_exp: "item", "item.hidden != true" %}
-  {% for post in postsInYear %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - 
-      <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
-    </li>
-  {% endfor %}
-</ul>
