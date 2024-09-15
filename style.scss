@@ -268,7 +268,19 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
+    color: $red;
   }
+}
+
+.date {
+  font-style: italic;
+  color: $blue; // You might want to keep or update this if you have other date styles.
+}
+
+// Styling for post-date
+.post-date {
+  font-style: bold;
+  color: $red; // Apply the custom color
 }
 
 .wrapper-footer {
