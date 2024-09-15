@@ -1,6 +1,5 @@
 ---
 tags: current-events
-title: "Trump's Disaster"
 date: 2024-09-14
 ---
 
