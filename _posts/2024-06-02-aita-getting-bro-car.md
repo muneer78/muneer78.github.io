@@ -4,6 +4,8 @@ title: AITA For Getting My Bro A Car
 tags: reddit, uplifting
 ---
 
+[This is a great story](https://www.reddit.com/r/TwoHotTakes/comments/1d7l9gt/aita_for_getting_my_brother_a_new_car_update/) about a man trying to show his appreciation for the parentified brother who raised him:
+
 > Hello again! I'm sorry if this is hard to follow English isn't my first language.
 >
 > So to recap I (M19) got my brother (M25) a new car. My brother sacrificed his entire life so he could raise my siblings and I. He worked multiple jobs so he could pay for rent, give us food and get us into the sports we wanted. He gave up a scholarships because he wanted to stay near us so we wouldn't have to go into the system like he did. I am m the youngest out of my siblings and moved out for college so he is basically done raising us. I had an idea with my brother (M20) to get him a new car. Since his is really old and run down. I got him a 2020 Audi and it was pretty cheap since a guy from my internship sold it to me.

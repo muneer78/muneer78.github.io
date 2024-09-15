@@ -4,6 +4,8 @@ title: "Opinion masquerading as wisdom"
 date: 2022-07-24
 ---
 
+This was an interesting looks at what constitutes a fact:
+
 > What are facts?
 > 
 > There are many interpretations. Some of them say that facts are fluid and open to interpretation. Others say that only knowledge that is iron clad can be called a fact. The answet, to some, may lay in the middle. I dispute that interpretation. A fact is an incontrovertible truth. Everything else is opinion.

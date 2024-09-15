@@ -1,9 +1,0 @@
----
-date: 2012-01-01
-title: Happy New Year
-tags: thoughts
----
-
-As a youth in Saudi Arabia, I once collaborated with two classmates and made a dot matrix ASCII drawing that said "Happy New Year". After hanging it up, we basked in the admiration of our fellow students. Our religion teacher then ripped it off the wall and into pieces. We were then harangued for close to 30 minutes about our un-Islamic conduct. 
-
-Since then, I have been unable to wish anyone a Gregorian calendar Happy New Year without hyperventilating and wetting myself a little.

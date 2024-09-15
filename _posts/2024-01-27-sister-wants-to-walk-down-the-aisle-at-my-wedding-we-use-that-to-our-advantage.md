@@ -4,6 +4,8 @@ title: Sister Wants To Walk Down The Aisle At My Wedding. We Use That To Our Adv
 tags: reddit, bad-people
 ---
 
+This is a [great tale](https://www.reddit.com/r/ProRevenge/comments/191pnyk/sister_wants_to_walk_down_the_aisle_at_my_wedding/) about a woman getting back at her toxic family:
+
 > Here I am, writing this long tale in my honeymoon, but it does feel cathartic to finally type it out, and my husband is more excited about this than the resort drinks, lol Anyway, this is a throwaway because I don't have a reddit account and my husband, the reddit fanatic, said he doesn't want this associated with his main. As to why the reddit guy isn't the one writing this, it's because he said "since it's my family, I should be the one with the honor of posting the story", but he is looking over my shoulder to help out.
 >
 > I'm not a lawyer so I don't know if this works but: I do not give permission for this to be reposted anywhere else

@@ -4,6 +4,8 @@ title: Confronting Karen
 tags: thoughts
 ---
 
+I had to confront a Karen and her family at a restaurant:
+
 Karen and her family came in without masks and then asked if the restaurant had masks for them.
 
 The manager said no. So the Karen's family starts pulling their shirts up over their mouths, as if that would meet the mask mandate rules in Douglas County.

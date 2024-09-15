@@ -4,6 +4,8 @@ title: Hilarious Quotes From My Pal Steve
 date: 2024-07-26
 ---
 
+These are some hilarious quotes from my pal Steve:
+
 > A prophet can find honor anywhere but his own country.
 
 > Can someone please start a Police tribute band called "The Authorities?"

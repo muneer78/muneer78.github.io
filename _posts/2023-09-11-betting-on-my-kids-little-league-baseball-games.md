@@ -1,8 +1,10 @@
 ---
 date: 2023-09-11
-title: Betting On My Kids' Little League Baseball Games
+title: Betting On My Kid's Little League Baseball Games
 tags: gambling, reddit
 ---
+
+A great dad had [an idea about how to make his kid's Little League games](https://www.reddit.com/r/sportsbook/comments/jflup9/betting_on_my_kids_little_league_baseball_games/):
 
 > So for any of you who have kids that play little league baseball, you’re aware of how mind-numbingly exhausting these games can be. It’s so difficult watching from the stands as little Timmy pitches his 11th straight 4-pitch walk in a row. 
 > 

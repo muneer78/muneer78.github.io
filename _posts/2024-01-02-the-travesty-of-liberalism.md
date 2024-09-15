@@ -4,7 +4,7 @@ title: The Travesty Of Liberalism
 tags: politics
 ---
 
-I've thought this for years, but [this comment](https://crookedtimber.org/2018/03/21/liberals-against-progressives/#comment-729288) from Crooked Timber explains it perfectly: 
+I've tried to articulate my view of liberalism for years, but [this comment](https://crookedtimber.org/2018/03/21/liberals-against-progressives/#comment-729288) from Crooked Timber explains it perfectly: 
 
 > There is no such thing as liberalism — or progressivism, etc.
 > 

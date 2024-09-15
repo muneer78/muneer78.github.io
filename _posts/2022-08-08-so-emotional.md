@@ -3,6 +3,9 @@ date: 2022-08-08
 title: So Emotional
 tags: reddit
 ---
+
+I loved how this woman [dealt with an angry bully at work](https://www.reddit.com/r/AmItheAsshole/comments/vuiviv/aita_for_calling_my_hottempered_guy_coworker/):
+
 > So I'm an engineer and I'm working on a team with 7 decently chill guys and one guy with anger issues. Like he can't just have a respectful disagreement, he'll raise his voice and yell and get up close to your face. I hate it.
 > 
 > So I started by just complaining to my boss about it. And he brushed it under the rug saying he is just like that. And if I thought he was bad now I should of seen him 10 years ago before he "mellowed out"
