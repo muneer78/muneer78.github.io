@@ -4,7 +4,7 @@ title: The Fake Cricket League
 date: 2024-09-08
 ---
 
-This story is wild. Just goes to show that you need to do your research before putting your wagers down
+This story is wild. Just goes to show that you need to do your research before putting your wagers down.
 
 [The Fake Indian Cricket League Created for Real Online Betting](https://www.bloomberg.com/news/features/2024-08-11/the-fake-indian-cricket-league-created-for-real-online-betting):
 
