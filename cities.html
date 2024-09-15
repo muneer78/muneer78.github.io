@@ -1,27 +1,5 @@
 ---
-title: "Cities"
-layout: default
+layout: cities
+title: Retro City Pictures
 permalink: /cities/
 ---
-
-<h1>Cities</h1>
-
-<p>I love vintage pictures of cities, especially street scenes. I collect these and have posted them all here.</p>
-
-<div class="posts">
-  {% assign cities_posts = site.posts | where_exp: "post", "post.categories contains 'cities'" %}
-  
-  {% for post in cities_posts %}
-    <article class="post">
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <div class="entry">
-        <p>{{ post.content }}</p> <!-- Display full post content -->
-      </div>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
-
-{% for link in site.data.navigation %}
-  <a class="page-link" href="{{ link.url }}">{{ link.title }}</a>
-{% endfor %}
