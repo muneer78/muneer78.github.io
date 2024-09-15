@@ -117,7 +117,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $blue;
+  color: $yellow;
 }
 
 // Specify the color of the selection
@@ -195,14 +195,14 @@ img {
   color: $pink;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 300;
+  font-weight: bold;
   font-size: 28px;
   letter-spacing: 1px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $blue;
+  color: $yellow;
   font-size: 16px;
 
   @include mobile {
@@ -274,13 +274,13 @@ nav {
 
 .date {
   font-style: italic;
-  color: $blue; // You might want to keep or update this if you have other date styles.
+  color: $pink; // You might want to keep or update this if you have other date styles.
 }
 
 // Styling for post-date
 .post-date {
   font-style: bold;
-  color: $yellow; // Apply the custom color
+  color: $pink; // Apply the custom color
 }
 
 .wrapper-footer {
