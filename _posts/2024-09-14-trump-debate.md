@@ -5,7 +5,7 @@ date: 2024-09-14
 
 There are so many articles about Trump's utter failure at the debate. These are some of my favs:
 
-[A Handshake To End the Race](https://bad-faith-times.ghost.io/a-handshake-to-end-the-race/)
+[A Handshake To End the Race](https://bad-faith-times.ghost.io/a-handshake-to-end-the-race/):
 
 > Striding toward Trump and shaking his hand was a move of pure domination on Harris’ part. It was planned, of course, and it was successful. Trump looked like a defeated, tired old man who had met his match in the form of an opponent who did not fear him, and told him with her actions that it’s her that should be feared. 
 >
@@ -13,7 +13,7 @@ There are so many articles about Trump's utter failure at the debate. These are 
 
 ---
 
-[Trump is such a f—king loser](https://www.sfgate.com/politics/article/harris-trump-debate-19757717.php)
+[Trump is such a f—king loser](https://www.sfgate.com/politics/article/harris-trump-debate-19757717.php):
 
 > He’s getting worked up now. The horse tranquilizers have clearly worn off, and he has concepts of a plan to put this woman in her place. It’s 6:31 p.m. No holding the man back now.
 
@@ -21,13 +21,13 @@ There are so many articles about Trump's utter failure at the debate. These are 
 
 ---
 
-[How Harris Roped a Dope](https://www.theatlantic.com/politics/archive/2024/09/how-harris-roped-a-dope/679779/)
+[How Harris Roped a Dope](https://www.theatlantic.com/politics/archive/2024/09/how-harris-roped-a-dope/679779/):
 
 > ... she was human where Trump was feral.
 
 ---
 
-[Kamala Harris Is the First Post-Trump Candidate](https://www.theatlantic.com/technology/archive/2024/09/kamala-harris-post-trump-debate/679782/)
+[Kamala Harris Is the First Post-Trump Candidate](https://www.theatlantic.com/technology/archive/2024/09/kamala-harris-post-trump-debate/679782/):
 
 > Harris didn’t come off as furious or offended as she listened to Trump’s lies. Instead, she looked at ABC’s cameras the way you might look at your spouse in the presence of an overserved relative who doesn’t realize he’s making a scene at Thanksgiving dinner.
 
