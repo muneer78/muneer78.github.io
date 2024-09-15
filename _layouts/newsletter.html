@@ -4,11 +4,15 @@ layout: default
 permalink: /newsletter/
 ---
 
+<h1>Great Lines Newsletter</h1>
+
+<p>These are all editions of my newsletter, Great Lines.</p>
+
 <div class="toc">
   <h2>On This Page:</h2>
   <ul>
-    {% assign sorted_newsletter = site.newsletter | sort: 'date' %}
-    {% for newsletter in sorted_newsletter %}
+    {% assign sorted_newsletters = site.newsletter | sort: 'date' %}
+    {% for newsletter in sorted_newsletters %}
       <li>
         <a href="{{ site.baseurl }}{{ newsletter.url }}">{{ newsletter.title }}</a>
         <span class="post-date">- {{ newsletter.date | date: "%B %d, %Y" }}</span>
@@ -18,6 +22,7 @@ permalink: /newsletter/
 </div>
 
 <div class="posts">
+  {% assign sorted_newsletters = site.newsletter | sort: 'date' | reverse %}
   {% for newsletter in sorted_newsletters %}
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ newsletter.url }}">{{ newsletter.title }}</a></h1>
@@ -39,6 +44,8 @@ permalink: /newsletter/
   {% endif %}
 </div>
 
-{% for link in site.data.navigation %}
-  <a class="page-link" href="{{ link.url }}">{{ link.title }}</a>
-{% endfor %}
+<div class="navigation">
+  {% for link in site.data.navigation %}
+    <a class="page-link" href="{{ link.url }}">{{ link.title }}</a>
+  {% endfor %}
+</div>
