@@ -9,7 +9,7 @@ permalink: /mental_health/
 <div class="toc">
   <h2>On This Page:</h2>
   <ul>
-    {% assign sorted_mental = site.mental | sort: 'title' %}
+    {% assign sorted_mental = site.mental_health | sort: 'title' %}
     {% for mental in sorted_mental %}
       <li>
         <a href="{{ site.baseurl }}{{ mental.url }}">{{ mental.title }}</a>
