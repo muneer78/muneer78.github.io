@@ -6,7 +6,7 @@ date: 2022-07-24
 
 The one thing I'm happy I've maintained from my foreign culture is that I don't see work as an integral part of my identity. I want to do a good job, but work ends when I leave.
 
-[We’re Killing Ourselves with Work - Nautilus](https://nautil.us/were-killing-ourselves-with-work-238432/):
+[We’re Killing Ourselves with Work](https://nautil.us/were-killing-ourselves-with-work-238432/):
 
 > I’m not alone in viewing work as something like a religion. In a 2019 Pew Research report, Americans ranked “having a job or career they enjoy” as more essential to a fulfilling life than marriage, children, or a committed relationship of any kind.1 Another Pew report found that American teens ranked “having a job or career they enjoy” as even more important to them than “helping others who are in need.”2
 >
