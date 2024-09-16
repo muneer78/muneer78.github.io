@@ -4,7 +4,7 @@ title: Diamond Headed Canes
 tags: funny, gambling, stories
 ---
 
-I wish the Black had this much swag
+I wish the Black Sox had this much swag.
 
 [Gambling For Life](https://defector.com/gambling-for-life):
 
