@@ -36,7 +36,7 @@ header_pages:
   - cities.html
   - strange-researches.html
   - newsletter.html
-
+  - mental-health.html
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -94,6 +94,11 @@ collections:
     title: Great Lines Newsletter
     description: All posts of the Great Lines Newsletter
     permalink: /newsletter/:path/
+  mental_health:
+    output: true
+    title: Mental Health
+    description: A collection of mental health related posts
+    permalink: /mental_health/:path/
 
 # Set the Sass partials directory, as we're using @imports
 sass:

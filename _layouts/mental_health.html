@@ -1,0 +1,46 @@
+---
+title: "Mental Health"
+layout: default
+permalink: /mental-health/
+---
+
+<h1>Mental Health</h1>
+
+<div class="toc">
+  <h2>On This Page:</h2>
+  <ul>
+    {% assign sorted_mental = site.mental | sort: 'title' %}
+    {% for mental in sorted_mental %}
+      <li>
+        <a href="{{ site.baseurl }}{{ mental.url }}">{{ mental.title }}</a>
+        <span class="post-date">- {{ mental.date | date: "%B %d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="posts">
+  {% for mental in sorted_mental %}
+    <article class="post">
+      <h1><a href="{{ site.baseurl }}{{ mental.url }}">{{ mental.title }}</a></h1>
+      <div class="entry">
+        <p>{{ mental.content | truncate: 600 }}</p> <!-- Display first 600 characters of post content -->
+      </div>
+      <a href="{{ site.baseurl }}{{ mental.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% endif %}
+  
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% endif %}
+</div>
+
+{% for link in site.data.navigation %}
+  <a class="page-link" href="{{ link.url }}">{{ link.title }}</a>
+{% endfor %}
