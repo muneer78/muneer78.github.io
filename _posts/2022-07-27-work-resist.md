@@ -6,7 +6,7 @@ date: 2022-07-27
 
 This is a great book review looking deeper into the obsession with work and work resisters.
 
-[The Shame of Work - New Rambler Review](https://newramblerreview.com/book-reviews/political-science/the-shame-of-work):
+[The Shame of Work](https://newramblerreview.com/book-reviews/political-science/the-shame-of-work):
 
 > In its place was a somewhat nightmarish and dystopian warning call. The movie depicted the troubling apotheosis of capitalism. Jiro was dedicated to his craft but at what cost? He worked closely with his two sons, but there was virtually no representation of family or home life in the film. He only became close to them when they started to work for him, and after denying them a university education. Jiro’s wife is never mentioned; we get a fleeting glimpse of her in an old photograph. Jiro’s older son clearly wishes to take over the family restaurant, but his father refuses to retire. A trip to the fish market revels in the extractive horrors of capitalism. The sellers lament the low quantity and quality of fish on sale, a crisis being precipitated by the overfishing that supplies the rising demand for sushi. An old man at the market complains of being tired and worn out. He longs to retire. Why can’t he? We are never told. The colonizing and soul-crushing powers of work were suddenly brought into sharp relief.
 
