@@ -2,6 +2,7 @@
 tags: great-lines
 title: Samantha Irby Reviews Judge Mathis
 date: 2024-08-29
+layout: post
 ---
 
 Samantha Irby's reviews of Judge Mathis episodes are a national treasure:

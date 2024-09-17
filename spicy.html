@@ -1,0 +1,18 @@
+---
+layout: spicy
+title: Spicy Posts
+permalink: /spicy/
+---
+
+<article class="post">
+
+    <div class="entry">
+      {{ content }}
+    </div>
+  
+    <div class="date">
+      Written on {{ page.date | date: "%B %e, %Y" }}
+    </div>
+  
+    {% include disqus.html %}
+  </article>

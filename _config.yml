@@ -99,6 +99,11 @@ collections:
     title: Mental Health
     description: A collection of mental health related posts
     permalink: /mental_health/:path/
+  spicy:
+    output: true
+    title: Spicy Posts
+    description: A collection of NSFW posts
+    permalink: /spicy/:path/
 
 # Set the Sass partials directory, as we're using @imports
 sass:

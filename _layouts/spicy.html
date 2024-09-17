@@ -1,0 +1,47 @@
+---
+title: "Spicy Posts"
+layout: default
+permalink: /spicy/
+---
+
+<h1>spicys</h1>
+
+<p>I love vintage pictures of spicys, especially street scenes. I collect these and have posted them all here.</p>
+
+<div class="toc">
+  <ul>
+    {% assign sorted_spicys = site.spicys | sort: 'title' %}
+    {% for spicy in sorted_spicys %}
+      <li>
+        <a href="{{ site.baseurl }}{{ spicy.url }}">{{ spicy.title }}</a>
+        <span class="post-date">- {{ spicy.date | date: "%B %d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="posts">
+  {% for spicy in sorted_spicys %}
+    <article class="post">
+      <h1><a href="{{ site.baseurl }}{{ spicy.url }}">{{ spicy.title }}</a></h1>
+      <div class="entry">
+        <p>{{ spicy.content | truncate: 600 }}</p> <!-- Display first 600 characters of post content -->
+      </div>
+      <a href="{{ site.baseurl }}{{ spicy.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% endif %}
+  
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% endif %}
+</div>
+
+{% for link in site.data.navigation %}
+  <a class="page-link" href="{{ link.url }}">{{ link.title }}</a>
+{% endfor %}

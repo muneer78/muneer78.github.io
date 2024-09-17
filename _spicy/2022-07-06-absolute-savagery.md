@@ -2,6 +2,7 @@
 date: 2022-07-06
 title: Absolute Savagery
 tags: great-lines
+layout: post
 ---
 
 

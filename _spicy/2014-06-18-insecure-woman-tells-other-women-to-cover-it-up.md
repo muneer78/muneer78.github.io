@@ -2,6 +2,7 @@
 date: 2014-06-18
 title: Insecure Woman Tells Other Women To Cover It Up
 tags: religion, women
+layout: post
 ---
 
 [MY HUSBAND DOESN’T NEED TO SEE YOUR BOOBS](https://web.archive.org/web/20140615115753/http://applesandbandaidsblog.com/2014/06/11/my-husband-doesnt-need-to-see-your-boobs):
