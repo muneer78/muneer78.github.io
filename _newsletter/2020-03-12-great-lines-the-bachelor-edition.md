@@ -2,6 +2,7 @@
 date: 2020-03-12
 title: The Bachelor Edition
 tags: newsletter
+layout: newsletter
 ---
 
 This week, we look to The Bachelor. I know many of you hate the show. But that doesn’t mean that the people who write about it aren’t hilarious.
