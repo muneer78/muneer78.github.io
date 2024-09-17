@@ -2,6 +2,7 @@
 date: 2022-03-30
 title: The 2015 Royals Edition
 tags: newsletter
+layout: post
 ---
 
 Welcome to another baseball season! In honor of this event, here are some great-lines about the 2015 Royals.

@@ -2,6 +2,7 @@
 date: 2022-12-19
 title: The MTV Grind Edition
 tags: newsletter
+layout: post
 ---
 
 [First](https://deadspin.com/how-long-can-you-wear-championship-gear-1788695585), this is how I feel whenever I see a bumper sticker:

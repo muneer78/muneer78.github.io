@@ -2,6 +2,7 @@
 date: 2020-04-30
 title: The Money Laundering Edition
 tags: newsletter
+layout: post
 ---
 
 

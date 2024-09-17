@@ -2,6 +2,7 @@
 date: 2021-11-10
 title: The First Principles Edition
 tags: newsletter
+layout: post
 ---
 
 I'm going to be starting a new job on Monday. I've given a lot of you the blow by blow account of how the negotiations with my employer went. But the main takeaway from this exercise for me are the fololowing:

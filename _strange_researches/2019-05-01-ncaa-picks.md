@@ -2,6 +2,7 @@
 date: 2019-05-01
 title: NCAA Picks Experiment
 tags: sports
+layout: post
 category: strange-researches
 ---
 

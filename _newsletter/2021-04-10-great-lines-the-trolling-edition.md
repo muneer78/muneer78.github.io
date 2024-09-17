@@ -2,6 +2,7 @@
 date: 2021-04-10
 title: The Trolling Edition
 tags: newsletter
+layout: post
 ---
 
 I got the first shot of the Pfizer vaccine on April 29. On Sunday, I got sick with flu-like symptoms. It passed by Monday night. I'm sure there are some people out there who would use this experience to argue for "safe vaccines". Those people are morons.

@@ -2,6 +2,7 @@
 date: 2021-11-09
 title: New York City, 1970s
 tags: cities
+layout: post
 category: cities
 ---
 

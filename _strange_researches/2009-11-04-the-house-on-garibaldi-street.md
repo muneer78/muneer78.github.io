@@ -4,6 +4,7 @@ layout: post
 category: strange-researches
 title: The House On Garibaldi Street
 tags: history
+layout: post
 ---
 
 The [capture](http://www.jewishvirtuallibrary.org/jsource/Holocaust/eichcap.html) of [Adolf](http://en.wikipedia.org/wiki/Adolf_Eichmann) [Eichmann](http://www.bbc.co.uk/history/worldwars/genocide/eichmann_01.shtml) is one of the more [daring](http://www.militaryhistoryonline.com/wwii/articles/adolfeichmann.aspx) [spy operations](http://www.holocaustresearchproject.org/trials/eichmanntrialcapture.html) in the post WWII era. The story spans 17 years, beginning with Eichmann's clandestine escape from the Allied forces and the Nuremberg trial, and ending with his hanging in Israel.

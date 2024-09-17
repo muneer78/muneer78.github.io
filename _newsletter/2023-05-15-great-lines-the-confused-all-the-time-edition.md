@@ -2,6 +2,7 @@
 date: 2023-05-15
 title: The Confused All The Time Edition
 tags: newsletter
+layout: post
 ---
 
 First, this child is beyond his years.

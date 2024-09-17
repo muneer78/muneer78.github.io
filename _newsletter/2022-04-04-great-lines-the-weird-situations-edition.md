@@ -2,6 +2,7 @@
 date: 2022-04-04
 title: The Weird Situations Edition
 tags: newsletter
+layout: post
 ---
 
 This quote by Andy Warhol has always resonated with me as a way to explain my youth:

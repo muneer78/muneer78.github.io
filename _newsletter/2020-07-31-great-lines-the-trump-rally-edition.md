@@ -2,6 +2,7 @@
 date: 2020-07-31
 title: The Trump Rally Edition
 tags: newsletter
+layout: post
 ---
 
 

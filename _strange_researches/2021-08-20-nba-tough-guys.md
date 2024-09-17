@@ -4,6 +4,7 @@ layout: post
 category: strange-researches
 title: NBA Tough Guys
 tags: sports
+layout: post
 ---
 
 NBA tough guys have a storied and colorful history.

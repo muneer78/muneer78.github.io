@@ -2,6 +2,7 @@
 date: 2021-01-18
 title: London, 1950s
 tags: cities
+layout: post
 category: cities
 ---
 

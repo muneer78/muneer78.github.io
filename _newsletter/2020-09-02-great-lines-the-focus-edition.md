@@ -2,6 +2,7 @@
 date: 2020-09-02
 title: The Focus Edition
 tags: newsletter
+layout: post
 ---
 
 

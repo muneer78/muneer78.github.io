@@ -2,6 +2,7 @@
 date: 2022-08-29
 title: The Pretty Wild Stuff Edition
 tags: newsletter
+layout: post
 ---
 
 I finally made the switch to Spotify. That means that I can now easily share interesting podcast episodes here as well. See below for more.

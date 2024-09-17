@@ -1,5 +1,6 @@
 ---
 tags: cities
+layout: post
 title: "New York City, 1950s"
 date: 2024-09-02
 category: cities

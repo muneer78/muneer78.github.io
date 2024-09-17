@@ -2,6 +2,7 @@
 date: 2021-09-22
 title: The Samantha Bee Edition
 tags: newsletter, books
+layout: post
 ---
 
 

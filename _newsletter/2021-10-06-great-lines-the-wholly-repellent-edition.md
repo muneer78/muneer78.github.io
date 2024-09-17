@@ -2,6 +2,7 @@
 date: 2021-10-06
 title: The Wholly Repellent Edition
 tags: newsletter
+layout: post
 ---
 
 I really hope all of you are doing well. I write these way ahead of time, so the Delta variant of Covid may be a distant memory by the time you get this. But something tells me that won't be the case.

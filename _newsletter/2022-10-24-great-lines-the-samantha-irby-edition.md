@@ -2,6 +2,7 @@
 date: 2022-10-24
 title: The Samantha Irby Edition
 tags: newsletter
+layout: post
 ---
 
 I love me some Samantha Irby. I haven't read her books, but if you haven't subscribed to her [Judge Mathis recap newsletter](https://bitchesgottaeat.substack.com/), get on that immediately.

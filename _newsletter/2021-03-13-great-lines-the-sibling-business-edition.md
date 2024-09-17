@@ -2,6 +2,7 @@
 date: 2021-03-13
 title: The Sibling Business Edition
 tags: newsletter
+layout: post
 ---
 
 

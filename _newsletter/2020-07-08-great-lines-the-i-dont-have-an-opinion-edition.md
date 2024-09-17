@@ -2,6 +2,7 @@
 date: 2020-07-08
 title: The I Don't Have An Opinion Edition
 tags: newsletter
+layout: post
 ---
 
 

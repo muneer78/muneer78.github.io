@@ -2,6 +2,7 @@
 date: 2020-05-07
 title: The Larry David Edition
 tags: video, newsletter
+layout: post
 ---
 
 

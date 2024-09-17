@@ -2,6 +2,7 @@
 date: 2021-11-24
 title: The Other Side Edition
 tags: newsletter
+layout: post
 ---
 
 [The “Other Side” Is Not Dumb](https://medium.com/@SeanBlanda/the-other-side-is-not-dumb-2670c1294063):

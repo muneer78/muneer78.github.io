@@ -2,6 +2,7 @@
 date: 2012-06-10
 title: London, 1960s
 tags: cities
+layout: post
 category: cities
 ---
 

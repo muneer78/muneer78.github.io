@@ -2,6 +2,7 @@
 date: 2021-06-30
 title: The Hillbilly Elegy Edition
 tags: newsletter
+layout: post
 ---
 
 

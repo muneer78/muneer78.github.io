@@ -2,6 +2,7 @@
 date: 2020-06-10
 title: The Black Spades Edition
 tags: newsletter, black
+layout: post
 ---
 
 

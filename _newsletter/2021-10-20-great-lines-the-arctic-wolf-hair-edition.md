@@ -2,6 +2,7 @@
 date: 2021-10-20
 title: The Arctic Wolf Hair Edition
 tags: newsletter
+layout: post
 ---
 
 For those who don't know, I've decided to find a new job. I didn't want there to be any ambiguity, so I told my boss the day after I'd made my decision. I feel both lighter and more anxious about taking the next step in my working life. But, the worker shortage is real. In the 3 weeks I've been applying, I've gotten 3 interviews and they've all gone to a second interview. I've never been this in demand in the job market.

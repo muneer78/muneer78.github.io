@@ -2,6 +2,7 @@
 date: 2020-08-18
 title: The Protest Pup Edition
 tags: newsletter
+layout: post
 ---
 
 

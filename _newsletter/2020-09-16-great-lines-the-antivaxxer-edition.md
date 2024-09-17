@@ -2,6 +2,7 @@
 date: 2020-09-16
 title: The Antivaxxer Edition
 tags: newsletter
+layout: post
 ---
 
 

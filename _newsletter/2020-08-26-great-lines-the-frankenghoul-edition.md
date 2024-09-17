@@ -2,6 +2,7 @@
 date: 2020-08-26
 title: The Frankenghoul Edition
 tags: newsletter
+layout: post
 ---
 
 

@@ -2,6 +2,7 @@
 date: 2022-11-07
 title: The Sentient Applebees Margarita Edition
 tags: newsletter
+layout: post
 ---
 
 [First](https://www.garbageday.email/p/staring-and-pointing), this description of Marjorie Taylor Greene is devastating and wonderful:

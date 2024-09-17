@@ -4,6 +4,7 @@ layout: post
 category: strange-researches
 title: Soft Drinks Around The World
 tags: food
+layout: post
 ---
 
 [Soft drinks](http://en.wikipedia.org/wiki/Soft_drink) have become ubiquitous around the world. Everywhere you go, you are more likely than not going to see them being sold at stores, food carts and roadside stands.

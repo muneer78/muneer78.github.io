@@ -2,6 +2,7 @@
 date: 2023-06-05
 title: The Hardcore Kid Edition
 tags: newsletter
+layout: post
 ---
 
 First, this kid is guaranteed to have gone places since this incident.

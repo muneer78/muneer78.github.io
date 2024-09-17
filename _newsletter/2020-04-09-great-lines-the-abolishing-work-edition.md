@@ -2,6 +2,7 @@
 date: 2020-04-09
 title: The Abolishing Work Edition
 tags: newsletter
+layout: post
 ---
 
 

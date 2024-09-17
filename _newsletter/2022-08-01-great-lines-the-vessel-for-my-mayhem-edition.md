@@ -2,6 +2,7 @@
 date: 2022-08-01
 title: The Vessel For My Mayhem Edition
 tags: newsletter
+layout: post
 ---
 
 ![bodyvessel](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/bodyvessel.jpg)

@@ -2,6 +2,7 @@
 date: 2022-07-18
 title: The Essence Of Madness Edition
 tags: newsletter
+layout: post
 ---
 
 ![madness.png](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/madness.png)

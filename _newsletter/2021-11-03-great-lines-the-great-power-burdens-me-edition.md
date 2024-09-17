@@ -2,6 +2,7 @@
 date: 2021-11-03
 title: The Great Power Burdens Me Edition
 tags: newsletter
+layout: post
 ---
 
 I write these ahead of time. By the time this publishes, I'll likely have a new job. It took me exactly 5 weeks from the time I told my boss I was leaving my job to get the new one. This is a great time to be looking, so get out there if you have any desirable skills.

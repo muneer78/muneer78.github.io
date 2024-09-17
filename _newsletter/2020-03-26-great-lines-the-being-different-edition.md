@@ -2,6 +2,7 @@
 date: 2020-03-26
 title: The Being Different Edition
 tags: newsletter
+layout: post
 ---
 
 [On books that put forth a grand theory of everything](https://www.currentaffairs.org/2018/03/the-intellectual-we-deserve):

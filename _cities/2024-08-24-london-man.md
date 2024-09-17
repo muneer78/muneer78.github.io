@@ -2,6 +2,7 @@
 date: 2021-09-12
 title: London, 1970s
 tags: cities
+layout: post
 category: cities
 ---
 

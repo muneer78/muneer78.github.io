@@ -4,6 +4,7 @@ layout: post
 category: strange-researches
 title: JAQing Off
 tags: thinking
+layout: post
 ---
 
 From the great comic, Wondermark, a word for the type of trolling some people do:

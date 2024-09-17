@@ -2,6 +2,7 @@
 date: 2021-08-11
 title: The Show Me I'm Making A Mistake Edition
 tags: newsletter
+layout: post
 ---
 
 

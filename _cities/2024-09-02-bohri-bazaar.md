@@ -2,6 +2,7 @@
 date: 2021-09-16
 title: "Karachi, 1960s"
 tags: cities
+layout: post
 category: cities
 ---
 

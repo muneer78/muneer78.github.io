@@ -2,6 +2,7 @@
 date: 2021-07-14
 title: The Rented Family Edition
 tags: newsletter
+layout: post
 ---
 
 

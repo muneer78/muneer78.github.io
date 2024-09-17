@@ -2,6 +2,7 @@
 date: 2020-08-12
 title: The I Don't Make Very Much Edition
 tags: newsletter
+layout: post
 ---
 
 

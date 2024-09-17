@@ -2,6 +2,7 @@
 date: 2020-03-19
 title: The Unsettling Edition
 tags: newsletter
+layout: post
 ---
 
 

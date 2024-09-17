@@ -2,6 +2,7 @@
 date: 2021-09-08
 title: The Rules Of Employment Edition
 tags: newsletter
+layout: post
 ---
 
 I couldn't pick just one or two of the points in [this post](https://devjac.dev/posts/2021-05-29-my-personal-creed-of-employment.html), so I'm going to repost it.

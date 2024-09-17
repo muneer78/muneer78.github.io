@@ -2,6 +2,7 @@
 date: 2023-03-20
 title: The Tungsten Arm O'Doyle Edition
 tags: newsletter
+layout: post
 ---
 
 First, I appreciate when someone takes accountability.

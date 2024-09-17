@@ -2,6 +2,7 @@
 date: 2024-08-29
 title: "Karachi, 1975"
 tags: cities
+layout: post
 category: cities
 ---
 

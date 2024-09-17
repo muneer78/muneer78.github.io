@@ -2,6 +2,7 @@
 date: 2020-04-02
 title: The Bulljivin' Edition
 tags: newsletter
+layout: post
 ---
 
 

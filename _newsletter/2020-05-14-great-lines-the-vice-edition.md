@@ -2,6 +2,7 @@
 date: 2020-05-14
 title: The Vice Edition
 tags: newsletter
+layout: post
 ---
 
 

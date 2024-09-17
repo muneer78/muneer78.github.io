@@ -2,6 +2,7 @@
 date: 2020-06-03
 title: The Disagreement Edition
 tags: newsletter
+layout: post
 ---
 
 

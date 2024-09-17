@@ -2,6 +2,7 @@
 date: 2021-03-27
 title: The Nixon/Trump Edition
 tags: newsletter
+layout: post
 ---
 
 I’ve recently been watching a lot of the original “Head of the Class” series on HBO Max.  This type of nostalgia has been very prevalent in my life recently.

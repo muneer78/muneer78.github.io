@@ -2,6 +2,7 @@
 date: 2022-06-20
 title: The Support Group Edition
 tags: newsletter
+layout: post
 ---
 
 Either George Carlin or Drew Carey said this, but it's still a classic.

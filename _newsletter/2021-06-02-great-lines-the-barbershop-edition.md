@@ -2,6 +2,7 @@
 date: 2021-06-02
 title: The Barbershop Edition
 tags: newsletter
+layout: post
 ---
 
 

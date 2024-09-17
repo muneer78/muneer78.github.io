@@ -2,6 +2,7 @@
 date: 2012-06-13
 title: New York City, 1960s
 tags: cities
+layout: post
 category: cities
 ---
 

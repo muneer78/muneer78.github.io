@@ -2,6 +2,7 @@
 date: 2020-07-18
 title: The Beastliness Edition
 tags: newsletter
+layout: post
 ---
 
 

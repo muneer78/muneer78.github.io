@@ -2,6 +2,7 @@
 date: 2020-04-14
 title: The Gucci And Thug Edition
 tags: newsletter
+layout: post
 ---
 
 

@@ -2,6 +2,7 @@
 date: 2021-03-20
 title: Another Twitter Edition
 tags: newsletter
+layout: post
 ---
 
 

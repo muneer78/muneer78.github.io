@@ -2,6 +2,7 @@
 date: 2022-09-12
 title: The Buy Groceries From A Failure Edition
 tags: newsletter
+layout: post
 ---
 
 [First](https://www.vulture.com/article/the-bachelorette-recap-season-19-episode-7-hometowns-week.html), I love Gabby's vibe on the Bachelorette this season:

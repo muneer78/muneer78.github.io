@@ -2,6 +2,7 @@
 date: 2021-09-13
 title: New York City, 1984
 tags: cities
+layout: post
 category: cities
 ---
 

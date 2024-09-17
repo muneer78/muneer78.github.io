@@ -2,6 +2,7 @@
 date: 2022-05-23
 title: The Puppet Master Edition
 tags: newsletter
+layout: post
 ---
 
 [This quote](https://grantland.com/the-triangle/mlb-shootaround-intriguing-second-half-story-lines/) perfectly sums up how I felt about some of my relationships before meeting my wife:

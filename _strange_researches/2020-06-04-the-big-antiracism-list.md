@@ -4,6 +4,7 @@ layout: post
 category: strange-researches
 title: The Big Antiracism List
 tags: racism, history
+layout: post
 ---
 
 Trump's America is the long awaited result of the [Southern Strategy](https://www.thenation.com/article/archive/exclusive-lee-atwaters-infamous-1981-interview-southern-strategy/) implemented by the GOP in the 1960's. 

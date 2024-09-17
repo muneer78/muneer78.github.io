@@ -2,6 +2,7 @@
 date: 2022-10-10
 title: The Shallow Promises Edition
 tags: newsletter
+layout: post
 ---
 
 [First](https://www.vulture.com/article/bachelor-in-paradise-season-8-premiere-recap-episode-1.html), a great quote about Jesse Palmer as the new host of Bachelor in Paradise:

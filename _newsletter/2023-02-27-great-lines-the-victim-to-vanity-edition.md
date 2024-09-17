@@ -2,6 +2,7 @@
 date: 2023-02-27
 title: The Victim To Vanity Edition
 tags: newsletter
+layout: post
 ---
 
 First:

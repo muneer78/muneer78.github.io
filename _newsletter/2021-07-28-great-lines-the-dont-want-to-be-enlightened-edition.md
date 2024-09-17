@@ -2,6 +2,7 @@
 date: 2021-07-28
 title: The Don't Want To Be Enlightened Edition
 tags: newsletter
+layout: post
 ---
 
 

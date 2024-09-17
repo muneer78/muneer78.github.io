@@ -2,6 +2,7 @@
 date: 2023-05-01
 title: The Future Is Meaningless Edition
 tags: newsletter
+layout: post
 ---
 
 First, I feel this way every time I have a chocolate bar after dinner.

@@ -2,6 +2,7 @@
 date: 2023-01-30
 title: The Foolish Capering Edition
 tags: newsletter
+layout: post
 ---
 
 First, The Simpsons are always good for a great line:

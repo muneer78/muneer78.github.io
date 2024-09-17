@@ -2,6 +2,7 @@
 date: 2022-07-04
 title: The Out Of Office Response Edition
 tags: newsletter
+layout: post
 ---
 
 This is some good game from The Boondocks:![rileyfreeman.jpeg](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/rileyfreeman.jpeg)

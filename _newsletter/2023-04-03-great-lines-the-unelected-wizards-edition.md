@@ -2,6 +2,7 @@
 date: 2023-04-03
 title: The Unelected Wizards Edition
 tags: newsletter
+layout: post
 ---
 
 First, I like puns and this one is a classic:

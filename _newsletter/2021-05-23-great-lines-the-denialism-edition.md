@@ -2,6 +2,7 @@
 date: 2021-05-23
 title: The Denialism Edition
 tags: newsletter
+layout: post
 ---
 
 I read this [great article ](https://www.theguardian.com/news/2018/aug/03/denialism-what-drives-people-to-reject-the-truth)about denialism this week. I cast out a denialist from my life earlier this year, after realizing that he was entirely malignant and was employing "whataboutism" as a cover to say increasingly insane things. 

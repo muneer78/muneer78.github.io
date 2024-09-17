@@ -2,6 +2,7 @@
 date: 2023-04-17
 title: The Supreme Design Edition
 tags: newsletter
+layout: post
 ---
 
 First, this wisdom should be heeded by everyone.

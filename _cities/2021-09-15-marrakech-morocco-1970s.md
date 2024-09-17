@@ -2,6 +2,7 @@
 date: 2021-09-15
 title: Marrakech, Morocco, 1970s
 tags: cities
+layout: post
 category: cities
 ---
 

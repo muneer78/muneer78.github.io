@@ -2,6 +2,7 @@
 date: 2021-06-16
 title: The Infinite Choices Edition
 tags: newsletter
+layout: post
 ---
 
 One good thing about the pandemic: there is no longer a social obligation to hug people. I've never been a big hugger, but have grown to tolerate it. No more! I'm finally going to shake off the yoke of the Hug Industrial Complex after all these years.

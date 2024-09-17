@@ -2,6 +2,7 @@
 date: 2022-04-25
 title: The Believe In Dinosaurs Edition
 tags: newsletter
+layout: post
 ---
 
 Mookie Wilson, when he was playing for the New York Mets, had an interesting way of looking at batting slumps:

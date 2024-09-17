@@ -2,6 +2,7 @@
 date: 2021-12-08
 title: Live In A World Of Ghosts Edition
 tags: newsletter
+layout: post
 ---
 
 For the entire time I've been here in the US, I've never understood performative overwork to cover for bad processes. The week after I joined JPMorgan, the boos of my old team had us all working until 11pm on 3 days of that week. We had to manually review every single document being sent to a client. All I could think of was, "How terrible are your processes that it was even necessary to do that?" 

@@ -2,6 +2,7 @@
 date: 2024-09-06
 title: Election Betting Odds
 tags: politics
+layout: post
 category: strange-researches
 ---
 

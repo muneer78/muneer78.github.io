@@ -2,6 +2,7 @@
 date: 2021-12-24
 title: The Christmas Edition
 tags: newsletter
+layout: post
 ---
 
 

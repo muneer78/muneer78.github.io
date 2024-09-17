@@ -2,6 +2,7 @@
 date: 2020-08-07
 title: The Killer Mike Edition
 tags: newsletter
+layout: post
 ---
 
 

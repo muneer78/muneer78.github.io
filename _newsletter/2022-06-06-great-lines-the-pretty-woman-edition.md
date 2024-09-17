@@ -2,6 +2,7 @@
 date: 2022-06-06
 title: The Pretty Woman Edition
 tags: newsletter
+layout: post
 ---
 
 English translations can sometimes be so spot on:

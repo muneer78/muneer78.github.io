@@ -2,6 +2,7 @@
 date: 2020-07-01
 title: The Old Man In Poverty Edition
 tags: newsletter
+layout: post
 ---
 
 

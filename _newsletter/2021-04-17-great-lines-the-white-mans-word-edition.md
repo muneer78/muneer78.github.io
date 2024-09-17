@@ -2,6 +2,7 @@
 date: 2021-04-17
 title: The White Man's Word Edition
 tags: newsletter, books
+layout: post
 ---
 
 

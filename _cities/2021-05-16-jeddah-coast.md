@@ -1,5 +1,6 @@
 ---
 tags: cities
+layout: post
 category: cities
 ---
 

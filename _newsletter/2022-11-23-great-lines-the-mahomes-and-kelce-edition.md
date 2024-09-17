@@ -2,6 +2,7 @@
 date: 2022-11-23
 title: The Mahomes And Kelce Edition
 tags: newsletter
+layout: post
 ---
 
 It's now the second time I've sent a Thanksgiving newsletter. This officially makes this newsletter the longest creative endeavor I've ever engaged in.
