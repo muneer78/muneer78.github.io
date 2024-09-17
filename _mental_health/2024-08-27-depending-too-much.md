@@ -1,5 +1,6 @@
 ---
 tags: mental-health
+layout: post
 title: "Depending Too Much"
 date: 2024-08-27
 ---

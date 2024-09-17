@@ -2,6 +2,7 @@
 date: 2023-09-04
 title: OOP Leaves And Her Kids Are Raised By A Wolfpack
 tags: stories
+layout: post
 ---
 
 This is a [tale](https://www.reddit.com/r/BestofRedditorUpdates/comments/15bfxew/oop_leaves_and_her_kids_are_raised_by_a_wolfpack/) of a woman who left her kids for 7 years:

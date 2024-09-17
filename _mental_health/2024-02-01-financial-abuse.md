@@ -1,5 +1,6 @@
 ---
 tags: mental-health, bad-people
+layout: post
 title: BAD mom financially EXPLOITS daughter for 7 years then BLAMES her
 date: 2024-02-01
 ---

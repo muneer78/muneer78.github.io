@@ -1,5 +1,6 @@
 ---
 tags: mental-health
+layout: post
 title: Parentification
 date: 2024-08-24
 ---

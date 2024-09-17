@@ -1,5 +1,6 @@
 ---
 tags: mental-health
+layout: post
 title: "Trauma Hope"
 date: 2024-08-26
 ---

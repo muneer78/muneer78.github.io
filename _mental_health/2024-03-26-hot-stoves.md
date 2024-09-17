@@ -1,5 +1,6 @@
 ---
 tags: mental-health, thoughts
+layout: post
 title: Hot Stoves
 date: 2024-03-26
 ---
