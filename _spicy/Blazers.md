@@ -1,0 +1,14 @@
+---
+title: Blazers
+layout: post
+tag: sports
+date:2022-04-22
+---
+
+The Blazers are fun to watch.
+
+It's like a guy with a small dick who knows how to use it. He has heart. He makes up for his lack of size with an unwavering commitment to giving it his all with every stroke. But really he has a lot of girth. You never think about the girth. His dick was never small. It's thick. And that helps more than anything.
+
+The Blazers are thick. Warriors have been use to giving their girl the long dick. They got too confident, you ain’t OG Mudbone baby. Tonight your girl was feeling adventurous. She fucked with a man with some thickness. Girth Brooks. The dark horse of cocks. Your girl was tired of getting that deep dick. She wanted to be stretched & filled. Don’t ever underestimate how girth can make your girl feel.
+
+Thank you Blazers for teaching a valuable lesson.
