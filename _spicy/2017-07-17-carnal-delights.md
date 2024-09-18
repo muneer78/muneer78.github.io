@@ -9,7 +9,7 @@ tags: sex
 ## AN EVENING OF CARNAL DELIGHTS AS ENVISIONED BY MY 10-YEAR-OLD SELF
 by LILLIAN STONE
 
- 
+
 My lover is on his way. I know this because my mom just yelled downstairs, “Lillian, your lover is on his way.” I live in my parents’ basement because I love them and they love me. We can just add onto the house if we decide we need more space for bulk Fruit Roll-Ups or whatever.
 
 I ready myself, shaving my legs, arms, and butt. Then, I apply my perfume. I am 32, which means I am old enough to spray a cloud of Britney Spears Circus perfume and then walk through it, letting the little droplets of perfume shower my bouncy curls and my big adult boobs. Finally, I rub the accompanying scented lotion on my hands because I have definitely grown out of my eczema at this point.
