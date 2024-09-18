@@ -1,7 +1,8 @@
 ---
 date: 2013-08-06
 title: False Accusation
-tags: stories
+tags: personal
+layout: post
 ---
 
 When I was a young boy, my family used to go to Bangladesh to visit falling every summer. In 1987, I was accused of stealing some money that had gone missing from my mom's purse. She did everything short of water boarding me to get me to admit that I was a thief. The next day, she pulled out one of her purses and the money was tucked away safely inside. When I expressed my desire for an apology, I was told that I was lucky to still be alive.
