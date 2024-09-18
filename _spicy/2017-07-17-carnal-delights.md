@@ -6,8 +6,9 @@ tags: sex
 ---
 
 
-AN EVENING OF CARNAL DELIGHTS AS ENVISIONED BY MY 10-YEAR-OLD SELF
+## AN EVENING OF CARNAL DELIGHTS AS ENVISIONED BY MY 10-YEAR-OLD SELF
 by LILLIAN STONE
+
  
 My lover is on his way. I know this because my mom just yelled downstairs, “Lillian, your lover is on his way.” I live in my parents’ basement because I love them and they love me. We can just add onto the house if we decide we need more space for bulk Fruit Roll-Ups or whatever.
 
