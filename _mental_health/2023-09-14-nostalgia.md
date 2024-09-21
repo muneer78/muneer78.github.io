@@ -2,6 +2,7 @@
 date: 2023-09-14
 title: Nostalgia
 tags: stories
+layout: post
 ---
 
 One time, my dad was talking to some other "uncles" at a party about how great it was back "home". As they kept talking, the insults of how godless and goodbye the US was started.

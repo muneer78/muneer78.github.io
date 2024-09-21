@@ -2,6 +2,7 @@
 date: 2023-09-04
 title: AITA For Being Upfront And Telling My Parents That I Am Putting Them In A Home
 tags: stories, reddit
+layout: post
 ---
 
 This woman is conflicted about [telling her toxic South Asian parents they're not going to live with her when they're old](https://www.reddit.com/r/AmItheAsshole/comments/ymvh7j/aita_for_being_upfront_and_telling_my_parents/):

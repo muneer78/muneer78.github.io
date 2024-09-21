@@ -2,6 +2,7 @@
 date: 2014-11-28
 title: Paid for doing good work
 tags: thoughts
+layout: post
 ---
 
 I had this exchange with my nephew at Thanksgiving:

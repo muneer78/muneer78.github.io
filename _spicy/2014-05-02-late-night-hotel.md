@@ -2,6 +2,7 @@
 date: 2014-05-02
 title: Late Night Hotel
 tags: stories
+layout: post
 ---
 
 I was once on a road trip with another dude. We hadn’t booked a hotel for that night, and found that all the hotels in a 50 mile radius were rented out. 
