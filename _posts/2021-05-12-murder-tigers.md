@@ -10,4 +10,4 @@ I am holding on to a conspiracy theory that this dude fed his victims to the tig
 
 It's a murder tiger!!! 
 
-The dude isn't revealing the whereabouts of the tiger because it''s still digesting the latest murders!!
+The dude isn't revealing the whereabouts of the tiger because it's still digesting the latest murders!!
