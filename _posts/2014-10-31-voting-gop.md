@@ -6,7 +6,7 @@ date: 2014-10-31
 
 This is from a Fark comment:
 
-> 1.You will have to choose from a wide selection of what are varying shades of white.
+> 1. You will have to choose from a wide selection of what are varying shades of white.
 > 
 > 2. You will be asked to come up with more money than you intended.
 > 
