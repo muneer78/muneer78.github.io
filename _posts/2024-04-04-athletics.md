@@ -10,6 +10,6 @@ They get to share the stadium with the Giants AAA team. I'd see about trading af
 
 I'm picturing calls like this from the A's GM to a player:
 
-GM: "Hey, Shea Langeliers is stuck in traffic. How about making your major league debut today??
+**GM**: "Hey, Shea Langeliers is stuck in traffic. How about making your major league debut today??
 
-Player: "My mother in law's in town and I have to mow the lawn. Ask me again next week."
+**Player**: "My mother in law's in town and I have to mow the lawn. Ask me again next week."

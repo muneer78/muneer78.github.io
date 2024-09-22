@@ -2,6 +2,7 @@
 tags: reddit
 title: "Son tells South Asian parents what he thinks"
 date: 2024-09-03
+layout: post
 ---
 
 [My (53F) son (26M) told my husband/his father (57M) how he really feels about him. How can I patch my family up, if at all? : r/relationship_advice](https://www.reddit.com/r/relationship_advice/comments/1ebvkqn/my_53f_son_26m_told_my_husbandhis_father_57m_how/):
