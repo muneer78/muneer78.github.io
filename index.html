@@ -6,10 +6,10 @@ layout: default
   {% for post in site.posts %}
       <article class="post">
         <div class="post-date">
-          <p>{{ post.date | date: "%B %d, %Y" }}</p> <!-- Display the post date at the top -->
+          <p>{{ post.date | date: "%B %d, %Y" }}</p>
         </div>
         <div class="post-title">
-          <h2>{{ post.title }}</h2> <!-- Display the post title -->
+          <h2>{{ post.title }}</h2>
         </div>
         <div class="entry">
           {% if post.content != post.excerpt %}
@@ -20,7 +20,6 @@ layout: default
           {% endif %}
         </div>
       </article>
-    {% endunless %}
   {% endfor %}
 </div>
 
