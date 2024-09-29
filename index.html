@@ -10,7 +10,7 @@ layout: default
           <p>{{ post.date | date: "%B %d, %Y" }}</p>
         </div>
         <div class="post-title">
-          <h2>{{ post.title }}</h2>
+          <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
         </div>
         <div class="entry">
           {% if post.content != post.excerpt %}
