@@ -23,9 +23,13 @@ permalink: /spicy/
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ spicy.url }}">{{ spicy.title }}</a></h1>
       <div class="entry">
-        <p>{{ spicy.content | truncate: 600 }}</p> <!-- Display first 600 characters of post content -->
+        {% if spicy.content != spicy.excerpt %}
+          {{ spicy.excerpt }}
+          <a href="{{ site.baseurl }}{{ spicy.url }}" class="read-more">Read More</a>
+        {% else %}
+          {{ spicy.content }}
+        {% endif %}
       </div>
-      <a href="{{ site.baseurl }}{{ spicy.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>

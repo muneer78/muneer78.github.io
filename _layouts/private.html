@@ -23,9 +23,13 @@ permalink: /private/
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ private.url }}">{{ private.title }}</a></h1>
       <div class="entry">
-        <p>{{ private.content | strip_html | split: '</p>' | first | append: '</p>' }}</p> <!-- Display first paragraph -->
+        {% if private.content != private.excerpt %}
+          {{ private.excerpt }}
+          <a href="{{ site.baseurl }}{{ private.url }}" class="read-more">Read More</a>
+        {% else %}
+          {{ private.content }}
+        {% endif %}
       </div>
-      <a href="{{ site.baseurl }}{{ private.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>

@@ -26,9 +26,13 @@ permalink: /newsletter/
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ newsletter.url }}">{{ newsletter.title }}</a></h1>
       <div class="entry">
-        <p>{{ newsletter.content | truncate: 600 }}</p> <!-- Display first 600 characters of post content -->
+        {% if newsletter.content != newsletter.excerpt %}
+          {{ newsletter.excerpt }}
+          <a href="{{ site.baseurl }}{{ newsletter.url }}" class="read-more">Read More</a>
+        {% else %}
+          {{ newsletter.content }}
+        {% endif %}
       </div>
-      <a href="{{ site.baseurl }}{{ newsletter.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>

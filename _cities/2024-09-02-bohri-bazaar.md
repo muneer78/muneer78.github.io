@@ -6,6 +6,6 @@ layout: post
 category: cities
 ---
 
-Bohri Bazaar
-
 ![karachi-6.jpg](https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/karachi-6.jpg)
+
+Bohri Bazaar
