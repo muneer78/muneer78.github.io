@@ -50,3 +50,19 @@ permalink: /cities/
 {% for link in site.data.navigation %}
   <a class="page-link" href="{{ link.url }}">{{ link.title }}</a>
 {% endfor %}
+
+<style>
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.previous {
+  float: left;
+}
+.next {
+  float: right;
+}
+</style>
+
+

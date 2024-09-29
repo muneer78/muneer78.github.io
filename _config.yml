@@ -130,6 +130,8 @@ pagination:
       - cities
       - archive
       - newsletter
+      - private
+      - spicy
 
 # Exclude these files from your production _site
 exclude:

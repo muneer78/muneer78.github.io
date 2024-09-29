@@ -34,7 +34,7 @@ permalink: /spicy/
   {% endfor %}
 </div>
 
-<!-- <div class="pagination">
+<div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
   {% endif %}
@@ -46,4 +46,18 @@ permalink: /spicy/
 
 {% for link in site.data.navigation %}
   <a class="page-link" href="{{ link.url }}">{{ link.title }}</a>
-{% endfor %} -->
+{% endfor %}
+
+<style>
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.previous {
+  float: left;
+}
+.next {
+  float: right;
+}
+</style>
