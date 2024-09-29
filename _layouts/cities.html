@@ -25,12 +25,17 @@ permalink: /cities/
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ city.url }}">{{ city.title }}</a></h1>
       <div class="entry">
-        <p>{{ city.content | truncate: 600 }}</p> <!-- Display first 600 characters of post content -->
+        {% if city.content != city.excerpt %}
+          {{ city.excerpt }}
+          <a href="{{ site.baseurl }}{{ city.url }}" class="read-more">Read More</a>
+        {% else %}
+          {{ city.content }}
+        {% endif %}
       </div>
-      <a href="{{ site.baseurl }}{{ city.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
+
 
 <div class="pagination">
   {% if paginator.previous_page %}
