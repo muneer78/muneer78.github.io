@@ -1,0 +1,45 @@
+---
+title: "Private"
+layout: default
+permalink: /private/
+---
+
+<h1>private Health</h1>
+
+<div class="toc">
+  <ul>
+    {% assign sorted_private = site.private | sort: 'title' %}
+    {% for private in sorted_private %}
+      <li>
+        <a href="{{ site.baseurl }}{{ private.url }}">{{ private.title }}</a>
+        <span class="post-date">- {{ private.date | date: "%B %d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="posts">
+  {% for private in sorted_private %}
+    <article class="post">
+      <h1><a href="{{ site.baseurl }}{{ private.url }}">{{ private.title }}</a></h1>
+      <div class="entry">
+        <p>{{ private.content | strip_html | split: '</p>' | first | append: '</p>' }}</p> <!-- Display first paragraph -->
+      </div>
+      <a href="{{ site.baseurl }}{{ private.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% endif %}
+  
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% endif %}
+</div>
+
+{% for link in site.data.navigation %}
+  <a class="page-link" href="{{ link.url }}">{{ link.title }}</a>
+{% endfor %}

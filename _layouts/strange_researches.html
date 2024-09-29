@@ -23,7 +23,7 @@ layout: default
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ research.url }}">{{ research.title }}</a></h1>
       <div class="entry">
-        <p>{{ research.content | truncate: 600 }}</p> <!-- Display first 600 characters of post content -->
+        <p>{{ research.content | strip_html | split: '</p>' | first | append: '</p>' }}</p> <!-- Display first paragraph -->
       </div>
       <a href="{{ site.baseurl }}{{ research.url }}" class="read-more">Read More</a>
     </article>

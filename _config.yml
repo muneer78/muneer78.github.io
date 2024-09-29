@@ -6,7 +6,7 @@
 name: Encyclopedia Muneerica
 
 # Short bio or description (displayed in the header)
-description: Things I Want To Revisit
+description: A YungMun Joint
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/muneer78/muneer78.github.io/master/images/synthwavehokusai.jpg
@@ -36,7 +36,7 @@ header_pages:
   - cities.html
   - strange-researches.html
   - newsletter.html
-  - mental-health.html
+  - private.html
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -94,11 +94,11 @@ collections:
     title: Great Lines Newsletter
     description: All posts of the Great Lines Newsletter
     permalink: /newsletter/:path/
-  mental_health:
+  private:
     output: true
-    title: Mental Health
-    description: A collection of mental health related posts
-    permalink: /mental_health/:path/
+    title: Private
+    description: A collection of private posts
+    permalink: /private/:path/
   spicy:
     output: true
     title: Spicy Posts
