@@ -1,49 +1,79 @@
 ---
-title: "Archive"
 layout: default
+title: Archive
+paginate: 10
 permalink: /archive/
 ---
 
-<h1>Archive</h1>
-
-<div class="posts">
-  {% for post in paginator.posts %}
-    {% unless post.categories contains "strange-researches" or post.categories contains "cities" %}
-      <article class="post">
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        <div class="entry">
-          {% if post.content != post.excerpt %}
-            {{ post.excerpt }}
-            <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-          {% else %}
-            {{ post.content }}
-          {% endif %}
-        </div>
-      </article>
-    {% endunless %}
-  {% endfor %}
-</div>
-
-<div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-    {% endif %}
-    
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-    {% endif %}
-  </div>
-
 <style>
+  .archive-container {
+    margin: 20px;
+  }
+
+  .toc {
+    margin-bottom: 30px;
+  }
+
+  .toc ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  .toc li {
+    margin: 5px 0;
+  }
+
   .pagination {
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
   }
-  .previous {
-    float: left;
-  }
+
+  .previous,
   .next {
-    float: right;
+    display: inline-block;
   }
 </style>
+
+<div class="archive-container">
+  <h1>{{ page.title }}</h1>
+
+  <div class="toc">
+    <h2>Table of Contents</h2>
+    <ul>
+      {% for post in paginator.posts %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="posts">
+    {% for post in paginator.posts %}
+      <article class="post">
+        <div class="post-date">
+          <p>{{ post.date | date: "%B %d, %Y" }}</p>
+        </div>
+        <div class="post-title">
+          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        </div>
+        <div class="entry">
+          {% if post.content != post.excerpt %}
+            {{ post.excerpt }}
+            <a href="{{ post.url }}" class="read-more">Read More</a>
+          {% else %}
+            {{ post.content }}
+          {% endif %}
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Previous Page</a>
+    {% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next Page</a>
+    {% endif %}
+  </div>
+</div>
