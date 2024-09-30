@@ -1,9 +1,11 @@
 ---
 tags: women
-title: FOUL BACHELORETTE FROG WAS THE PATRON SAINT OF DISGUSTING WOMEN
+title: The Precursor to Feral
 date: 2022-07-17
 layout: post
 ---
+
+### FOUL BACHELORETTE FROG WAS THE PATRON SAINT OF DISGUSTING WOMEN
 
 She throws her dirty dishes in the trash. She sniffs her fingers after she scratches her butt. She bites the hair off her areolas. She is the Foul Bachelorette Frog, and for a few years in the mid-aughts, she served as a revolutionary window into the secret habits of womankind
 

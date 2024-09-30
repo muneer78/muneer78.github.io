@@ -23,6 +23,11 @@ permalink: /spicy/
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ spicy.url }}">{{ spicy.title }}</a></h1>
       <div class="entry">
+        {% assign paragraphs = spicy.content | split: "</p>" %}
+          {% for paragraph in paragraphs limit: 2 %}
+            {{ paragraph | append: "</p>" }}
+          {% endfor %}
+          {% if paragraphs.size > 2 %}
         {% if spicy.content != spicy.excerpt %}
           {{ spicy.excerpt }}
           <a href="{{ site.baseurl }}{{ spicy.url }}" class="read-more">Read More</a>
