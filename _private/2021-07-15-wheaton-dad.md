@@ -5,7 +5,7 @@ layout: post
 title: Wil Wheaton on His Dad
 ---
 
-# No child deserves to be treated the way the man who was my father treated me.
+### No child deserves to be treated the way the man who was my father treated me.
 
 Father’s Day is tough for me. I don’t have a dad, because the man who was my father made a choice, when I was a child, to be my bully, instead.
 
