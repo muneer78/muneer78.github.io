@@ -24,7 +24,7 @@ permalink: /private/
       <h1><a href="{{ site.baseurl }}{{ private.url }}">{{ private.title }}</a></h1>
       <div class="entry">
         {% if private.content != private.excerpt %}
-          {{ private.excerpt }}
+          {{ private.content | split: "<p>" | slice: 1, 2 | join: "<p>" }}
           <a href="{{ site.baseurl }}{{ private.url }}" class="read-more">Read More</a>
         {% else %}
           {{ private.content }}
