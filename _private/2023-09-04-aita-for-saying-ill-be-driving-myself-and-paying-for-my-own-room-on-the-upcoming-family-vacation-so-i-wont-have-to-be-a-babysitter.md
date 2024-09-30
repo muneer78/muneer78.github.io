@@ -1,9 +1,11 @@
 ---
 date: 2023-09-04
-title: AITA For Saying I'll Be Driving Myself And Paying For My Own Room On The Upcoming Family Vacation So I Wont Have To Be A Babysitter?
+title: Man Stands Up To Toxic Family
 tags: stories, reddit
 layout: post
 ---
+
+### AITA For Saying I'll Be Driving Myself And Paying For My Own Room On The Upcoming Family Vacation So I Wont Have To Be A Babysitter?
 
 This is an [inspiring tale](https://www.reddit.com/r/BestofRedditorUpdates/comments/14z6ro7/aita_for_saying_ill_be_driving_myself_and_paying/) of a man standing up to his toxic family:
  
