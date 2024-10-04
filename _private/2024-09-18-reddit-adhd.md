@@ -294,8 +294,16 @@ This is my approach so far.
 > > *"A fool who persists in their folly soon becomes wise."*
 > 
 > I don't like hurting people but I'm pretty fucking good at it.
-> 
 
+> I also have these sorts of problems, and I've found that it's important to do these things once you recognize the issue.
+> 
+> Find a way to make it better, this can be as simple as having a calendar on your wall, or as complicated as a day by day planner or putting reminders and calendar notifications on your phone. I personally have any recurring event in my phone calendar, and it reminds me every morning for a week before the event. For important dates, it reminds me once in the morning, and once at noon. Any time someone asks me to perform a task, I set a reminder 30 and 15 minutes before I should do the task. If it is a large task that is done in segments, I distribute it out over time.
+
+> My partner got upset with me for not cleaning (for the 1000th time) today and it triggered a huge spiral of self hatred. I had no explanation for him other than being lazy and self-centered... which is truly not how I would describe myself, but I can't go running to my undiagnosed ADHD every time I fuck up (4-5x a day, but sometimes more). I just fail so much and I really crumble when it starts to negatively impact others.
+
+> I hate hurting people so much. I can't do promises. I literally say to people I love, I'll try to do it but it's possible I'll forget. I'm putting on so much effort so as not to hurt other that in the end I'm forgetting to live. I'm so anxious about the mountain of things I need to do that I don't even give myself free time. I feel all I do is apologize.
+
+Tell the people in your life, "I know I have [problem], in an effort to make it better, I am trying [solution], I appreciate you being patient with me as I try to improve.
 ----
 
 > OP, please read this. I am 33f and got my diagnosis six months ago. 
