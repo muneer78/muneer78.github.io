@@ -7,6 +7,14 @@ layout: post
 
 Samantha Irby's reviews of Judge Mathis episodes are a national treasure:
 
+[#286](https://bitchesgottaeat.substack.com/p/whos-on-judge-mathis-today-286):
+
+> ... he lets her tell him that dana “often waits until i am impregnated” (shudder) “to attack [her] with her entourage” and i do not like the way she worded that at all.
+
+> ... that’s not defamation, all she was doing was suggesting that you two work out your problems violently!
+
+---
+
 [#284](https://bitchesgottaeat.substack.com/p/who-was-on-judge-mathis-yesterday-45d): 
 
 > robert goes on to detail how he runs a bootcamp for children out of his home (haha yeah, me too brother, it’s called “go get me another diet coke from the refrigerator”) because when he was a teenager he was running the streets and his uncle snatched him up and put him to work “cutting grass and tearing up carpet.” and now, as an adult, he honors that legacy by tearing up the carpet of every one of his female friends.
