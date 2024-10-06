@@ -1,7 +1,7 @@
 ---
 date: 2022-06-08
 title: What's For Dinner?
-tags: stories
+tags: stories, parentification, bad-parents
 ---
 
 This happened when I was 15. I'm in my 40s now.

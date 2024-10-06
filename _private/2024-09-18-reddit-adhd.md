@@ -1,6 +1,6 @@
 ---
 date: 2024-09-18
-tags: mental-health
+tags: adhd
 title: Reddit ADHD Snippets
 layout: post
 ---

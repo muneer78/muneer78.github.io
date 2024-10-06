@@ -1,5 +1,5 @@
 ---
-tags: mental-health, bad-people
+tags: bad-parents
 layout: post
 title: Mom Steals From Daughter And Then Gaslights
 date: 2024-02-01

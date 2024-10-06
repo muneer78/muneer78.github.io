@@ -1,5 +1,5 @@
 ---
-tags: personal
+tags: personal, parentification, bad-parents
 title: Abandoning Responsibility
 date: 2023-11-02
 layout: post

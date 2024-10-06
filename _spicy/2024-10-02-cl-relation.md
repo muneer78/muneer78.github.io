@@ -71,3 +71,17 @@ layout: post
 > My life continues on these patterns, finding myself in impossible places at impossible times, forgetting what I had intended to do, or how I had gotten there in the first place, easily distracted, one minute, finding my hands down his pants and it's all good, to waking up and feeling horribly cheap and misunderstood and most of all- dumb.
 
 > I hate smelling like sex out in public. It's simply not as glamorous as you'd like it to be.
+
+---
+
+[Why I gave you that excellent blow job last year - w4m](https://www.craigslist.org/about/best/sfo/16367929.html):
+
+> he reason I gave you that excellent blow job is because I have a vivid memory. When I realized that the situation wasn’t redeemable from my point of view physically, I figured I might as well bring the evening to a “happy ending” by taking a drive down memory lane. So, I closed my eyes, and re-lived, blow by blow (hehe… sorry) that magical night when I met B. (not his real name) and my pussy got so wet from wanting him that I soaked my panties, my skirt, and the couch. The moment when I slipped to my knees and took him in my mouth for the first time. It will live with me forever.
+
+---
+
+[Breakup Lesson # 1 - Don't fuck with someone who has naked pics of you](https://www.craigslist.org/about/best/chi/623387629.html):
+
+> I know we're both strong willed but kid, you know I always end up with the upper hand in life.
+
+> I know Amy has been bugging you for a threesome for years, something tells me she might just be a phone call away.

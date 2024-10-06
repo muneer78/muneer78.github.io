@@ -1,5 +1,5 @@
 ---
-tags: mental-health
+tags: trauma, memes
 layout: post
 title: "Trauma Hope"
 date: 2024-08-26

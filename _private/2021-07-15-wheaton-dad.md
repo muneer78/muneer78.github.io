@@ -1,5 +1,5 @@
 ---
-tags: mental-health
+tags: trauma, bad-parents
 date: 2021-07-15
 layout: post
 title: Wil Wheaton on His Dad

@@ -1,7 +1,7 @@
 ---
 date: 2021-01-06
 title: Hyperfocuses
-tags: mental-health, memes
+tags: adhd, memes
 layout: post
 ---
 

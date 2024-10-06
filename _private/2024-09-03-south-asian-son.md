@@ -1,5 +1,5 @@
 ---
-tags: reddit
+tags: reddit, bad-parents
 title: "Son tells South Asian parents what he thinks"
 date: 2024-09-03
 layout: post

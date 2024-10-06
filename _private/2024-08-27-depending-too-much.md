@@ -1,5 +1,5 @@
 ---
-tags: mental-health
+tags: trauma, memes
 layout: post
 title: "Depending Too Much"
 date: 2024-08-27

@@ -1,7 +1,7 @@
 ---
 date: 2023-09-04
 title: Man Stands Up To Toxic Family
-tags: stories, reddit
+tags: stories, reddit, bad-parents
 layout: post
 ---
 

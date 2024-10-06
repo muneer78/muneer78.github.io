@@ -1,5 +1,5 @@
 ---
-tags: mental-health
+tags: adhd
 title: ADHD Pro Tips from Reddit
 layout: post
 date: 2024-09-18

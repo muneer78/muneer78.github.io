@@ -1,5 +1,5 @@
 ---
-tags: mental-health
+tags: adhd
 layout: post
 title: "ADHD Trouble"
 date: 2024-08-25

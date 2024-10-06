@@ -1,7 +1,7 @@
 ---
 date: 2024-07-19
 title: "We Don't Have People"
-tags: mental-health
+tags: trauma
 layout: post
 ---
 
