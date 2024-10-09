@@ -29,6 +29,8 @@ layout: post
 
 > Fuck my ass harder!
 
+> Eating a girl out and getting her pretty good too. She gasps, 'Fuck me, you're going to ruin my life, aren't you?'
+
 ---
 
 [Whats the kinkiest/dirtiest thing someone said to you during sex?](https://www.reddit.com/r/AskRedditAfterDark/comments/1dh3hpc/whats_the_kinkiestdirtiest_thing_someone_said_to/):
@@ -42,3 +44,11 @@ layout: post
 > I reach up while kissing on her clavicle, grab a handful her hair just above the scalp at the back above her neck and give a lusty prolonged tug, which makes her moan louder.
 > 
 > Then she pulls my head up, and hisses in my ear, “Not that hair.”
+
+---
+
+[Redditors, what’s the hottest thing someone has said to you during sex?](https://www.reddit.com/r/AskReddit/comments/db8eyb/redditors_whats_the_hottest_thing_someone_has/):
+
+> (After asking for a BJ) "Bleh, I'm feeling lazy today, wanna fuck my face instead?"
+
+> After coming inside her, she got up, then went down on me, slurping up every fluid we both produced. A few seconds later she came back up and whispered: "25-year old girls clean up after themselves" (because we were joking earlier that she was pretty skilled for someone 6 younger than me)
