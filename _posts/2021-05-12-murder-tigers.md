@@ -1,6 +1,6 @@
 ---
 date: 2021-05-12
-title: Murder Tigers
+title: Murder tigers
 tags: current events
 ---
 

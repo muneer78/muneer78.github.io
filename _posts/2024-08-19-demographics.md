@@ -1,6 +1,6 @@
 ---
 tags: politics
-title: Voter Demographics
+title: Voter demographics
 date: 2024-08-19
 ---
 

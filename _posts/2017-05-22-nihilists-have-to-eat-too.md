@@ -1,6 +1,6 @@
 ---
 date: 2017-05-22
-title: Nihilists Have To Eat Too
+title: Nihilists have to eat too
 tags: absurdist
 ---
 

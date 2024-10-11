@@ -1,6 +1,6 @@
 ---
 date: 2010-08-10
-title: IT Clown Smoking
+title: IT clown smoking
 tags: entertainment
 ---
 

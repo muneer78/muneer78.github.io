@@ -2,7 +2,7 @@
 layout: post
 tags: sports, thoughts
 date: 2024-10-02
-title: Royals' Playoff Sweep Graphics
+title: Royals' playoff sweep graphics
 ---
 
 The Royals' social media team is elite

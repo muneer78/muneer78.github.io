@@ -1,6 +1,6 @@
 ---
 tags: current-events
-title: "Trump Is Nuts"
+title: "trump is nuts"
 date: 2024-08-24
 ---
 

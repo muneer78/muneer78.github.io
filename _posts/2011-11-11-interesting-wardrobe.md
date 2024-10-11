@@ -1,6 +1,6 @@
 ---
 date: 2011-11-11
-title: Interesting Wardrobe
+title: Interesting wardrobe
 tags: sports, funny
 ---
 [Physical, emotional meltdown haunts Hunter Strickland, costs Giants](https://www.si.com/mlb/2014/10/23/world-series-game-2-san-francisco-giants-hunter-strickland-meltdown):

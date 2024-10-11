@@ -1,6 +1,6 @@
 ---
 date: 2022-02-24
-title: No Stopping The Train
+title: No stopping the train
 tags: memes, entertainment
 ---
 

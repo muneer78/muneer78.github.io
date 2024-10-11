@@ -1,6 +1,6 @@
 ---
 date: 2021-01-13
-title: Covid Warning Sign
+title: Covid warning sign
 tags: funny
 ---
 

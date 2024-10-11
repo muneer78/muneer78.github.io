@@ -1,6 +1,6 @@
 ---
 date: 2019-03-22
-title: Fine Sports Car
+title: Fine sports car
 tags: funny
 ---
 

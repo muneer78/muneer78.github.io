@@ -1,6 +1,6 @@
 ---
 date: 2021-01-20
-title: Processed Ham
+title: Processed ham
 tags: absurdist
 ---
 

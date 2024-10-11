@@ -1,6 +1,6 @@
 ---
 date: 2023-09-04
-title: AITA For Refusing To Pay My Daughter's Sorority Dues
+title: AITA for refusing to pay my daughter's sorority dues
 tags: stories, reddit, racism
 ---
 

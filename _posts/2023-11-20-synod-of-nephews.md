@@ -1,6 +1,6 @@
 ---
 date: 2023-11-20
-title: Synod Of Nephews
+title: Synod of nephews
 tags: great-lines
 ---
 [What Do The Kansas City Royals Know About Shoulders?](https://defector.com/what-do-the-kansas-city-royals-know-about-shoulders):

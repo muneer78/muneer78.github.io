@@ -1,6 +1,6 @@
 ---
 date: 2019-06-07
-title: Charlotte Nightmare
+title: Charlotte nightmare
 tags: thoughts
 ---
 

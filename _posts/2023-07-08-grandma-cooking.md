@@ -1,6 +1,6 @@
 ---
 tags: women
-title: "Grandma Cooking"
+title: Grandma cooking
 date: 2023-07-08
 ---
 

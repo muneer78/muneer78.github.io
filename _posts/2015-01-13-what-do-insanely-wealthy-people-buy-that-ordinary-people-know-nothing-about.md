@@ -1,6 +1,6 @@
 ---
 date: 2015-01-13
-title: What Do Insanely Wealthy People Buy That Ordinary People Know Nothing About
+title: What do insanely wealthy people buy that ordinary people know nothing about
 tags: rich, indepth
 ---
 

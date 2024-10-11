@@ -1,6 +1,6 @@
 ---
 date: 2022-12-22
-title: Cattle Rustling
+title: Cattle rustling
 tags: thoughts
 ---
 

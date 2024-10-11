@@ -1,6 +1,6 @@
 ---
 date: 2023-02-11
-title: Let's Get This Bread
+title: Let's get this bread
 tags: memes
 ---
 

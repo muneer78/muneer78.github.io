@@ -1,6 +1,6 @@
 ---
 date: 2022-07-11
-title: Conspiracies Are Easy
+title: Conspiracies are easy
 tags: thinking
 ---
 

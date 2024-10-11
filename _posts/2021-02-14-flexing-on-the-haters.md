@@ -1,6 +1,6 @@
 ---
 date: 2021-02-14
-title: Flexing On The Haters
+title: Flexing on the haters
 tags: funny
 ---
 

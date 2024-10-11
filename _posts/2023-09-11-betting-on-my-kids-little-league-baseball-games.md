@@ -1,6 +1,6 @@
 ---
 date: 2023-09-11
-title: Betting On My Kid's Little League Baseball Games
+title: Betting on my kid's Little League baseball games
 tags: gambling, reddit
 ---
 

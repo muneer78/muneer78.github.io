@@ -1,6 +1,6 @@
 ---
 tags: work
-title: "Direct Your Energy"
+title: Direct your energy
 date: 2023-05-29
 ---
 

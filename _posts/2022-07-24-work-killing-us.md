@@ -1,6 +1,6 @@
 ---
 tags: work, books
-title: We’re Killing Ourselves with Work
+title: We’re killing ourselves with work
 date: 2022-07-24
 ---
 

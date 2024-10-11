@@ -1,6 +1,6 @@
 ---
 tags: politics, books
-title: "Chances Of A US Civil War"
+title: Chances of a US civil war
 date: 2022-05-26
 ---
 

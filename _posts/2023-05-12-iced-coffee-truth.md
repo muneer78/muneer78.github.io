@@ -1,6 +1,6 @@
 ---
 tags: work
-title: "Iced Coffee Truth"
+title: Iced coffee truth
 date:  2023-05-12
 ---
 

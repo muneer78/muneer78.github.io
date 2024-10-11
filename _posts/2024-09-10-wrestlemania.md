@@ -1,6 +1,6 @@
 ---
 tags: politcs
-title: "Left Needs To Play The Game"
+title: "Left needs to play the game"
 date: 2024-09-10
 ---
 

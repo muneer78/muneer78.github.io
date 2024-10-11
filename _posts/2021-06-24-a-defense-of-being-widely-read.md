@@ -1,6 +1,6 @@
 ---
 date: 2021-06-24
-title: A Defense Of Being Widely Read
+title: A defense of being widely read
 tags: politics
 ---
 

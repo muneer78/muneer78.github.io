@@ -1,6 +1,6 @@
 ---
 date: 2021-07-27
-title: One More Chance Translation
+title: One More Chance translation
 tags: entertainment, funny
 ---
 

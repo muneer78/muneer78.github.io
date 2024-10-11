@@ -1,6 +1,6 @@
 ---
 tags: animals
-title: Elephant Revenge
+title: Elephant revenge
 date: 2022-07-10
 ---
 

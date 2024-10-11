@@ -1,6 +1,6 @@
 ---
 date: 2018-12-28
-title: I Hated, Hated, Hated This Movie
+title: I hated, hated, hated this movie
 tags: great-lines, entertainment, critical-analysis
 ---
 

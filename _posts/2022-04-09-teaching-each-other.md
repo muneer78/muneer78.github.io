@@ -1,6 +1,6 @@
 ---
 tags: work
-title: Teaching Each Other At Work
+title: Teaching each other at work
 date: 2022-04-09
 ---
 

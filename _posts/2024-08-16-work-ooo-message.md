@@ -1,6 +1,6 @@
 ---
 tags: work
-title: Best Out Of Office Message
+title: Best out of office message
 date: 2024-08-16
 ---
 

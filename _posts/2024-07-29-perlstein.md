@@ -1,6 +1,6 @@
 ---
 date: 2024-07-29
-title: My Political Depression Problem—and Ours
+title: My political depression problem — and ours
 tags: politics
 ---
 

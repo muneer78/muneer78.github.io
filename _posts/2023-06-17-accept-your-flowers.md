@@ -1,6 +1,6 @@
 ---
 date: 2023-06-17
-title: Accept Your Flowers
+title: Accept your flowers
 tags: uplifting
 ---
 

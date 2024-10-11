@@ -1,6 +1,6 @@
 ---
 date: 2011-07-19
-title: A Union Story
+title: A union story
 tags: stories
 ---
 

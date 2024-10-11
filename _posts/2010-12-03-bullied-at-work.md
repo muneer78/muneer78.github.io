@@ -1,6 +1,6 @@
 ---
 date: 2010-12-03
-title: Bullied At Work
+title: Bullied at work
 tags: stories, thoughts
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2021-09-07
-title: Regulate Synopses
+title: Regulate synopses
 tags: entertainment, entertainment
 ---
 

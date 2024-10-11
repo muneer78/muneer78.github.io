@@ -1,6 +1,6 @@
 ---
 date: 2021-09-17
-title: Jon Bois' 2014 NFL Draft Writeups
+title: Jon Bois' 2014 NFL Draft writeups
 tags: sports, great-lines
 ---
 

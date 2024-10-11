@@ -1,6 +1,6 @@
 ---
 date: 2022-10-10
-title: Schooling The Youth
+title: Schooling the youth
 tags: thoughts
 ---
 

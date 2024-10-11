@@ -1,6 +1,6 @@
 ---
 date: 2024-07-14
-title: Liberalism Vs Leftism
+title: Liberalism vs leftism
 tags: politics
 ---
 

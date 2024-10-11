@@ -1,6 +1,6 @@
 ---
 tags: absurdist
-title: Alone On This Barren Earth
+title: Alone on this barren earth
 date: 2022-12-09
 ---
 

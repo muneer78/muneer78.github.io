@@ -1,6 +1,6 @@
 ---
 date: 2017-07-24
-title: Tycho Brahe Had A Gold Nose
+title: Tycho Brahe had a gold nose
 tags: awesome
 ---
 

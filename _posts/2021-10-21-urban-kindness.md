@@ -1,6 +1,6 @@
 ---
 date: 2021-10-21
-title: Urban Kindness
+title: Urban kindness
 tags: uplifting
 ---
 

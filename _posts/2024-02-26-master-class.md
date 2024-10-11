@@ -1,6 +1,6 @@
 ---
 tags: great-lines
-title: Master Class
+title: Master class
 date: 2024-02-26
 ---
 

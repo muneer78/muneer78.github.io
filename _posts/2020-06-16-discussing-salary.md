@@ -1,6 +1,6 @@
 ---
 tags: work
-title: Discussing Salary
+title: Discussing salary
 date: 2020-06-16
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2015-11-01
-title: Royals 2015 Playoff Logos
+title: Royals 2015 playoff logos
 tags: sports, art
 ---
 

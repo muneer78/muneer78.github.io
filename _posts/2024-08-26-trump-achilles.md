@@ -1,6 +1,6 @@
 ---
 tags: current-events
-title: "Trump’s Achilles’ Heel: Ridicule Him"
+title: "trump’s achilles’ heel: ridicule him"
 date: 2024-08-26
 ---
 

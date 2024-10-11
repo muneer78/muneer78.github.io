@@ -1,6 +1,6 @@
 ---
 date: 2016-01-10
-title: "What Is Something Someone Said That Changed Your Way Of Thinking Forever?"
+title: What is something someone said that changed your way of thinking forever?
 tags: great-lines
 ---
 

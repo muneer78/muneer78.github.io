@@ -1,6 +1,6 @@
 ---
 date: 2017-03-10
-title: Bill Belichick Conspiracy Theory
+title: Bill Belichick conspiracy theory
 tags: reddit, sports, funny
 ---
 

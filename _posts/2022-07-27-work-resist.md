@@ -1,6 +1,6 @@
 ---
 tags: work, books
-title: The Shame of Work
+title: The shame of work
 date: 2022-07-27
 ---
 

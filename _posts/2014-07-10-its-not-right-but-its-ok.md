@@ -1,6 +1,6 @@
 ---
 date: 2014-07-10
-title: It's Not Right, But It's OK
+title: It's not right, but it's OK
 tags: thoughts
 ---
 

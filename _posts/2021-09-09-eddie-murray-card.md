@@ -1,6 +1,6 @@
 ---
 date: 2021-09-09
-title: Eddie Murray Card
+title: Eddie Murray card
 tags: sports, thoughts
 ---
 

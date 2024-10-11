@@ -1,6 +1,6 @@
 ---
 date: 2024-08-11
-title: Rejecting Bad Faith
+title: Rejecting bad faith
 tags: politics
 ---
 

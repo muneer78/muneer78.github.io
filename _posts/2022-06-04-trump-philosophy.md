@@ -1,6 +1,6 @@
 ---
 tags: great-lines, reddit
-title: Trump's Philosophy
+title: Trump's philosophy
 date: 2022-06-04
 ---
 

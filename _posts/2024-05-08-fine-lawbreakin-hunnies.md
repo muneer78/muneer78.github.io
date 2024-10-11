@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Law Breakin' Hunnies
+title: Law breakin' hunnies
 date: 2024-05-08
 ---
 

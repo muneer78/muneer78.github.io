@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Ruin My Life
+title: Ruin my life
 date: 2024-06-03
 ---
 

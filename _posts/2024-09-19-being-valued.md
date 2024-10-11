@@ -1,7 +1,7 @@
 ---
 tags: sports, great-lines
 date: 2024-09-19
-title: Being Properly Appreciated
+title: Being properly appreciated
 ---
 
 [Jaguars Junction: Week 15](https://defector.com/jaguars-junction-week-15):

@@ -1,6 +1,6 @@
 ---
 date: 2023-09-04
-title: "Horror Stories: My Worst Day At The Buck"
+title: Starbucks caramel freak
 tags: stories
 ---
 

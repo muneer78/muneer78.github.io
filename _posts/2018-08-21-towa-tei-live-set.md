@@ -1,6 +1,6 @@
 ---
 date: 2018-08-21
-title: Towa Tei Live Set
+title: Towa Tei live set
 tags: video, entertainment
 ---
 

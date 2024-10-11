@@ -1,6 +1,6 @@
 ---
 tags: work
-title: "Quitting Advice"
+title: Quitting advice
 date: 2021-12-19
 ---
 

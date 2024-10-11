@@ -1,6 +1,6 @@
 ---
 date: 2021-01-18
-title: Toxic Work Environment
+title: Toxic work environment
 tags: work
 ---
 

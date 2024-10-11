@@ -1,6 +1,6 @@
 ---
 date: 2012-03-11
-title: Hate The Game
+title: Hate the game
 tags: thoughts
 ---
 

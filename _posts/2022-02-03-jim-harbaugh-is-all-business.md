@@ -1,6 +1,6 @@
 ---
 date: 2022-02-03
-title: Jim Harbaugh Is All Business
+title: Jim Harbaugh is all business
 tags: sports, funny
 ---
 

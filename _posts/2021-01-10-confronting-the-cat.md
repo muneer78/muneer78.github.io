@@ -1,6 +1,6 @@
 ---
 date: 2021-01-10
-title: Confronting The Cat
+title: Confronting the cat
 tags: animals
 ---
 

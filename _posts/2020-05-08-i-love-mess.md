@@ -1,6 +1,6 @@
 ---
 date: 2020-05-08
-title: I Love Mess
+title: I love mess
 tags: memes
 ---
 

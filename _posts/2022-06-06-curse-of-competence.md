@@ -1,6 +1,6 @@
 ---
 tags: work
-title: "Curse of Competence"
+title: Curse of competence
 date: 2022-06-06
 ---
 

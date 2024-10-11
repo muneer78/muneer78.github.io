@@ -1,6 +1,6 @@
 ---
 date: 2024-07-09
-title: Never Discuss Cheese
+title: Never discuss cheese
 tags: funny
 ---
 

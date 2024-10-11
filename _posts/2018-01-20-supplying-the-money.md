@@ -1,6 +1,6 @@
 ---
 date: 2018-01-20
-title: Supplying The Money
+title: Supplying the money
 tags: great-lines
 ---
 

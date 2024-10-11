@@ -1,6 +1,6 @@
 ---
 date: 2024-03-28
-title: The Case For Marrying Old
+title: The case for marrying old
 tags: culture
 ---
 

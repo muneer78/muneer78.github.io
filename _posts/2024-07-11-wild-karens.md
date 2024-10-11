@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Karens in the Wild
+title: Karens in the wild
 date: 2024-07-11
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: politics
-title: Litmus Tests
+title: Litmus tests
 date: 2024-09-30
 layout: post
 ---

@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Finance > Romance
+title: Finance > romance
 date: 2024-02-23
 ---
 

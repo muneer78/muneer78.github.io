@@ -1,6 +1,6 @@
 ---
 date: 2021-10-07
-title: Boss Dogs Are Hard To Find
+title: Boss dogs are hard to find
 tags: memes
 ---
 

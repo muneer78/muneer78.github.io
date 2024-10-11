@@ -1,6 +1,6 @@
 ---
 tags: sports
-title: "Chris Paul"
+title: Chris Paul
 date: 2011-12-10
 ---
 

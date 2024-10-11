@@ -1,6 +1,6 @@
 ---
 tags: funny
-title: "Venn Diagrams"
+title: Venn diagrams
 date: 2021-09-16
 ---
 

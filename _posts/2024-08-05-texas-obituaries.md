@@ -1,6 +1,6 @@
 ---
 date: 2024-08-05
-title: Texas Obituaries
+title: Texas obituaries
 tags: funny, tumblr
 ---
 

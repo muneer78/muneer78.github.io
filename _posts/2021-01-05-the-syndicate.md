@@ -1,6 +1,6 @@
 ---
 date: 2021-01-05
-title: The Syndicate
+title: The syndicate
 tags: stories
 ---
 

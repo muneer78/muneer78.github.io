@@ -1,6 +1,6 @@
 ---
 date: 2023-01-05
-title: Do The Right Thing
+title: Do the right thing
 tags: thoughts
 ---
 

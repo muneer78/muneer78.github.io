@@ -1,6 +1,6 @@
 ---
 date: 2024-07-14
-title: Starbucks Fan Fic 
+title: Starbucks fan fic
 tags: stories, tumblr
 ---
 

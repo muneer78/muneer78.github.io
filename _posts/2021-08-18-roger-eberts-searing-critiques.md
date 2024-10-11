@@ -1,6 +1,6 @@
 ---
 date: 2021-08-18
-title: Roger Ebert's Searing Critiques
+title: Roger Ebert's searing critiques
 tags: great-lines, entertainment
 ---
 

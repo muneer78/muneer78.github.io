@@ -1,6 +1,6 @@
 ---
 date: 2022-03-24
-title: This Photo Of Dick Vitale Is Art
+title: This photo of Dick Vitale is art
 tags: absurdist
 ---
 

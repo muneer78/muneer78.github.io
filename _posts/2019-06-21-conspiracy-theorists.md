@@ -1,6 +1,6 @@
 ---
 date: 2019-06-21
-title: Conspiracy Theorists
+title: Conspiracy theorists
 tags: conspiracy, thinking
 ---
 

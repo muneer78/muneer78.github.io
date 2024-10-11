@@ -1,6 +1,6 @@
 ---
 date: 2024-02-28
-title: White Trap
+title: White trap
 tags: funny
 ---
 

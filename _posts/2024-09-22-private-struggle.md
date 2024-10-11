@@ -1,7 +1,7 @@
 ---
 tags: great-lines
 date: 2024-09-22
-title: Private Struggle
+title: Private struggle
 ---
 
 [Jaguars Junction: Bye Week](https://defector.com/jaguars-junction-bye-week):

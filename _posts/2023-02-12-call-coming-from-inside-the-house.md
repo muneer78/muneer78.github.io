@@ -1,6 +1,6 @@
 ---
 date: 2023-02-12
-title: Call Coming From Inside The House
+title: Call coming from inside the house
 tags: memes
 ---
 

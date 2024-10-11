@@ -1,6 +1,6 @@
 ---
 date: 2024-02-04
-title: Ominous Positivity
+title: Ominous positivity
 tags: funny
 ---
 

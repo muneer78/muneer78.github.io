@@ -1,6 +1,6 @@
 ---
 date: 2013-05-30
-title: There's Only One Motel In Odessa, TX
+title: There's only one motel in Odessa, TX
 tags: law, stories
 ---
 

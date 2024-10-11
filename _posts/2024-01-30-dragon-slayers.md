@@ -1,6 +1,6 @@
 ---
 date: 2024-01-30
-title: Dragon Slayers
+title: Dragon slayers
 tags: memes, uplifting
 ---
 

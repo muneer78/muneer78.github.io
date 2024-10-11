@@ -1,6 +1,6 @@
 ---
 date: 2021-01-28
-title: MAGA Greeting
+title: MAGA greeting
 tags: current-events
 ---
 

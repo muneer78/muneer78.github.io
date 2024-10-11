@@ -1,6 +1,6 @@
 ---
 date: 2022-07-18
-title: Wil Wheaton On MAGA
+title: Wil Wheaton on MAGA
 tags: current-events
 ---
 

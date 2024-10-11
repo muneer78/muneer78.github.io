@@ -1,6 +1,6 @@
 ---
 tags: law
-title: Different Approaches To Domestic Violence
+title: Different approaches to domestic violence
 date: 2023-09-27
 ---
 

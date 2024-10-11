@@ -1,6 +1,6 @@
 ---
 date: 2024-08-07
-title: Turkish Shooter
+title: Turkish shooter
 tags: funny
 ---
 

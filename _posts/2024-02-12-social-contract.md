@@ -1,7 +1,7 @@
 ---
 date: 2024-02-12
 layout: post
-title: Social Contract Breakdown
+title: Social contract breakdown
 tags: thoughts
 ---
 

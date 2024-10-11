@@ -1,6 +1,6 @@
 ---
 date: 2021-08-19
-title: Awesome Slides
+title: Awesome slides
 tags: awesome, sports
 ---
 

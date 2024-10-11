@@ -1,6 +1,6 @@
 ---
 date: 2021-07-17
-title: Weddings Are Terrible, Pt. 1
+title: Weddings are terrible, Pt. 1
 tags: bad-people
 ---
 

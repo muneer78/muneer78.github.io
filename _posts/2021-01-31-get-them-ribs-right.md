@@ -1,6 +1,6 @@
 ---
 date: 2021-01-31
-title: Get Them Ribs Right
+title: Get them ribs right
 tags: funny, video
 ---
 

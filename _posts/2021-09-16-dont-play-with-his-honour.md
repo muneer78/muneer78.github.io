@@ -1,6 +1,6 @@
 ---
 date: 2021-09-16
-title: Don't Play With His Honour
+title: Don't play with his honour
 tags: memes, funny
 ---
 

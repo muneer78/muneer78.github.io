@@ -1,6 +1,6 @@
 ---
 date: 2019-08-30
-title: A Moral Defense Of Chidi's Swoleness
+title: A moral defense of Chidi's swoleness
 tags: entertainment, critical-analysis
 ---
 

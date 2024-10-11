@@ -1,6 +1,6 @@
 ---
 date: 2013-06-24
-title: I Can't Help Where I Have To Park
+title: I can't help where i have to park
 tags: law, stories
 ---
 

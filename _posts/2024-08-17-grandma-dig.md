@@ -1,6 +1,6 @@
 ---
 tags: funny
-title: "Grandma Dig"
+title: "Grandma's advice'"
 date: 2024-08-17
 ---
 

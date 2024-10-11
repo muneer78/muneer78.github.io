@@ -1,6 +1,6 @@
 ---
 date: 2015-10-27
-title: World Series Prediction
+title: World Series prediction
 tags: great-lines
 ---
 

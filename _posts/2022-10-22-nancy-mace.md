@@ -1,6 +1,6 @@
 ---
 tags: current-events, work
-title: Nancy Mace Is A Toxic Boss
+title: Nancy Mace is a toxic boss
 date: 2022-10-22
 ---
 

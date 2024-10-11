@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Minority Rule
+title: Minority rule
 date: 2024-02-12
 ---
 

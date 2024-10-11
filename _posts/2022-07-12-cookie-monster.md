@@ -1,6 +1,6 @@
 ---
 date: 2022-07-12
-title: Cookie Monster
+title: Cookie monster
 tags: absurdist
 ---
 

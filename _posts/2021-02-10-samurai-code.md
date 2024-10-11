@@ -1,6 +1,6 @@
 ---
 date: 2021-02-10
-title: Samurai Code
+title: Samurai code
 tags: funny
 ---
 

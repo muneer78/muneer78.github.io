@@ -1,6 +1,6 @@
 ---
 date: 2021-01-22
-title: Fighting For Islam
+title: Fighting for Islam
 tags: religion
 ---
 

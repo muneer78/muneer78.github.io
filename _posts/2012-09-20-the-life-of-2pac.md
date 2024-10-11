@@ -1,6 +1,6 @@
 ---
 date: 2012-09-20
-title: The Life Of 2Pac
+title: The life of 2Pac
 tags: entertainment, indepth
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: sports
-title: A History of Harold Ballard's Villainy
+title: A history of Harold Ballard's villainy
 date: 2019-05-12
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2017-01-08
-title: Maybe It's You
+title: Maybe it's you
 tags: great-lines
 ---
 

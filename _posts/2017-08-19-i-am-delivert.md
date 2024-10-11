@@ -1,6 +1,6 @@
 ---
 date: 2017-08-19
-title: I Am Delivert
+title: I am delivert
 tags: video, religion
 ---
 

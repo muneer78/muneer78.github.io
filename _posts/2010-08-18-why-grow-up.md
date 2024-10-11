@@ -1,6 +1,6 @@
 ---
 date: 2010-08-18
-title: Why Grow Up?
+title: Why grow up?
 tags: thoughts
 ---
 

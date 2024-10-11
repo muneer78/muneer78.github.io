@@ -1,6 +1,6 @@
 ---
 tags: sports,  great lines
-title: KC vs. St. Louis
+title: KC Vs. St. Louis
 ---
 
 

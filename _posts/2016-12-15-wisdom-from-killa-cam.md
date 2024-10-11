@@ -1,6 +1,6 @@
 ---
 date: 2016-12-15
-title: Wisdom From Killa Cam
+title: Wisdom from Killa Cam
 tags: great-lines
 ---
 

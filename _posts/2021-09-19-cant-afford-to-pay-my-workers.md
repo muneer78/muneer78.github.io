@@ -1,6 +1,6 @@
 ---
 tags: work
-title: "Can't Afford To Pay My Workers"
+title: Can't Afford To Pay My Workers
 date: 2021-09-19
 ---
 

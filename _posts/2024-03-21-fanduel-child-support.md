@@ -1,6 +1,6 @@
 ---
 tags: gambling
-title: "Garnishing Sports Betting Profits"
+title: Garnishing sports betting profits
 date: 2024-03-21
 ---
 

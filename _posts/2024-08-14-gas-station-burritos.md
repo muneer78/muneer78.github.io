@@ -1,6 +1,6 @@
 ---
 tags: uplifting
-title: Gas Station Burritos
+title: Gas station burritos
 date: 2024-08-14
 ---
 

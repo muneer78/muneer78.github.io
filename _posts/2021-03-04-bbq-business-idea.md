@@ -1,6 +1,6 @@
 ---
 date: 2021-03-04
-title: BBQ Business Idea
+title: BBQ business idea
 tags: stories
 ---
 

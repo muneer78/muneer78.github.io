@@ -1,6 +1,6 @@
 ---
 date: 2021-11-02
-title: Karen Boss Reveals Herself
+title: Karen boss reveals herself
 tags: work
 ---
 

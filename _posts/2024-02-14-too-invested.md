@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Too Invested
+title: Too invested
 date: 2024-02-14
 ---
 

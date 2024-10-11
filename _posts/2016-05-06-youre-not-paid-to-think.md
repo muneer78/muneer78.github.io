@@ -1,6 +1,6 @@
 ---
 date: 2016-05-06
-title: You're Not Paid To Think
+title: You're not paid to think
 tags: memes
 ---
 

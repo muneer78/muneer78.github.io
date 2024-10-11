@@ -1,6 +1,6 @@
 ---
 date: 2021-11-29
-title: Educate And Horrify
+title: Educate and horrify
 tags: great-lines
 ---
 

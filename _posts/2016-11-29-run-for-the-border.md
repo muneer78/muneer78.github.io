@@ -1,6 +1,6 @@
 ---
 date: 2016-11-29
-title: Run For the Border
+title: Run for the border
 tags: law, stories
 ---
 

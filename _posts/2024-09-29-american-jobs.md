@@ -1,6 +1,6 @@
 ---
 date: 2024-09-29
-title: American Jobs
+title: American jobs
 tags: current-events
 layout: post
 ---

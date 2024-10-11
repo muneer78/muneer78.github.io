@@ -1,6 +1,6 @@
 ---
 date: 2022-08-08
-title: So Emotional
+title: So emotional
 tags: reddit
 ---
 

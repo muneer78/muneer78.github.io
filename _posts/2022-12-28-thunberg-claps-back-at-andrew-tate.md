@@ -1,6 +1,6 @@
 ---
 tags: great-lines
-title: Thunberg Claps Back At Andrew Tate
+title: Thunberg claps back at Andrew Tate
 date: 2022-12-28
 ---
 

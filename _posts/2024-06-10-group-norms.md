@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Group Norms
+title: Group norms
 date: 2024-06-10
 ---
 

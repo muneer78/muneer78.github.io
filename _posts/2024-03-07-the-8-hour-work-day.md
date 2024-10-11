@@ -1,6 +1,6 @@
 ---
 date: 2024-03-07
-title: The 8 Hour Work Day
+title: The 8 hour work day
 tags: work
 ---
 

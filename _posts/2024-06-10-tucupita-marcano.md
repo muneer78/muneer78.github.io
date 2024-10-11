@@ -1,6 +1,6 @@
 ---
 date: 2024-06-10
-title: Diamond Headed Canes
+title: Diamond headed canes
 tags: funny, gambling, stories
 ---
 

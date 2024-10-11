@@ -1,6 +1,6 @@
 ---
 date: 2011-01-03
-title: Baron Davis Alley Oop Reaction
+title: Baron Davis alley oop reaction
 tags: sports, video
 ---
 

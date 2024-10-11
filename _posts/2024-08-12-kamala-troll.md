@@ -1,6 +1,6 @@
 ---
 tags: current-events
-title: "Harris Campaign's Trolling"
+title: Harris campaign's trolling
 date: 2024-08-12
 ---
 

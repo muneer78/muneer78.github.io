@@ -1,6 +1,6 @@
 ---
 date: 2024-01-27
-title: Sister Wants To Walk Down The Aisle At My Wedding. We Use That To Our Advantage
+title: Sister wants to walk down the aisle at my wedding. we use that to our advantage
 tags: reddit, bad-people
 ---
 

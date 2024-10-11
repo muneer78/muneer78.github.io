@@ -1,6 +1,6 @@
 ---
 date: 2021-05-05
-title: "My Heritage, Pt. 3"
+title: My heritage, Pt. 3
 tags: thoughts
 ---
 

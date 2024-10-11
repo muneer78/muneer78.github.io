@@ -1,6 +1,6 @@
 ---
 tags: thinking
-title: "Opinion masquerading as wisdom"
+title: Opinion masquerading as wisdom
 date: 2022-07-24
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: work
-title: "Forget Your Dreams"
+title: Forget your dreams
 date:  2021-11-03
 ---
 

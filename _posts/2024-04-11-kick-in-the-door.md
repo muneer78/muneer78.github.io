@@ -1,6 +1,6 @@
 ---
 date: 2024-04-11
-title: Kick In The Door
+title: Kick in the door
 tags: great-lines
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2024-05-04
-title: Make Fun Of Fascists
+title: Make fun of fascists
 tags: politics
 ---
 

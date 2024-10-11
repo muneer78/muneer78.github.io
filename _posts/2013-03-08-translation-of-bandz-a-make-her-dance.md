@@ -1,6 +1,6 @@
 ---
 date: 2013-03-08
-title: Translation Of Bandz A Make Her Dance
+title: Translation of Bandz A Make Her Dance
 tags: funny, entertainment
 ---
 

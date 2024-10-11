@@ -1,6 +1,6 @@
 ---
 date: 2014-01-15
-title: Ice-T Podcast Live Blog
+title: Ice-T podcast live blog
 tags: great-lines
 ---
 

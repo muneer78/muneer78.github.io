@@ -1,6 +1,6 @@
 ---
 date: 2024-07-29
-title: Human Kindness
+title: Human kindness
 tags: memes
 ---
 

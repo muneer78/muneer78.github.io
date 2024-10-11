@@ -1,6 +1,6 @@
 ---
 date: 2009-02-27
-title: She Makes Bad Decisions
+title: She makes bad decisions
 tags: funny
 ---
 

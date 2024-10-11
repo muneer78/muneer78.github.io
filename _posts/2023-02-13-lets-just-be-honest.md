@@ -1,6 +1,6 @@
 ---
 date: 2023-02-13
-title: Let's Just Be Honest
+title: Let's just be honest
 tags: memes
 ---
 

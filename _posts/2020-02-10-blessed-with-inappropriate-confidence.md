@@ -1,6 +1,6 @@
 ---
 date: 2020-02-10
-title: Blessed With Inappropriate Confidence
+title: Blessed with inappropriate confidence
 tags: great-lines
 ---
 

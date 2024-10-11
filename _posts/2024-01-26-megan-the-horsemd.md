@@ -1,6 +1,6 @@
 ---
 date: 2024-01-26
-title: Megan The Horse
+title: Megan the Horse
 tags: funny
 ---
 

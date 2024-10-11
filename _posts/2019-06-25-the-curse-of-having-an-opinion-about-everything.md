@@ -1,6 +1,6 @@
 ---
 date: 2019-06-25
-title: The Curse Of Having An Opinion About Everything
+title: The curse of having an opinion about everything
 tags: thinking
 ---
 

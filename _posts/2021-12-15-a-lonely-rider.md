@@ -1,6 +1,6 @@
 ---
 date: 2021-12-15
-title: A Lonely Rider
+title: A lonely rider
 tags: animals, great-lines
 ---
 

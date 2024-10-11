@@ -1,6 +1,6 @@
 ---
 tags: absurd
-title: "Girlfriend Running"
+title: Girlfriend running
 date: 2023-07-11
 ---
 

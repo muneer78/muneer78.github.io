@@ -1,6 +1,6 @@
 ---
 tags: memes, current-events
-title: Things I Trust More Than Trump
+title: Things I trust more than Trump
 date: 2024-08-17
 ---
 

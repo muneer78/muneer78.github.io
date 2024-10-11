@@ -1,6 +1,6 @@
 ---
 tags: work
-title: "No One Wants To Work"
+title: No one wants to work
 date: 2022-03-22
 ---
 

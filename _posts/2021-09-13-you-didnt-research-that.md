@@ -1,6 +1,6 @@
 ---
 tags: thinking
-title: You Didn't Research That
+title: You didn't research that
 date: 2021-09-13
 ---
 

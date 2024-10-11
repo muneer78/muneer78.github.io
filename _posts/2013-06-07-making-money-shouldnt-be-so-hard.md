@@ -1,6 +1,6 @@
 ---
 date: 2013-06-07
-title: Making Money Shouldn't Be So Hard
+title: Making money shouldn't be so hard
 tags: law, stories
 ---
 

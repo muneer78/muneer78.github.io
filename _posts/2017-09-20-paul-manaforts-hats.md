@@ -1,6 +1,6 @@
 ---
 date: 2017-09-20
-title: Paul Manafort's Hats
+title: Paul Manafort's hats
 tags: current-events
 ---
 

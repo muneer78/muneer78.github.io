@@ -1,6 +1,6 @@
 ---
 date: 2020-08-05
-title: The Child Must Not Be An Obstacle
+title: The child must not be an obstacle
 tags: funny
 ---
 

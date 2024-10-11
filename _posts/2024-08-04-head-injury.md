@@ -1,6 +1,6 @@
 ---
 tags: funny
-title: "Head Injury"
+title: Head injury
 date: 2024-08-04
 ---
 

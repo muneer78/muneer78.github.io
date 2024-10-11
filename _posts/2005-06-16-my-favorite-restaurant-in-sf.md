@@ -1,6 +1,6 @@
 ---
 date: 2005-06-16
-title: My Favorite Restaurant In San Francisco
+title: My favorite restaurant in San Francisco
 tags: thoughts
 ---
 

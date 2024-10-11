@@ -1,6 +1,6 @@
 ---
 date: 2021-02-19
-title: I Crave Violence
+title: I crave violence
 tags: memes, animals
 ---
 

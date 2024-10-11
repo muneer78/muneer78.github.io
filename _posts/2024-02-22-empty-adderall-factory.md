@@ -1,6 +1,6 @@
 ---
 tags: current-events
-title: The Empty Adderall Factory
+title: The empty Adderall factory
 date: 2024-02-22
 ---
 

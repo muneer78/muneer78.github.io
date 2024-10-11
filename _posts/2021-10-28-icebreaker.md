@@ -1,6 +1,6 @@
 ---
 tags: work
-title: "Icebreaker"
+title: Icebreaker
 date: 2021-10-28
 ---
 

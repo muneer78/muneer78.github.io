@@ -1,6 +1,6 @@
 ---
 tags: animals
-title: "Kissing Kitten"
+title: Kissing kitten
 date: 2009-12-11
 ---
 

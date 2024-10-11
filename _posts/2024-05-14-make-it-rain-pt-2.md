@@ -1,6 +1,6 @@
 ---
 date: 2024-05-14
-title: Make It Rain Pt 2
+title: Make it rain Pt 2
 tags: thoughts
 ---
 

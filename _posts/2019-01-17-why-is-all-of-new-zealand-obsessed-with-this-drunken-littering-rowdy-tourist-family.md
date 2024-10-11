@@ -1,6 +1,6 @@
 ---
 date: 2019-01-17
-title: Why Is All Of New Zealand Obsessed With This Drunken, Littering, Rowdy Tourist Family?
+title: Why is all of new zealand obsessed with this drunken, littering, rowdy tourist family?
 tags: travel, bad people
 ---
 

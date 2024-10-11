@@ -1,6 +1,6 @@
 ---
 date: 2014-05-28
-title: Magnum Reboot
+title: Magnum reboot
 tags: thoughts
 ---
 

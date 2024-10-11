@@ -1,6 +1,6 @@
 ---
 tags: thoughts, video
-title: Mama, I'm In Love
+title: Mama, i'm in love
 date: 2023-10-19
 ---
 

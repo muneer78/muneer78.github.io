@@ -1,6 +1,6 @@
 ---
 tags: animals
-title: "Cat With An Iron Fist"
+title: "cat with an iron fist"
 date: 2024-09-22
 ---
 

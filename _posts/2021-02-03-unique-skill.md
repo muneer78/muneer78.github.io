@@ -1,6 +1,6 @@
 ---
 date: 2021-02-03
-title: Unique Skill
+title: Unique skill
 tags: funny
 ---
 

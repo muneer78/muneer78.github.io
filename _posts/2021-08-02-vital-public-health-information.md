@@ -1,6 +1,6 @@
 ---
 date: 2021-08-02
-title: Vital Public Health Information
+title: Vital public health information
 tags: great-lines
 ---
 

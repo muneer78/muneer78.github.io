@@ -1,6 +1,6 @@
 ---
 date: 2011-09-29
-title: Ascertaining The Effect Of The G Thang On Skill Level In Hip Hop
+title: Ascertaining the effect of the G Thang on skill level in hip hop
 tags: personal, critical-analysis
 ---
 

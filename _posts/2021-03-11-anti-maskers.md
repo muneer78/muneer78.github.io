@@ -1,6 +1,6 @@
 ---
 tags: current-events
-title: Anti Maskers
+title: Anti maskers
 date: 2021-03-11
 ---
 

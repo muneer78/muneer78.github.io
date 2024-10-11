@@ -1,6 +1,6 @@
 ---
 tags: current-events
-title: "Stray Thoughts On Patriotism"
+title: "stray thoughts on patriotism"
 date: 2024-08-27
 ---
 

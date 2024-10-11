@@ -1,6 +1,6 @@
 ---
 date: 2021-02-07
-title: Covid Pimp
+title: Covid pimp
 tags: funny, current-events
 ---
 

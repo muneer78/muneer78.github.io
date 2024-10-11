@@ -1,6 +1,6 @@
 ---
 date: 2024-07-30
-title: Laugh At Them
+title: Laugh at them
 tags: current-events, thoughts
 ---
 

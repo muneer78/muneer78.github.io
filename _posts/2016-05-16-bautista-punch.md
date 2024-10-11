@@ -1,6 +1,6 @@
 ---
 date: 2016-05-16
-title: Bautista Punch
+title: Bautista punch
 tags: great-lines, sports
 ---
 

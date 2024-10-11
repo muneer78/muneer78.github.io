@@ -1,6 +1,6 @@
 ---
 date: 2020-11-07
-title: Thoughts On Trump
+title: Thoughts on Trump
 tags: current-events
 ---
 

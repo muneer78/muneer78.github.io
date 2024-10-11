@@ -1,6 +1,6 @@
 ---
 date: 2021-11-16
-title: Cash Register
+title: Cash register
 tags: memes
 ---
 

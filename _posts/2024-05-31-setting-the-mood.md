@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Setting The Mood
+title: Setting the mood
 date: 2024-05-31
 ---
 

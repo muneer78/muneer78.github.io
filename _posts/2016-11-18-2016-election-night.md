@@ -1,6 +1,6 @@
 ---
 tags: current-events
-title: "Election Night 2016"
+title: Election Night 2016
 date: 2016-11-18
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Florida Teams
+title: Florida teams
 layout: post
 date: 2024-07-30
 ---

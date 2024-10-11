@@ -1,6 +1,6 @@
 ---
 date: 2023-11-30
-title: "Adopt A Kid for Xmas"
+title: Adopt a kid for Xmas
 tags: thoughts, gambling
 ---
 

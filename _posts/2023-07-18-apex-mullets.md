@@ -1,6 +1,6 @@
 ---
 date: 2023-07-18
-title: Apex Mullets
+title: Apex mullets
 tags: thoughts
 ---
 

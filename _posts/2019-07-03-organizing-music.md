@@ -1,6 +1,6 @@
 ---
 date: 2019-07-03
-title: Organizing Music
+title: Organizing music
 tags: productivity, entertainment
 ---
 

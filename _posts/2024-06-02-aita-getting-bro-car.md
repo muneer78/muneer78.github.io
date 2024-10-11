@@ -1,6 +1,6 @@
 ---
 date: 2024-06-02
-title: AITA For Getting My Bro A Car
+title: AITA for getting my bro a car
 tags: reddit, uplifting
 ---
 

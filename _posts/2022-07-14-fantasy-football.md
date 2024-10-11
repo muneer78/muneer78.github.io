@@ -1,6 +1,6 @@
 ---
 date: 2022-07-14
-title: Fantasy Football
+title: Fantasy football
 tags: sports
 ---
 

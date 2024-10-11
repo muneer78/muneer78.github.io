@@ -1,6 +1,6 @@
 ---
 date: 2018-08-02
-title: Brynn Cameron's New Contract
+title: Brynn Cameron's new contract
 tags: sports, culture
 ---
 

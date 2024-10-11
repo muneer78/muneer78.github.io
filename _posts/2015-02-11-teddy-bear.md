@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Teddy Bear
+title: Teddy bear
 date: 2015-02-11
 ---
 

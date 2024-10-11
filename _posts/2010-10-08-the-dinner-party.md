@@ -1,6 +1,6 @@
 ---
 date: 2010-10-08
-title: The Dinner Party
+title: The dinner party
 tags: stories
 ---
 

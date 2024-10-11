@@ -1,6 +1,6 @@
 ---
 date: 2024-02-01
-title: Dust Bowl Horse
+title: Dust Bowl horse
 tags: history
 ---
 

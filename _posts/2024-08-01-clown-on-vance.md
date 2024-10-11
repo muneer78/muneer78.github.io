@@ -1,6 +1,6 @@
 ---
 date: 2024-08-01
-title: Clown On Vance
+title: Clown on Vance
 tags: current-events
 ---
 

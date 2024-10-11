@@ -1,6 +1,6 @@
 ---
 date: 2013-06-17
-title: I Need Better Cell Service
+title: I need better cell service
 tags: law, stories
 ---
 

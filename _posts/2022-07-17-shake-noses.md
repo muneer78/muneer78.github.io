@@ -1,6 +1,6 @@
 ---
 date: 2022-07-17
-title: Shake Noses
+title: Shake noses
 tags: animals
 ---
 

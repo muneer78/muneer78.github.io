@@ -1,6 +1,6 @@
 ---
 date: 2021-01-02
-title: Ride Or Die
+title: Ride or die
 tags: funny
 ---
 

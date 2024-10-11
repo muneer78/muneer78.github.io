@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Believe In Nothing
+title: Believe in nothing
 date: 2024-03-22
 ---
 

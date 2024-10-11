@@ -1,6 +1,6 @@
 ---
 date: 2020-05-12
-title: Finding Everyday Heroes
+title: Finding everyday heroes
 tags: thoughts
 ---
 

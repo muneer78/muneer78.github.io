@@ -1,6 +1,6 @@
 ---
 tags: animals
-title: "So Angry But So Cute"
+title: So angry but so cute
 date:  2023-05-11
 ---
 

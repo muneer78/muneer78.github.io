@@ -1,6 +1,6 @@
 ---
 date: 2020-06-19
-title: "El Negro Matapacos: A Love Story"
+title: El Negro Matapacos: A Love Story
 tags: animals, awesome
 ---
 

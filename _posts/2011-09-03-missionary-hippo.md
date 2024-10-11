@@ -1,6 +1,6 @@
 ---
 date: 2011-09-03
-title: Missionary Hippo
+title: Missionary hippo
 tags: memes
 ---
 

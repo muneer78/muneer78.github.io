@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Betting Ban
+title: Betting ban
 date: 2022-12-14
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Too Impressionable
+title: Too impressionable
 date: 2024-06-07
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2014-08-14
-title: Salmon Eating A Bear
+title: Salmon eating a bear
 tags: art
 ---
 

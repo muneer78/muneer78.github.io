@@ -1,6 +1,6 @@
 ---
 date: 2021-09-11
-title: The Day My Coworkers And I Chose Our Survival Over Our Supervisor
+title: The day my coworkers and i chose our survival over our supervisor
 tags: work
 ---
 

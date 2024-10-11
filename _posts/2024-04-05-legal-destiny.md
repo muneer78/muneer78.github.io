@@ -1,6 +1,6 @@
 ---
 date: 2024-04-05
-title: Legal Destiny
+title: Legal destiny
 tags: thoughts
 ---
 

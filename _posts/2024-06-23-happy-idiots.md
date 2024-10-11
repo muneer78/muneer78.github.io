@@ -1,6 +1,6 @@
 ---
 date: 2024-06-23
-title: Happy Idiots
+title: Happy idiots
 tags: thinking
 ---
 

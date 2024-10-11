@@ -1,6 +1,6 @@
 ---
 date: 2022-02-22
-title: No PTO For You
+title: No PTO for you
 tags: stories
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2024-07-17
-title: Sparkling Water
+title: Sparkling water
 tags: absurdist
 ---
 

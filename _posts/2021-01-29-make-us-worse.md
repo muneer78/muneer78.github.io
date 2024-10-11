@@ -1,6 +1,6 @@
 ---
 date: 2021-01-29
-title: Make Us Worse
+title: Make us worse
 tags: funny, mental-health
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2021-11-15
-title: Vodka Papa John's Shot
+title: Vodka Papa John's shot
 tags: great-lines, absurdist
 ---
 

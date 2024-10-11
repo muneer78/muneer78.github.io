@@ -1,6 +1,6 @@
 ---
 tags: work
-title: Company Messed With The Wrong Guy
+title: Company messed with the wrong guy
 date: 2021-12-19
 ---
 

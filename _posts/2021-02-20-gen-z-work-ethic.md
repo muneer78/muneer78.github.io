@@ -1,6 +1,6 @@
 ---
 date: 2021-02-20
-title: Gen Z Work Ethic
+title: Gen Z work ethic
 tags: work
 ---
 

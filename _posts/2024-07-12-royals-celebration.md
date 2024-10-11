@@ -1,7 +1,7 @@
 ---
 tags: sports
 layout: post
-title: Royals Celebration Graphics
+title: Royals celebration graphics
 date: 2024-07-12
 ---
 

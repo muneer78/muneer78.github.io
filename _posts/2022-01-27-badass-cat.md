@@ -1,6 +1,6 @@
 ---
 date: 2022-01-27
-title: Badass Cat
+title: Badass cat
 tags: memes, animals
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2024-10-08
-title: Hokusai Circuit Board
+title: Hokusai circuit board
 tags: art
 layout: post
 ---

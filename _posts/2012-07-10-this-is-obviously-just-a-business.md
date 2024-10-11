@@ -1,6 +1,6 @@
 ---
 date: 2012-07-10
-title: This Is Obviously Just A Business
+title: This is obviously just a business
 tags: great-lines, funny
 ---
 

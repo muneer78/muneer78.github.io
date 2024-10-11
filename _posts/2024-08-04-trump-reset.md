@@ -1,6 +1,6 @@
 ---
 tags: current-events
-title: "Trump Tries To Reset Campaign"
+title: Trump tries to reset campaign
 date: 2024-08-24
 ---
 

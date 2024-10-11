@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Adopt All The Kids
+title: Adopt all the kids
 date: 2022-10-31
 ---
 

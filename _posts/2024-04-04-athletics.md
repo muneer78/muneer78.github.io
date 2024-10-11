@@ -1,6 +1,6 @@
 ---
 date: 2024-04-04
-title: A's To Sacramento
+title: A's to Sacramento
 tags: sports, funny
 ---
 

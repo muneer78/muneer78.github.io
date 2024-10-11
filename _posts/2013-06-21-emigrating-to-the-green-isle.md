@@ -1,6 +1,6 @@
 ---
 date: 2013-06-21
-title: Emigrating To The Green Isle
+title: Emigrating to the Green Isle
 tags: law, stories
 ---
 

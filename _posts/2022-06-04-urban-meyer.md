@@ -1,6 +1,6 @@
 ---
 tags: sports, stories
-title: Urban Meyer Bullying
+title: Urban Meyer bullying
 date: 2022-06-04
 ---
 

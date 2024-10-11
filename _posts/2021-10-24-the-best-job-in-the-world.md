@@ -1,6 +1,6 @@
 ---
 date: 2021-10-24
-title: The Best Job In The World
+title: The best job in the world
 tags: sports, thoughts
 ---
 

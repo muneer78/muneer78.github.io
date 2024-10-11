@@ -1,6 +1,6 @@
 ---
 date: 2021-02-01
-title: Astronaut Revenge
+title: Astronaut revenge
 tags: absurdist
 ---
 

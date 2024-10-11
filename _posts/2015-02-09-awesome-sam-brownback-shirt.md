@@ -1,6 +1,6 @@
 ---
 date: 2015-02-09
-title: Awesome Sam Brownback Shirt
+title: Awesome Sam Brownback shirt
 tags: awesome
 ---
 

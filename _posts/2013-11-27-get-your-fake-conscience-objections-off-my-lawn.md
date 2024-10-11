@@ -1,6 +1,6 @@
 ---
 date: 2013-11-27
-title: Get Your Fake Conscience Objections Off My Lawn
+title: Get your fake conscience objections off my lawn
 tags: religion
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: work
-title: Use Your PTO
+title: Use your PTO
 date: 2021-02-08
 ---
 

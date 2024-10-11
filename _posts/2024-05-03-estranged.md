@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: "Estranged"
+title: Estranged
 date: 2024-05-03
 ---
 

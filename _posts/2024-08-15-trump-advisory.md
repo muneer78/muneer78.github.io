@@ -1,6 +1,6 @@
 ---
 tags: current-events
-title: Trump Advisory
+title: Trump advisory
 date: 2024-08-15
 ---
 

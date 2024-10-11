@@ -1,6 +1,6 @@
 ---
 date: 2023-09-04
-title: Double Talk
+title: Double talk
 tags: stories, religion
 ---
 

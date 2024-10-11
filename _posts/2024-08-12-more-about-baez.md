@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: More About Baez
+title: More about Baez
 date: 2024-08-12
 ---
 

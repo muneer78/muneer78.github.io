@@ -1,6 +1,6 @@
 ---
 date: 2024-01-28
-title: Problem Gambler Strategy
+title: Problem gambler strategy
 tags: gambling
 ---
 

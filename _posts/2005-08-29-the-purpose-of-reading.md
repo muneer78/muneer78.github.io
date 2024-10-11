@@ -1,6 +1,6 @@
 ---
 date: 2005-08-29
-title: The Purpose Of Reading
+title: The purpose of reading
 tags: great-lines
 ---
 

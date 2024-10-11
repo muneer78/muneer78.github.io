@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Amazon Subscription
+title: Amazon subscription
 date: 2024-05-27
 ---
 

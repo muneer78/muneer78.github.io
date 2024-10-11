@@ -1,6 +1,6 @@
 ---
 date: 2024-05-01
-title: Black Dudes
+title: Black dudes
 tags: funny, black
 ---
 

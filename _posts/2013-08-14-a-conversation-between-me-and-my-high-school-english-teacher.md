@@ -1,6 +1,6 @@
 ---
 date: 2013-08-14
-title: A Conversation Between Me And My High School English Teacher
+title: A conversation between me and my high school English teacher
 tags: thoughts
 ---
 

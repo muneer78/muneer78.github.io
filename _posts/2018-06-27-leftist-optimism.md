@@ -1,6 +1,6 @@
 ---
 tags: current-events, politics
-title: Leftist Optimism
+title: Leftist optimism
 date: 2018-06-27
 ---
 

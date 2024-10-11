@@ -1,6 +1,6 @@
 ---
 date: 2022-02-02
-title: Tell Me What I Want To Hear
+title: Tell me what i want to hear
 tags: conspiracy
 ---
 

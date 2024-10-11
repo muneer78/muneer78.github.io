@@ -1,6 +1,6 @@
 ---
 tags: animals
-title: "Smoking Cat"
+title: Smoking cat
 date: 2021-12-03
 ---
 

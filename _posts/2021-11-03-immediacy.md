@@ -1,6 +1,6 @@
 ---
 tags: work
-title: "Immediacy"
+title: Immediacy
 date: 2021-11-03
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2020-11-13
-title: Joe Biden Is Right. For America To Heal We Must Find Common Ground With Trump Supporters
+title: Reconcile with the MAGAs
 tags: current-events, great-lines
 ---
 

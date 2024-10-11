@@ -1,6 +1,6 @@
 ---
 date: 2013-06-06
-title: "People Who Tell The Truth Aren't A Protected Class"
+title: People who tell the truth aren't a protected class
 tags: law, stories
 ---
 

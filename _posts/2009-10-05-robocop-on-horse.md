@@ -1,6 +1,6 @@
 ---
 tags: memes
-title: "Robocop on Horse"
+title: Robocop on horse
 date: 2009-10-05
 ---
 

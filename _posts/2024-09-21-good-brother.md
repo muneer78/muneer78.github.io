@@ -1,7 +1,7 @@
 ---
 tags: tumblr, uplifting
 date: 2024-09-21
-title: Good Brother 
+title: Good brother
 ---
 
 From a meme on Tumblr:

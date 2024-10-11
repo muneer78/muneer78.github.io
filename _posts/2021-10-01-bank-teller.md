@@ -1,6 +1,6 @@
 ---
 tags: memes
-title: "Bank Teller"
+title: Bank teller
 date: 2021-10-01
 ---
 

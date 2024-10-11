@@ -1,6 +1,6 @@
 ---
 tags: funny
-title: "God On The Phone"
+title: God on the phone
 date: 2021-09-18
 ---
 

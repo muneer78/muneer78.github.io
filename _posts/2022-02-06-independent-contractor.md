@@ -1,6 +1,6 @@
 ---
 tags: work, funny
-title: "Independent Contractor"
+title: Independent contractor
 date: 2022-02-06
 ---
 

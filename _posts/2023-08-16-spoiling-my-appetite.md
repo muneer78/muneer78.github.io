@@ -1,6 +1,6 @@
 ---
 date: 2023-08-16
-title: Spoiling My Appetite
+title: Spoiling my appetite
 tags: thoughts
 ---
 

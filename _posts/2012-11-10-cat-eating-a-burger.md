@@ -1,6 +1,6 @@
 ---
 date: 2012-11-10
-title: Cat Eating A Burger
+title: Cat eating a burger
 tags: animals
 ---
 

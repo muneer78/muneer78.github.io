@@ -1,6 +1,6 @@
 ---
 date: 2013-06-19
-title: Just Send It To My House
+title: Just send it to my house
 tags: law, stories
 ---
 

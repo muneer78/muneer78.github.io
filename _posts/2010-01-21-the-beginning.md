@@ -1,6 +1,6 @@
 ---
 date: 2010-01-21
-title: The Beginning
+title: The beginning
 tags: thoughts
 ---
 

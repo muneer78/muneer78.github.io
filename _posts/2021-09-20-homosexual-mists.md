@@ -1,6 +1,6 @@
 ---
 date: 2021-09-20
-title: Homosexual Mists
+title: Homosexual mists
 tags: memes, religion
 ---
 

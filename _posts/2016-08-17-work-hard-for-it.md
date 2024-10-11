@@ -1,6 +1,6 @@
 ---
 date: 2016-08-17
-title: Work Hard For It
+title: Work hard for it
 tags: great-lines
 ---
 

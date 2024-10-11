@@ -1,6 +1,6 @@
 ---
 date: 2024-02-25
-title: The Americans Who Need Chaos
+title: The Americans who need chaos
 tags: current-events, politics
 ---
 

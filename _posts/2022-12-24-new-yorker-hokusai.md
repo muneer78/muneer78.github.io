@@ -1,6 +1,6 @@
 ---
 tags: art
-title: "New Yorker Hokusai"
+title: New Yorker Hokusai cover
 date: 2022-12-24
 ---
 

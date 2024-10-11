@@ -1,6 +1,6 @@
 ---
 tags: current-events
-title: "Michigan Election"
+title: Michigan election
 date: 2020-11-06
 ---
 

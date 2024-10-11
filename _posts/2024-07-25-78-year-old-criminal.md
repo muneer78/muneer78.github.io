@@ -1,6 +1,6 @@
 ---
 date: 2024-07-25
-title: 78 Year Old Criminal
+title: 78 year old criminal
 tags: current-events
 ---
 

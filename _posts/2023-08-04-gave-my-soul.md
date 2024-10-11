@@ -1,6 +1,6 @@
 ---
 date: 2023-08-04
-title: Gave My Soul
+title: Gave my soul
 tags: memes
 ---
 

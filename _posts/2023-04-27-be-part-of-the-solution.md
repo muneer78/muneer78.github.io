@@ -1,6 +1,6 @@
 ---
 date: 2023-04-27
-title: Be Part Of The Solution
+title: Be part of the solution
 tags: thoughts
 ---
 

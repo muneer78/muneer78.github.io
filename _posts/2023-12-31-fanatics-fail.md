@@ -1,6 +1,6 @@
 ---
 tags: sports
-title: Fanatics Fail
+title: Fanatics fail
 date: 2023-12-31
 ---
 

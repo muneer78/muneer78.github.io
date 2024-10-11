@@ -1,6 +1,6 @@
 ---
 date: 2024-05-03
-title: Deep Magic
+title: Deep magic
 tags: great-lines
 ---
 

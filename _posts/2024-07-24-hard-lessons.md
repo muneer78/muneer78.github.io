@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Hard Lessons
+title: Hard lessons
 date: 2024-07-24
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2024-01-02
-title: The Travesty Of Liberalism
+title: The travesty of liberalism
 tags: politics
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: uplifting
-title: Positive Hoodie
+title: Positive hoodie
 date: 2024-08-14
 ---
 

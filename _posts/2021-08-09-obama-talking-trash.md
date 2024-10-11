@@ -1,6 +1,6 @@
 ---
 date: 2021-08-09
-title: Obama Talking Trash
+title: Obama talking trash
 tags: video, awesome
 ---
 

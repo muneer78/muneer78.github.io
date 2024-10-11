@@ -1,6 +1,6 @@
 ---
 date: 2021-02-18
-title: Violence Isn't The Answer
+title: Violence isn't the answer
 tags: memes
 ---
 

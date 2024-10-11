@@ -1,6 +1,6 @@
 ---
 date: 2021-02-21
-title: Culture Of Immediacy
+title: Culture of immediacy
 tags: work
 ---
 

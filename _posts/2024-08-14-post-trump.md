@@ -1,6 +1,6 @@
 ---
 tags: current-events
-title: "The GOP After Trump"
+title: The GOP after Trump
 date: 2024-08-14
 ---
 

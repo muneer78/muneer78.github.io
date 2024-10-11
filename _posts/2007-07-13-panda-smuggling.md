@@ -1,6 +1,6 @@
 ---
 date: 2007-07-13
-title: Panda Smuggling
+title: Panda smuggling
 tags: thoughts
 ---
 

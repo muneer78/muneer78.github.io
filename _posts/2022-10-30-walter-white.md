@@ -1,6 +1,6 @@
 ---
 date: 2022-10-30
-title: Walter White
+title: Walter White is so toxic
 tags: funny
 ---
 

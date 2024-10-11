@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Renting People
+title: Renting people
 date: 2017-06-14
 ---
 

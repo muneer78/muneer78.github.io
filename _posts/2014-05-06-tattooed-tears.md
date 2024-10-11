@@ -1,6 +1,6 @@
 ---
 date: 2014-05-06
-title: Tattooed Tears
+title: Tattooed tears
 tags: thoughts
 ---
 

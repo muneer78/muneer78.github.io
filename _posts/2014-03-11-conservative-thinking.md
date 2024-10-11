@@ -1,6 +1,6 @@
 ---
 tags: politics
-title: Conservative Thinking
+title: Conservative thinking
 date: 2014-03-11
 ---
 

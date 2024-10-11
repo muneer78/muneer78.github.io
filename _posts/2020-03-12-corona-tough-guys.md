@@ -1,6 +1,6 @@
 ---
 date: 2020-03-12
-title: Corona Tough Guys
+title: Corona tough guys
 tags: current-events
 ---
 

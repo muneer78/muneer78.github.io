@@ -1,6 +1,6 @@
 ---
 date: 2019-07-23
-title: Best Type Of Story
+title: Best type of story
 tags: funny
 ---
 

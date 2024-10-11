@@ -1,6 +1,6 @@
 ---
 date: 2018-09-20
-title: Fitzpatrick's Second Career
+title: Fitzpatrick's second career
 tags: funny, sports
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2013-06-14
-title: The African Diamond Affair
+title: THe African Diamond Affair
 tags: law, stories
 ---
 

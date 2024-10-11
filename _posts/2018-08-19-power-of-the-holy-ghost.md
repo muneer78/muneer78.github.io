@@ -1,6 +1,6 @@
 ---
 date: 2018-08-19
-title: Power Of The Holy Ghost
+title: Power of the holy ghost
 tags: video, religion
 ---
 

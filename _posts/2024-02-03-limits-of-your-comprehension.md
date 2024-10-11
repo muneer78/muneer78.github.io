@@ -1,6 +1,6 @@
 ---
 date: 2024-02-03
-title: Limits Of Your Comprehension
+title: Limits of your comprehension
 tags: funny
 ---
 

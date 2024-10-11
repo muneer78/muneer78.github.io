@@ -1,6 +1,6 @@
 ---
 date: 2013-06-02
-title: Send Me Cash And I'll Send You More Cash
+title: Send me cash and I'll send you more cash
 tags: law, stories
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2024-03-02
-title: Ghost Story
+title: Ghost story
 tags: stories, tumblr
 ---
 

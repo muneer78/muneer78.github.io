@@ -1,6 +1,6 @@
 ---
 date: 2024-05-05
-title: Tooth Fairy
+title: Tooth fairy
 tags: absurdist
 ---
 

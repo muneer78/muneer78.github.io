@@ -1,6 +1,6 @@
 ---
 date: 2023-09-11
-title: "Who Are You?"
+title: Who are you?
 tags: great-lines
 ---
 

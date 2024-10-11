@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Silver Linings
+title: Silver linings
 date: 2024-08-07
 ---
 

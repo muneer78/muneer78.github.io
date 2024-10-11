@@ -1,6 +1,6 @@
 ---
 tags: work
-title: "Hustle Culture"
+title: Hustle culture
 date: 2022-11-17
 ---
 

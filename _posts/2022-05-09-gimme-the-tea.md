@@ -1,6 +1,6 @@
 ---
 date: 2022-05-09
-title: Gimme The Tea
+title: Gimme the tea
 tags: memes
 ---
 

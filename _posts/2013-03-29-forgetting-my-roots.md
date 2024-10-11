@@ -1,6 +1,6 @@
 ---
 date: 2013-03-29
-title: Forgetting My Roots
+title: Forgetting my roots
 tags: thoughts
 ---
 

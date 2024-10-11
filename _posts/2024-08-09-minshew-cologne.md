@@ -1,6 +1,6 @@
 ---
 tags: sports
-title: "Minshew Cologne"
+title: Minshew cologne
 date:  2024-08-09
 ---
 

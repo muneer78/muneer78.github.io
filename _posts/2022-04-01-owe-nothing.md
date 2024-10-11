@@ -1,6 +1,6 @@
 ---
 tags: work
-title: "Owe Nothing"
+title: Owe nothing
 date: 2022-04-01
 ---
 

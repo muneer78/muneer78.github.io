@@ -1,6 +1,6 @@
 ---
 date: 2013-02-21
-title: 6 Insane True Stories More Badass Than Any Action Movie
+title: 6 insane true stories more badass than any action movie
 tags: great-lines
 ---
 

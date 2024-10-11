@@ -1,6 +1,6 @@
 ---
 date: 2024-07-24
-title: Kareem On Trump
+title: Kareem on Trump
 tags: great-lines, current-events
 ---
 

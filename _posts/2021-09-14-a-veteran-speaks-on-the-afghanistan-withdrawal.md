@@ -1,6 +1,6 @@
 ---
 date: 2021-09-14
-title: A Veteran Speaks On The Afghanistan Withdrawal
+title: A veteran speaks on the afghanistan withdrawal
 tags: politics
 ---
 

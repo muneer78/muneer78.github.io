@@ -1,6 +1,6 @@
 ---
 date: 2017-09-29
-title: Football Players Buy Xbox For Kid Wearing A Kaepernick Jersey
+title: Football players buy XBOX for kid wearing a Kaepernick jersey
 tags: uplifting, sports
 ---
 

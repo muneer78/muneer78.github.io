@@ -1,6 +1,6 @@
 ---
 tags: current-events
-title: "Christian Nationalists Crazy About Trump"
+title: "christian nationalists crazy about trump"
 date: 2024-08-24
 ---
 

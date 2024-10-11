@@ -1,6 +1,6 @@
 ---
 date: 2023-10-07
-title: Arbitrary Rules
+title: Arbitrary rules
 tags: thoughts
 ---
 

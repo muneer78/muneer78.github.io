@@ -1,6 +1,6 @@
 ---
 date: 2020-12-30
-title: "The Best NBA Nickname"
+title: The best NBA nickname
 tags: sports
 ---
 

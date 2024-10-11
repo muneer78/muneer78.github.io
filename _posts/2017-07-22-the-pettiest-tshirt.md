@@ -1,6 +1,6 @@
 ---
 date: 2017-07-22
-title: The Pettiest T-Shirt
+title: The pettiest t-shirt
 tags: sports
 ---
 

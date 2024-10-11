@@ -1,6 +1,6 @@
 ---
 date: 2021-11-25
-title: Dill Pickle Pie
+title: Dill pickle pie
 tags: absurdist
 ---
 

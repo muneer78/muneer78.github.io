@@ -1,6 +1,6 @@
 ---
 date: 2018-12-10
-title: Wise Words
+title: Wise words
 tags: funny
 ---
 

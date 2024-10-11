@@ -1,6 +1,6 @@
 ---
 tags: great-lines, sports
-title: Chiefs Criminal
+title: Chiefs criminal
 date: 2024-02-01
 ---
 

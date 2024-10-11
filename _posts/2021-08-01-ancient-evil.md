@@ -1,6 +1,6 @@
 ---
 tags: absurd
-title: "Ancient Evil"
+title: Ancient evil
 date: 2021-08-01
 ---
 

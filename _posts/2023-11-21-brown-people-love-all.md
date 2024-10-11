@@ -1,6 +1,6 @@
 ---
 date: 2023-11-21
-title: Brown People Love All
+title: Brown people love all
 tags: uplifting
 ---
 

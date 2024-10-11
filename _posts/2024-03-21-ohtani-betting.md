@@ -1,6 +1,6 @@
 ---
 tags: gambling
-title: Calcaterra on the Ohtani Betting Scandal
+title: Calcaterra on the Ohtani betting scandal
 date: 2024-03-21
 ---
 

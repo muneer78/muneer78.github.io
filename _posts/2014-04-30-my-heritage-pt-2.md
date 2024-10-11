@@ -1,6 +1,6 @@
 ---
 date: 2014-04-30
-title: "My Heritage, Pt. 2"
+title: My heritage, Pt. 2
 tags: thoughts
 ---
 

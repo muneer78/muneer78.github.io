@@ -1,6 +1,6 @@
 ---
 tags: sports, gambling
-title: The Fake Cricket League
+title: The fake cricket league
 date: 2024-09-08
 ---
 

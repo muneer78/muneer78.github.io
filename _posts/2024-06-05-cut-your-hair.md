@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Cut Your Hair
+title: Cut your hair
 date: 2024-06-05
 ---
 

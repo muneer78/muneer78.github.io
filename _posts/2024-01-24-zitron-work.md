@@ -1,6 +1,6 @@
 ---
 tags: great-lines, work
-title: "Ed Zitron On Work"
+title: Ed Zitron on work
 date: 2024-01-24
 ---
 

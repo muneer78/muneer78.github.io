@@ -1,6 +1,6 @@
 ---
 date: 2021-08-05
-title: Going Back To High School
+title: Going back to high school
 tags: thoughts
 ---
 

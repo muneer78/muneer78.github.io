@@ -1,6 +1,6 @@
 ---
 tags: great-lines
-title: "Nothing To Prove"
+title: Nothing to prove
 date: 2017-09-14
 ---
 

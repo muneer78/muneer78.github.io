@@ -1,7 +1,7 @@
 ---
 tags: current-events
 date: 2016-11-09
-title: Trump Disagreement
+title: Trump disagreement
 ---
 
 I found this on Metafilter. It’s petty, but this a time for it. Please let me know what happens if you try this:

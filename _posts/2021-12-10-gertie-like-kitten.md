@@ -1,6 +1,6 @@
 ---
 tags: animals
-title: "Gertie Like Kitten"
+title: Gertie like kitten
 date: 2021-12-10
 ---
 

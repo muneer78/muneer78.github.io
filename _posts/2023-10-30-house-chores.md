@@ -1,6 +1,6 @@
 ---
 date: 2023-10-30
-title: House Chores
+title: House chores
 tags: thoughts
 ---
 

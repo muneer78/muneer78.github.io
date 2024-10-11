@@ -1,6 +1,6 @@
 ---
 date: 2007-05-06
-title: My Hatred Of The French
+title: My hatred of the French
 tags: stories
 ---
 

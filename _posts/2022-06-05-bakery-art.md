@@ -1,6 +1,6 @@
 ---
 tags: absurd
-title: "Bakery Art"
+title: Bakery Art
 date: 2022-06-05
 ---
 

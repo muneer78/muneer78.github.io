@@ -1,6 +1,6 @@
 ---
 date: 2020-09-01
-title: "Boyz II Men"
+title: Boyz II Men
 tags: memes
 ---
 

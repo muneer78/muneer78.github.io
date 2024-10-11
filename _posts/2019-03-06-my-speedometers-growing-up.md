@@ -1,6 +1,6 @@
 ---
 date: 2019-03-06
-title: My Speedometer's Growing Up
+title: My speedometer's growing up
 tags: thoughts
 ---
 

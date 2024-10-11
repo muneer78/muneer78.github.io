@@ -1,6 +1,6 @@
 ---
 date: 2021-09-18
-title: Drama King
+title: Drama king
 tags: memes
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2021-06-19
-title: San Jose Sharks Celebrate Juneteenth
+title: San Jose Sharks celebrate Juneteenth
 tags: sports
 ---
 

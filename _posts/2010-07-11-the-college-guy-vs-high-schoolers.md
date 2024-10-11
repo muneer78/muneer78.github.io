@@ -1,6 +1,6 @@
 ---
 date: 2010-07-11
-title: The College Guy Vs High Schoolers
+title: The college guy vs high schoolers
 tags: sports
 ---
 
