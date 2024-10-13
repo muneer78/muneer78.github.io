@@ -1,6 +1,6 @@
 ---
 date: 2017-10-03
-title: Well Worn Wisdom
+title: Well worn wisdom
 tags: funny
 layout: post
 ---

@@ -1,6 +1,6 @@
 ---
 date: 2018-10-10
-title: Becoming A Man
+title: Becoming a man
 tags: thoughts
 layout: post
 ---

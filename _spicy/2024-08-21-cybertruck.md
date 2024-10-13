@@ -1,6 +1,6 @@
 ---
 tags: sex
-title: "Cybertruck"
+title: Cybertruck
 date: 2024-08-21
 layout: post
 ---

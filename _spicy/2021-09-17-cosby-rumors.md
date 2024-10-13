@@ -1,6 +1,6 @@
 ---
 tags: funny
-title: "Cosby Rumors"
+title: Cosby rumors
 date: 2021-09-17
 layout: post
 ---

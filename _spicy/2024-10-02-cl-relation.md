@@ -1,7 +1,7 @@
 ---
 tags: sex
 date: 2024-10-02
-title: Cragislist Relationship Snippets
+title: Cragislist relationship snippets
 layout: post
 ---
 

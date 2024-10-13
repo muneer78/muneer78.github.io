@@ -1,6 +1,6 @@
 ---
 tags: funny
-title: "Husband Is Here"
+title: Husband is here
 date: 2024-08-09
 layout: post
 ---

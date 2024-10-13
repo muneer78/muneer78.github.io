@@ -1,7 +1,7 @@
 ---
 date: 2022-07-17
 layout: post
-title: 10 Year Old's Idea of Erotica
+title: 10 year old's idea of erotica
 tags: sex
 ---
 

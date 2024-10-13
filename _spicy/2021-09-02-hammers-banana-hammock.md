@@ -1,6 +1,6 @@
 ---
 date: 2021-09-02
-title: Hammer's Banana Hammock
+title: Hammer's banana hammock
 tags: memes
 layout: post
 ---

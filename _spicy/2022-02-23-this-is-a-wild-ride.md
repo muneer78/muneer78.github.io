@@ -1,6 +1,6 @@
 ---
 date: 2022-02-23
-title: This Is A Wild Ride
+title: This is a wild ride
 tags: funny
 layout: post
 ---

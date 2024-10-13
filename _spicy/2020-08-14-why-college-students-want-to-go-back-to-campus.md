@@ -1,6 +1,6 @@
 ---
 date: 2020-08-14
-title: Why College Students Want To Go Back To Campus
+title: Why college students want to go back to campus
 tags: sex, indepth
 layout: post
 ---

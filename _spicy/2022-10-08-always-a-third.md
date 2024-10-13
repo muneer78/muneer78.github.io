@@ -1,6 +1,6 @@
 ---
 tags: video, religion
-title: Always A Third
+title: Always a third
 date: 2022-10-08
 layout: post
 ---

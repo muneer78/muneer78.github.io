@@ -1,6 +1,6 @@
 ---
 date: 2015-12-31
-title: Do They Hang Around Rich Guys As A Job
+title: Do they hang around rich guys as a job?
 tags: women, indepth
 layout: post
 ---

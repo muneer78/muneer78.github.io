@@ -1,6 +1,6 @@
 ---
 date: 2020-11-13
-title: A Most Ingenious Loophole
+title: A most ingenious loophole
 tags: current-events
 layout: post
 ---

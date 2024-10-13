@@ -1,7 +1,7 @@
 ---
 tags: sex
 date: 2024-10-02
-title: Reddit Sex Snippets
+title: Reddit sex snippets
 layout: post
 ---
 

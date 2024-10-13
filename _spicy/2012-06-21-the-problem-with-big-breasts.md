@@ -1,6 +1,6 @@
 ---
 date: 2012-06-21
-title: The Problem With Big Breasts
+title: The problem with big breasts
 tags: women, indepth
 layout: post
 ---

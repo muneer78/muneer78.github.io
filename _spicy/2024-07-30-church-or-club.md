@@ -1,6 +1,6 @@
 ---
 date: 2024-07-30
-title: Church Or Club
+title: Church or club
 tags: memes, religion
 layout: post
 ---
