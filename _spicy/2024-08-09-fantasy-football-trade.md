@@ -1,6 +1,6 @@
 ---
 tags: sports
-title: "Fantasy Football Trade"
+title: Fantasy football trade        
 date: 2024-08-09
 layout: post
 ---
