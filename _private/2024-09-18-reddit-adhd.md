@@ -1,7 +1,7 @@
 ---
 date: 2024-09-18
 tags: adhd
-title: Reddit ADHD Snippets
+title: Reddit ADHD snippets
 layout: post
 ---
 

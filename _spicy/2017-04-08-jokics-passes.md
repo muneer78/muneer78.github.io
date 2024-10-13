@@ -1,6 +1,6 @@
 ---
 date: 2017-04-08
-title: Jokic's Passes
+title: Jokic's passes
 tags: sports, great-lines
 layout: post
 ---

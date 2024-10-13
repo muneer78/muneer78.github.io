@@ -1,6 +1,6 @@
 ---
 date: 2014-06-18
-title: Insecure Woman Tells Other Women To Cover It Up
+title: Insecure woman tells other women to cover it up
 tags: religion, women
 layout: post
 ---

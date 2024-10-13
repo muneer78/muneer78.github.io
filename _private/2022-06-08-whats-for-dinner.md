@@ -1,6 +1,6 @@
 ---
 date: 2022-06-08
-title: What's For Dinner?
+title: What's for dinner?
 tags: stories, parentification, bad-parents
 ---
 

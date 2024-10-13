@@ -1,6 +1,6 @@
 ---
 date: 2023-09-03
-title: "TIFU By Encouraging Female Ejaculation"
+title: TIFU by encouraging female ejaculation
 tags: sex, reddit
 layout: post
 ---

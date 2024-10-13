@@ -1,6 +1,6 @@
 ---
 date: 2024-07-19
-title: "We Don't Have People"
+title: We don't have people
 tags: trauma
 layout: post
 ---

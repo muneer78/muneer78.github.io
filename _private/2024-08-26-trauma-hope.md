@@ -1,7 +1,7 @@
 ---
 tags: trauma, memes
 layout: post
-title: "Trauma Hope"
+title: Trauma hope
 date: 2024-08-26
 ---
 

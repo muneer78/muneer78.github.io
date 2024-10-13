@@ -1,6 +1,6 @@
 ---
 date: 2014-05-02
-title: Late Night Hotel
+title: Late night hotel
 tags: stories
 layout: post
 ---

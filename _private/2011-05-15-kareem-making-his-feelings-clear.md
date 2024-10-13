@@ -1,6 +1,6 @@
 ---
 date: 2011-05-15
-title: Kareem Making His Feelings Clear
+title: Kareem making his feelings clear
 tags: memes
 layout: post
 ---

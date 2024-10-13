@@ -1,7 +1,7 @@
 ---
 tags: bad-parents
 layout: post
-title: Mom Steals From Daughter And Then Gaslights
+title: Mom steals from daughter and then gaslights her
 date: 2024-02-01
 ---
 

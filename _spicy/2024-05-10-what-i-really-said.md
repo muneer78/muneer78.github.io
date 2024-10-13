@@ -1,6 +1,6 @@
 ---
 date: 2024-05-10
-title: What I Really Said
+title: What I really said
 tags: funny
 layout: post
 ---

@@ -1,6 +1,6 @@
 ---
 tags: great-lines
-title: Samantha Irby Reviews Judge Mathis
+title: Samantha Irby reviews Judge Mathis
 date: 2024-08-29
 layout: post
 ---

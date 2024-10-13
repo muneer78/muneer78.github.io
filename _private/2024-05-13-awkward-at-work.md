@@ -1,6 +1,6 @@
 ---
 date: 2024-05-13
-title: Awkward At Work
+title: Awkward at work
 tags: trauma, memes
 layout: post
 ---

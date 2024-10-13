@@ -1,6 +1,6 @@
 ---
 tags: memes
-title: "Whores Drugs"
+title: Don't feed the whores druga
 date: 2024-08-17
 layout: post
 ---

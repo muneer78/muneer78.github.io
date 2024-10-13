@@ -1,6 +1,6 @@
 ---
 date: 2022-07-06
-title: Absolute Savagery
+title: Absolute savagery
 tags: great-lines
 layout: post
 ---

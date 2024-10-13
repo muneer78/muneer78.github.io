@@ -1,7 +1,7 @@
 ---
 tags: adhd
 date: 2024-09-29
-title: Meeting Yourself
+title: Meeting yourself
 layout: post
 ---
 

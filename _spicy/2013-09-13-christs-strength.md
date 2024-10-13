@@ -1,6 +1,6 @@
 ---
 date: 2013-09-13
-title: Christ's Strength
+title: Christ's strength
 tags: sex, memes
 layout: post
 ---

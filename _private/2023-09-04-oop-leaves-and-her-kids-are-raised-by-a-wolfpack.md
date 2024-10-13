@@ -1,6 +1,6 @@
 ---
 date: 2023-09-04
-title: OOP Leaves And Her Kids Are Raised By A Wolfpack
+title: OOP leaves and her kids are raised by a wolfpack
 tags: stories
 layout: post
 ---

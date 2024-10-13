@@ -1,7 +1,7 @@
 ---
 tags: women
 date: 2010-12-10
-title: Playboy Nipples
+title: Playboy nipples
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2022-06-01
-title: Butthole Pics
+title: Butthole pics
 tags: funny, sex
 layout: post
 ---

@@ -1,6 +1,6 @@
 ---
 date: 2024-10-06
-title: Every Hole
+title: Every hole
 tags: memes
 layout: post
 ---

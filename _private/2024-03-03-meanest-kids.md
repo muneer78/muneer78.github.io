@@ -1,6 +1,6 @@
 ---
 date: 2024-03-03
-title: Meanest Kids
+title: Meanest kids
 tags: parentification
 layout: post
 ---

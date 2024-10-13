@@ -1,6 +1,6 @@
 ---
 tags: sex
-title: Sexual Bondage and Firemen
+title: Sexual bondage and firemen
 date: 2009-11-21
 layout: post
 ---

@@ -1,6 +1,6 @@
 ---
 tags: memes
-title: "Whore Family"
+title: Whore family
 date:  2024-01-29
 layout: post
 ---

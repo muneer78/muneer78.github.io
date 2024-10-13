@@ -1,6 +1,6 @@
 ---
 date: 2013-08-06
-title: False Accusation
+title: False accusation
 tags: personal
 layout: post
 ---

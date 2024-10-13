@@ -2,6 +2,7 @@
 tags: funny, stories
 date: 2024-09-15
 layout: post
+title: Timely advice
 ---
 
 Since my sister in law writes erotica, the subject of menage a trois came up at dinner last night. My nephew asked what it meant. 

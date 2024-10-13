@@ -1,7 +1,7 @@
 ---
 tags: adhd
 layout: post
-title: "ADHD Trouble"
+title: ADHD trouble
 date: 2024-08-25
 ---
 

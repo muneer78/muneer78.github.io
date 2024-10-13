@@ -1,7 +1,7 @@
 ---
 date: 2024-03-12
 layout: post
-title: Not Remembering
+title: Not remembering
 tags: adhd
 ---
 

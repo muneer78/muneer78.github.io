@@ -1,6 +1,6 @@
 ---
 date: 2023-09-04
-title: Indian Daughter Not Taking Parents' Crap Anymore
+title: Indian daughter not taking parents' crap anymore
 tags: stories, reddit, bad-parents
 layout: post
 ---

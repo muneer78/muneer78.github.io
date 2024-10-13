@@ -2,7 +2,7 @@
 tags: trauma, bad-parents
 date: 2021-07-15
 layout: post
-title: Wil Wheaton on His Dad
+title: Wil Wheaton on his dad
 ---
 
 ### No child deserves to be treated the way the man who was my father treated me.

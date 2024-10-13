@@ -1,7 +1,7 @@
 ---
 tags: religion
 date: 2024-10-02
-title: Pro Lifers
+title: Pro-Lifers
 layout: post
 ---
 

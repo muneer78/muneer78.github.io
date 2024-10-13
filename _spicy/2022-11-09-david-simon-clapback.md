@@ -1,6 +1,6 @@
 ---
 tags: funny
-title: David Simon Clapback
+title: David Simon clapback
 date: 2022-11-09
 layout: post
 ---

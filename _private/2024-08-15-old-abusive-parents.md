@@ -1,7 +1,7 @@
 ---
 tags: bad-parents
 layout: post
-title: Old, Abusive Parents
+title: Old, abusive parents
 date: 2024-08-15
 ---
 

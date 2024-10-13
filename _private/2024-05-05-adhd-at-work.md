@@ -1,6 +1,6 @@
 ---
 date: 2024-05-05
-title: ADHD At Work
+title: ADHD at work
 tags: adhd, memes
 layout: post
 ---

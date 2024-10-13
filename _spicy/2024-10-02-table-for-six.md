@@ -1,7 +1,7 @@
 ---
 tags: sex
 date: 2024-10-02
-title: My Excellent Adventure with "Table for Six"
+title: My excellent adventure with "Table for Six"
 layout: post
 ---
 

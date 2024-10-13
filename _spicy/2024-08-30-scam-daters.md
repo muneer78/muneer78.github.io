@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: Scam Daters
+title: Scam daters
 date: 2024-08-30
 layout: post
 ---

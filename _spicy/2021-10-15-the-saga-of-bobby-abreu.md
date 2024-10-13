@@ -1,6 +1,6 @@
 ---
 date: 2021-10-15
-title: The Saga Of Bobby Abreu
+title: The Saga of Bobby Abreu
 tags: sports
 layout: post
 ---

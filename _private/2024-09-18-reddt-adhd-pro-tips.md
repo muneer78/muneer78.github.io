@@ -1,6 +1,6 @@
 ---
 tags: adhd
-title: ADHD Pro Tips from Reddit
+title: ADHD pro tips from Reddit
 layout: post
 date: 2024-09-18
 ---

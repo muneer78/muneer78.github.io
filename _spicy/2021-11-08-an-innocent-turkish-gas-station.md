@@ -1,6 +1,6 @@
 ---
 date: 2021-11-08
-title: An Innocent Turkish Gas Station
+title: An innocent Turkish gas station
 tags: travel, racism
 layout: post
 ---

@@ -1,6 +1,6 @@
 ---
 date: 2009-09-07
-title: Communication Is The Key
+title: Communication is the key
 tags: relationships, video
 layout: post
 ---

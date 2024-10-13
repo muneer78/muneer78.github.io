@@ -1,6 +1,6 @@
 ---
 tags: women
-title: The Precursor to Feral
+title: The precursor to feral
 date: 2022-07-17
 layout: post
 ---

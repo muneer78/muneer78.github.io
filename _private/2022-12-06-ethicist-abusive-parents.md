@@ -1,7 +1,7 @@
 ---
 tags: bad-parents
 layout: post
-title: The NYTimes Ethicist on Abusive Parents
+title: The NY Times Ethicist on abusive parents
 date: 2022-12-06
 ---
 

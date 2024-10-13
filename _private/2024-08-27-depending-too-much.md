@@ -1,7 +1,7 @@
 ---
 tags: trauma, memes
 layout: post
-title: "Depending Too Much"
+title: Depending too much
 date: 2024-08-27
 ---
 

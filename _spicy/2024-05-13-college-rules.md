@@ -1,6 +1,6 @@
 ---
 tags: thoughts
-title: College Rules
+title: College rules
 date: 2024-05-13
 layout: post
 ---
