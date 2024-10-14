@@ -1,4 +1,4 @@
-—-
+---
 tags: thoughts
 title: Slabbed cards
 date: 2024-10-13
