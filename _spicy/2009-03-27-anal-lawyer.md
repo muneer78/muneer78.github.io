@@ -1,6 +1,6 @@
 ---
 date: 2009-03-27
-title: Lawyer Named Anal
+title: Lawyer named Anal
 tags: law
 layout: post
 ---
