@@ -1,7 +1,7 @@
 ---
 tags: sports, great-lines
 date: 2024-09-19
-title: The First Jaguars Junction
+title: Justice in this world
 ---
 
 I love Hamilton Nolan's writing.

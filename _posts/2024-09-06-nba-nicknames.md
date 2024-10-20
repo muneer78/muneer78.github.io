@@ -1,6 +1,6 @@
 ---
 date: 2024-09-06
-title: "NBA Nicknames"
+title: NBA nicknames
 tags: sports, funny
 ---
 

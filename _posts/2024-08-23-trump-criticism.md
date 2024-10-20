@@ -1,6 +1,6 @@
 ---
 tags: current-events
-title: "Trump getting flustered by criticism"
+title: Trump getting flustered by criticism
 date: 2024-08-23
 ---
 

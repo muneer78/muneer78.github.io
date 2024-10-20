@@ -1,10 +1,10 @@
 ---
 tags: current-events
-title: "trump struggling to adapt"
+title: Trump struggling to adapt
 date: 2024-08-24
 ---
 
-In the least surprising news to date, Trump is lazy, undisciplined, and complaining about how unfair this election is. When him and his supporters talk about "easily triggered liberal snowflakes", it's a whole of projection.
+In the least surprising news to date, Trump is lazy, undisciplined, and complaining about how unfair this election is. When him and his supporters talk about easily triggered liberal snowflakes, it's a whole of projection.
 
 [Trump allies try to energize him as he struggles to adapt to Harris](https://www.washingtonpost.com/politics/2024/08/24/trump-energy-campaign-harris/):
 

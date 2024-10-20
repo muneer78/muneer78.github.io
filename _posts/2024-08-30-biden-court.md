@@ -1,6 +1,6 @@
 ---
 tags: current-events
-title: "biden's court reform proposals"
+title: Biden's court reform proposals
 date: 2024-08-30
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: current-events
-title: "trump planning next insurrection"
+title: Trump is planning next insurrection
 date: 2024-08-16
 ---
 

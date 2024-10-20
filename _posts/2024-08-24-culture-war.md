@@ -1,6 +1,6 @@
 ---
 tags: current-events
-title: "Losing the Culture Wars"
+title: Losing the culture wars
 date: 2024-08-24
 ---
 

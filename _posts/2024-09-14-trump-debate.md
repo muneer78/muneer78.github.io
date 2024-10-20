@@ -1,6 +1,7 @@
 ---
 tags: current-events
 date: 2024-09-14
+title: Trump debate
 ---
 
 There are so many articles about Trump's utter failure at the debate. These are some of my favs:

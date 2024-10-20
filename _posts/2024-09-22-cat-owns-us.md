@@ -1,6 +1,6 @@
 ---
 tags: animals
-title: "cat owns us"
+title: Cat owns us
 date: 2024-09-22
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: funny
-title: "Buzz Aldrin Story"
+title: Buzz Aldrin story
 date:  2024-09-22
 ---
 
