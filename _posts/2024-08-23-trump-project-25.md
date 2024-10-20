@@ -1,6 +1,6 @@
 ---
 tags: current-events
-title: "Trump Trying To Deny Project 2025"
+title: Trump trying to deny Project 2025
 date: 2024-08-23
 ---
 

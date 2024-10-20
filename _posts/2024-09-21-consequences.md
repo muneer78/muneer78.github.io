@@ -1,6 +1,6 @@
 ---
 tags: great-lines
-title: "consequences"
+title: Consequences
 date: 2024-09-21
 ---
 

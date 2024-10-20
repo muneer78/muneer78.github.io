@@ -1,6 +1,6 @@
 ---
 date: 2017-05-13
-title: The Ballad Of The Whiskey Robber
+title: The Ballad of the Whiskey Robber
 tags: great-lines, books
 ---
 
