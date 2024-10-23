@@ -1,0 +1,24 @@
+---
+date: 2024-10-22
+title: Raised by narcissists
+tags: bad-parent, trauma
+layout: post
+---
+
+[23 Things Only People Who Were Raised By Narcissistic Parents Will Understand](https://thoughtcatalog.com/shahida-arabi/2023/08/23-things-only-people-who-were-raised-by-narcissistic-parents-will-understand/):
+
+> You were an adult before you ever got to be a child – and now, you sometimes still feel like a child in an adult’s body. You may have grown up being told that you were very “mature” for your age. People often comment on how you seem to have wisdom beyond your years. Yet as an adult you find yourself still feeling like a child at times. That’s because as a kid, you were simultaneously infantilized and parentified. Narcissistic parents demean their children into feeling like they can’t venture out into the world on their own without their help to keep them dependent on them; on the other hand, they also shoulder their children with the burden of being parents to their parents.
+>
+> This parentification trains young children to manage the emotions of their parents while also failing to meet their basic developmental needs. As an adult, you’re a natural caretaker. You “picked up” after the adults in your life, tending to their issues at a young age, ensuring they were taken care of.
+
+> You’re extremely resourceful – because you had to be. When it comes to confronting life’s obstacles, you’re a talented MacGyver at inventing creative solutions – you can essentially turn anything into gold. That’s because you had to transform all the crises of your childhood into opportunities for survival. This can be an adaptive trauma response that guides you through life’s adversity in adulthood.
+
+> You’re hypervigilant – to everything. At the same time, you’d make a great FBI agent or detective. You may feel like you’re always on alert for what’s around the corner. That’s because your childhood trained you to pick up on subtle signs that chaos was about to ensue – the sound of your father’s footsteps may have clued you in as to when he was about to rage, or the shrill shriek of your sibling may have alerted you to abuse going on in the next room. You are especially adept at reading microexpressions, shifts in tone, gestures, and nonverbal cues. This hyper-attunement to danger can serve as a superpower that helps you identify red flags and toxic people – but it can also be exhausting to be so attentive to everything at all times.
+>
+> You dissociate more often than you’d like. If you have unprocessed trauma, it’s likely that you dissociate more than the average person. That’s because ongoing complex trauma has trained your brain to escape from reality as a survival mechanism. You may also find yourself turning to activities that enhance that dissociation. Whether it’s binge-watching television, losing yourself for days in books, or feeling like you’ve lost time and memories altogether, you feel detached from yourself or your surroundings.
+
+> You have a hard time asking for help. You rely heavily on self-soothing because you had to be a parent at a young age – to yourself. You essentially raised yourself (and any younger siblings) because one or more of your parents lacked the emotional equipment to do so. This means you had to soothe yourself after witnessing rage attacks, endured the pain of watching how deflated your emotionally abused parent became, and experienced some of the verbal and emotional abuse yourself when you were the target of attack.  As an adult, this means you’re less likely to ask for help even during the worst moments of your life because you learned that you had to do everything yourself.
+> 
+> You have an interesting relationship with parenthood. Some adult children of narcissists fast-forward into marriage and parenthood, considered the traditional “milestones” of adulthood because they want to make up for the mistakes of their parents and experience the healthy, functional family they never experienced. Others opt out or delay parenthood altogether because they fear passing down generational trauma or feel like they’ve already done enough “parenting” by taking on adult responsibilities in childhood.
+
+> You’ve always wanted to have a “normal life.” One of your deepest desires was to feel normal and to have a “normal” childhood and life. But because of your upbringing, you may feel separate and different from others, especially those who had supportive parents. It’s worth mentioning that many adult children of narcissists can and do channel their trauma into success and joy and can end up living extraordinary lives – better than any type of “normal” they could have ever dreamed. Yet it’s still worth validating the sacrifices they were forced to make to get there.
