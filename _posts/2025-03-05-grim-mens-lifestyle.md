@@ -13,7 +13,7 @@ After hearing about the grim men's lifestyle, I have a way to describe how I fel
 
 ---
 
-[Paul Pierce Does Not Regret Grim Men's Evening, Embraces Grim Men's Lifestyle | Defector](https://defector.com/paul-pierce-does-not-regret-grim-mens-evening-embraces-grim-mens-lifestyle):
+[Paul Pierce Does Not Regret Grim Men's Evening, Embraces Grim Men's Lifestyle](https://defector.com/paul-pierce-does-not-regret-grim-mens-evening-embraces-grim-mens-lifestyle):
 
 > Maybe you would have regrets about getting stupendously drunk one night and then hopping on Instagram Live so that thousands of people could watch you paw at your own glassy eyes while forcing various ladies and dudes into desultory interactions with you, but that is only because you are not as committed to living life in the grimmest possible terms. You, my friend, are not grimpilled.
 
@@ -29,7 +29,7 @@ After hearing about the grim men's lifestyle, I have a way to describe how I fel
 
 ---
 
-[Paul Pierce Had A Grim Men's Cake For His Birthday | Defector](https://defector.com/paul-pierce-had-a-grim-mens-cake-for-his-birthday):
+[Paul Pierce Had A Grim Men's Cake For His Birthday](https://defector.com/paul-pierce-had-a-grim-mens-cake-for-his-birthday):
 
 > It's been 17 months since ESPN fired Paul Pierce for jumping on Instagram Live to show the world the devastating nature of his home life.
 
@@ -39,7 +39,7 @@ After hearing about the grim men's lifestyle, I have a way to describe how I fel
 
 ---
 
-[Paul Pierce Traps Kevin Garnett In Grim Men's Livestream | Defector](https://defector.com/paul-pierce-traps-kevin-garnett-in-grim-mens-livestream):
+[Paul Pierce Traps Kevin Garnett In Grim Men's Livestream](https://defector.com/paul-pierce-traps-kevin-garnett-in-grim-mens-livestream):
 
 > This is not a man who just occasionally stumbles into a brutal night of masculine reverie by chance, but one who is deeply committed to the lifestyle. Pierce does not find his way into a grim men's evening; he inflicts one upon whatever place he happens to be.
 
@@ -51,7 +51,7 @@ After hearing about the grim men's lifestyle, I have a way to describe how I fel
 
 ---
 
-[Doug Gottlieb Is Immersed In The Grim Men's Lifestyle | Defector](https://defector.com/doug-gottlieb-is-immersed-in-the-grim-mens-lifestyle)
+[Doug Gottlieb Is Immersed In The Grim Men's Lifestyle](https://defector.com/doug-gottlieb-is-immersed-in-the-grim-mens-lifestyle)
 
 >> As for the perception that a coach fails unless he’s grinding on tape from dark to dark, Gottlieb counters with this: He’s divorced. He lives alone in a former Vrbo he bought fully furnished so he could move in the same day. His biggest chore is keeping a seven-month-old Sheepadoodle from eating chicken out of the garbage.
 
