@@ -58,8 +58,8 @@ After hearing about the grim men's lifestyle, I have a way to describe how I fel
 >> The only personal items downstairs are a headset and a soundboard sitting on the bar, where he hosts his radio show, and a few half-empty liquor bottles scattered on the back bar.
 
 >> Moreover, Gottlieb is divorced and his kids are in Oklahoma, so right now "there aren't demands on being home for family," he says. He says he uses what would be family time to pour back into his program when they aren't around, and he says it in a way that spills out with a sense of dejection, revealing the emotional tax he's paying of being nearly 1,000 miles away from his twin daughters, Harper and Grace, and his son, Hayes.
-
-> "That's the hardest part," Gottlieb said. "It sucks."
+>>
+>> "That's the hardest part," Gottlieb said. "It sucks."
 
 >> "Let all negativity be gone forever," he says in a droning, sober tone. It's a dramatic shift from his bombastic delivery and over-the-top energy he brings to his daily radio show. "Bring love and happiness and protection to this house, and myself." 
 >>
