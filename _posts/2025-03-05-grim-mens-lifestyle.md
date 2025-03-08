@@ -1,6 +1,6 @@
 ---
 date: 2025-02-26
-title: Grim mem's lifestyle
+title: Grim men's lifestyle
 tags: life
 layout: post
 ---
