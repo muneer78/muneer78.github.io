@@ -1,11 +1,23 @@
 ---
 tags: great-lines
 title: Samantha Irby reviews Judge Mathis
-date: 2024-08-29
+date: 2025-03-30
 layout: post
 ---
 
 Samantha Irby's reviews of Judge Mathis episodes are a national treasure:
+
+[292](https://bitchesgottaeat.substack.com/p/whos-on-judge-mathis-today-292):
+
+> i will learn the algebraic equations of incarceration when and if it ever becomes a direct threat to my free will!!!!!
+
+> jonathan interjects, “i only felt like that because i was worried someone was tapping the booty. i wanted to get back out and get back to my booty.” AND THEY SAY ROMANCE IS DEAD!!!!!!!!! greg clocks jonathan for gazing over at kimberly’s backside and says, “damn, it’s like that?!” and jonathan nods. it is indeed, as a matter ”of fact, like that.
+
+> this young man would like some arrears on kimberly’s, ahem, ar-rear...
+
+> 
+
+---
 
 [#286](https://bitchesgottaeat.substack.com/p/whos-on-judge-mathis-today-286):
 
