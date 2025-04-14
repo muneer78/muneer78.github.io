@@ -1,7 +1,7 @@
 ---
-date: 
-title: 
-tags: 
+date: 2025-04-10
+title: What It Feels Like
+tags: politics
 layout: post
 ---
 
