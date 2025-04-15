@@ -5,7 +5,7 @@ tags: sports
 layout: post
 ---
 
-This is a compilation of the best Chiefss comments from Drew Magary and others on Deadspin and Defector.
+This is a compilation of the best Chiefs comments from Drew Magary and others on Deadspin and Defector.
 
 [Why Your Team Sucks: Kansas City Chefs](https://deadspin.com/why-your-team-sucks-kansas-city-chefs-5352707/):
 
