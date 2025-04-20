@@ -1,0 +1,68 @@
+---
+title: "Links"
+layout: default
+permalink: /links/
+---
+
+<h1>Reading List</h1>
+
+<p>My reading list</p>
+
+<div class="toc">
+  <ul>
+    {% assign sorted_links = site.links | sort: 'title' %}
+    {% for link in sorted_links %}
+      <li>
+        <a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+        <span class="post-date">- {{ link.date | date: "%B %d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="posts">
+  {% for link in sorted_links %}
+    <article class="post">
+      <h1><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></h1>
+      <div class="entry">
+        {% if link.content != link.excerpt %}
+          {{ link.excerpt }}
+          <a href="{{ site.baseurl }}{{ link.url }}" class="read-more">Read More</a>
+        {% else %}
+          {{ link.content }}
+        {% endif %}
+      </div>
+    </article>
+  {% endfor %}
+</div>
+
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% endif %}
+  
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% endif %}
+</div>
+
+{% for link in site.data.navigation %}
+  <a class="page-link" href="{{ link.url }}">{{ link.title }}</a>
+{% endfor %}
+
+<style>
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.previous {
+  float: left;
+}
+.next {
+  float: right;
+}
+</style>
+
+
